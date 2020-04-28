@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:Newspaper="http://mappings.dbpedia.org/server/ontology/classes/Newspaper#"
+xmlns:Journalist="http://mappings.dbpedia.org/server/ontology/classes/Journalist#"
+xmlns:Article="http://mappings.dbpedia.org/server/ontology/classes/Article#"
+xmlns:WrittenWork="http://mappings.dbpedia.org/server/ontology/classes/WrittenWork#"
+xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+
+<rdf:Description rdf:about="Link dell'articolo">
+  <Newspaper:associateEditor>Editore Giornale?</Newspaper:associateEditor>
+  <Journalist:birthName>Mario Rossi</Journalist:birthName>
+  <Article:lastPublicationDate>Data pubblicazione</Article:lastPublicationDate>
+  <Article:literaryGenre>genere letterario</Article:literaryGenre>
+  <WrittenWork:originalTitle>titolo articolo?</WrittenWork:originalTitle>
+  <WrittenWork:productionCompany>Editore Giornale?</WrittenWork:productionCompany>
+  <WrittenWork:publisher>https://www.repubblica.it/index.html</WrittenWork:publisher>
+  <dc:publisher>La repubblica</dc:publisher>
+  <foaf:homepage>https://www.repubblica.it/index.html</foaf:homepage>
+  <foaf:topic>Cronaca</foaf:homepage>
+  <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Titolo Articolo</dc:title>
+</rdf:Description>
+
+</rdf:RDF>
