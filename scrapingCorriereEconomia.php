@@ -2,7 +2,6 @@
 
 $categoria = "economia";
 $editore ="RCS MediaGroup";
-$variabileSupp = 0;
 $urlHome='https://www.corriere.it/';
 
 $urlCorriere='https://www.corriere.it/'.$categoria. '';
@@ -53,7 +52,7 @@ for ($i=0;$i < $hrefs->length; $i++) {
 
    //Data
     $dataArt = strpos($urlArticoloTagliato, 'aprile');
-    $dataArticolo = substr($urlArticoloTagliato, 36,36);
+    $dataArticolo = substr($urlArticoloTagliato, $dataArt,36);
     $mese = substr($dataArticolo, 0,6);
     $giorno = substr($dataArticolo, 7,2);
     $dataCompleta = $giorno." ".$mese." "."2020";
@@ -228,7 +227,7 @@ for ($i=0;$i < $hrefs->length; $i++) {
 
 function creaDataset($dati){
 
-  $var = fopen("datasetCorriere.json", "a");
+  //$var = fopen("datasetCorriere.json", "a");
 
   $json = json_encode($dati);
   fwrite($var, $json);
