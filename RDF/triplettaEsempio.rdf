@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:np="http://mappings.dbpedia.org/server/ontology/classes/Newspaper#"
+xmlns:js="http://mappings.dbpedia.org/server/ontology/classes/Journalist#"
+xmlns:ww="http://mappings.dbpedia.org/server/ontology/classes/WrittenWork#"
+xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+
+
+ <!--Tripletta DEF -->
+<rdf:Description rdf:about="Link dell'articolo">
+     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+     <ww:originalTitle>Coronavirus : ci salveremo????</ww:originalTitle>
+     <dc:date>2020-04-29</dc:date>
+    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+     <js:birthName>
+        <foaf:Person>
+           <foaf:name>Roberto Saviano</foaf:name>
+         </foaf:Person>
+     </js:birthName>
+     <np:Newspaper rdf:resource="https://www.repubblica.it/index.html"></np:Newspaper>
+     <np:associateEditor>
+        <foaf:Person>
+            <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+        </foaf:Person>
+      </np:associateEditor>
+      <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+      <dc:format>text/html</dc:format>
+      <dc:language>it</dc:language>
+</rdf:Description>
+</rdf:RDF>
