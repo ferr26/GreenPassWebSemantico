@@ -1,6 +1,6 @@
 <?php
 
-$categoria = "sport";
+$categoria = "cronache";
 $editore ="RCS MediaGroup";
 $urlHome='https://www.corriere.it/';
 
@@ -15,8 +15,8 @@ $dom = new DOMDocument();
 @$dom->loadHTML($html);
 $xpath = new DOMXPath($dom);
 //*[@id="l-main"]/div/section/div/div/div[2]/div/div/div/h4/a/text()
-$hrefs = $xpath->evaluate("//div[@class='bck-media-news']/div[@class='media-news__content']//div[@class='media-content']");
-$hrefs1 = $xpath->evaluate("//div[@class='bck-media-news']/div[@class='media-news__content']//div[@class='media-content']//@href");
+$hrefs = $xpath->evaluate("//div[@class='bck-media-news']/div[@class='media-news__content']//a[@class='has-text-black']");
+$hrefs1 = $xpath->evaluate("//div[@class='bck-media-news']/div[@class='media-news__content']//a[@class='has-text-black']//@href");
 $hrefs2 = $xpath->evaluate("//div[@class='bck-media-news']/div[@class='media-news__content']//div[@class='media-content']//span");
 
 
@@ -28,7 +28,6 @@ for ($i=0;$i < $hrefs->length; $i++) {
        $titolo = $href1->nodeValue; 
     
 
-
       //Url articolo
     
        $href2 = $hrefs1->item($i);
@@ -37,8 +36,11 @@ for ($i=0;$i < $hrefs->length; $i++) {
       // autore
       $href3 = $hrefs2->item($i);
       $urlAutore = $href3->nodeValue; 
+      if(empty($urlAutore)){
+        $urlAutoreTagliato = "NULL";
+      }else{
       $urlAutoreTagliato = str_replace("di", "", $urlAutore);
-    
+      }
     
         echo($titolo);
         $urlArticoloTagliato = str_replace("//", "", $urlArticolo);
@@ -62,10 +64,9 @@ for ($i=0;$i < $hrefs->length; $i++) {
         "linkArticolo" => "$urlArticoloTagliato",
         "autoreArticolo" => "$urlAutoreTagliato",
         "dataArticolo" => "$dataCompleta",
-        "categoria" => "Sport",
+        "categoria" => "Politica",
         "editore" => "$editore",
         "linkEditore" => "$linkEditore"
-    
        );
      creaDataset($contenuti);
 
@@ -78,7 +79,7 @@ for ($i=0;$i < $hrefs->length; $i++) {
     
 function creaDataset($dati){
 
-    $var = fopen("datasetCorriereSport.json", "w+");
+    $var = fopen("datasetCorriereCronaca.json", "w+");
   
     $json = json_encode($dati);
     fwrite($var, $json);
