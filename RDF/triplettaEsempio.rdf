@@ -4,23 +4,56 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 xmlns:np="http://mappings.dbpedia.org/server/ontology/classes/Newspaper#"
 xmlns:js="http://mappings.dbpedia.org/server/ontology/classes/Journalist#"
 xmlns:ww="http://mappings.dbpedia.org/server/ontology/classes/WrittenWork#"
-xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 
 
  <!--Tripletta DEF -->
-<rdf:Description rdf:about="Link dell'articolo">
+<rdf:Description rdf:about="1">
      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
      <ww:originalTitle>Coronavirus : ci salveremo????</ww:originalTitle>
      <dc:date>2020-04-29</dc:date>
     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
-     <js:birthName>
-        <foaf:Person>
-           <foaf:name>Roberto Saviano</foaf:name>
-         </foaf:Person>
-     </js:birthName>
+     <js:birthName>Roberto Saviano </js:birthName>
      <np:Newspaper rdf:resource="https://www.repubblica.it/index.html"></np:Newspaper>
+     <np:associateEditor> 
+        <foaf:Person>
+            <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+        </foaf:Person>
+      </np:associateEditor>
+      <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+      <dc:format>text/html</dc:format>
+      <dc:language>it</dc:language>
+</rdf:Description>
+
+ <!--Tripletta DEF -->
+<rdf:Description rdf:about="2">
+     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+     <ww:originalTitle>Coronavirus : ci salveremo????</ww:originalTitle>
+     <dc:date>2020-04-19</dc:date>
+    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
+           <js:birthName>rosa ferraioli </js:birthName>
+
+     <np:Newspaper rdf:resource="https://www.corriere.it/"></np:Newspaper>
+     <np:associateEditor>
+        <foaf:Person>
+            <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+        </foaf:Person>
+      </np:associateEditor>
+      <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+      <dc:format>text/html</dc:format>
+      <dc:language>it</dc:language>
+</rdf:Description>
+ <!--Tripletta DEF -->
+<rdf:Description rdf:about="3">
+     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+     <ww:originalTitle>Coronavirus : ci salveremo????</ww:originalTitle>
+     <dc:date>2020-04-09</dc:date>
+    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+              <js:birthName>francesca festa </js:birthName>
+
+     <np:Newspaper rdf:resource="https://ilmanifesto.it/"></np:Newspaper>
      <np:associateEditor>
         <foaf:Person>
             <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
