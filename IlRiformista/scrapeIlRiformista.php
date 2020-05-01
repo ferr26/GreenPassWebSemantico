@@ -72,7 +72,7 @@
 
     function creaDataset($dati){
 
-        $var = fopen("scrapingIlRiformista.json", "w+");
+        $var = fopen("datasetIlRiformista.json", "w+");
     
         $json = json_encode($dati);
         fwrite($var, $json);
