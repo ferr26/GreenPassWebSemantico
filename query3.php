@@ -1,15 +1,13 @@
 <?php
 require_once( "lib/sparqllib.php" );
  
-$db = sparql_connect("http://sparql.data.southampton.ac.uk/");
+$db = sparql_connect( "http://localhost:8890/sparql" );
 
-if( !$db ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
-sparql_ns( "rooms","http://vocab.deri.ie/rooms#" );
- 
-$sparql = "SELECT DISTINCT * WHERE { ?room a rooms:Building . ?room rdfs:label ?label } LIMIT 5";
+
+$sparql = "SELECT ?name WHERE {?person foaf:name ?name .}";
 $result = sparql_query( $sparql ); 
 if( !$result ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
- 
+
 $fields = sparql_field_array( $result );
  
 print "<p>Number of rows: ".sparql_num_rows( $result )." results.</p>";
@@ -30,4 +28,6 @@ while( $row = sparql_fetch_array( $result ) )
 	print "</tr>";
 }
 print "</table>";
- ?>
+
+?>
+ 
