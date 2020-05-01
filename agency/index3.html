@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<link rel="icon" href="img/walk1.png" type="image/png">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+	<title>GreenPass</title>
+
+	<!-- Google font -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
+
+	<!-- Bootstrap -->
+	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
+
+
+	<!-- Owl Carousel -->
+	<link type="text/css" rel="stylesheet" href="css/owl.carousel.css" />
+	<link type="text/css" rel="stylesheet" href="css/owl.theme.default.css" />
+
+	<!-- Magnific Popup -->
+	<link type="text/css" rel="stylesheet" href="css/magnific-popup.css" />
+
+	<!-- Font Awesome Icon -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+
+	<!-- Custom stlylesheet -->
+	<link type="text/css" rel="stylesheet" href="css/style.css" />
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+	<!-- Header -->
+	<header id="home">
+		<!-- Background Image -->
+		<div class="bg-img" style="background-image: url('./img/sfondo9.jpg');">
+			<div class="overlay"></div>
+		</div>
+		<!-- /Background Image -->
+
+		<!-- Nav -->
+		<nav id="nav" class="navbar nav-transparent">
+			<div class="container">
+
+				<div class="navbar-header">
+
+					<!-- Collapse nav button -->
+					<div class="nav-collapse">
+						<span></span>
+					</div>
+					<!-- /Collapse nav button -->
+				</div>
+
+				<!--  Main navigation  -->
+				<ul class="main-nav nav navbar-nav navbar-right">
+					<li><a href="#home">Home</a></li>
+					<li><a href="#service">Servizi</a></li>
+					<li><a href="#team">Team</a></li>
+					<li><a href="#contact">Contatti</a></li>
+				</ul>
+				<!-- /Main navigation -->
+
+			</div>
+		</nav>
+		<!-- /Nav -->
+
+		<!-- home wrapper -->
+		<div class="home-wrapper">
+			<div class="container">
+				<div class="row">
+
+					<!-- home content -->
+					<div class="col-md-10 col-md-offset-1">
+						<div class="home-content">
+							<h1 class="white-text">Scopri gli Articoli</h1>
+							<p class="white-text">Cerca gli articolo di giornale, confronta tra le varie testate giornalistiche .
+							</p>	
+												
+						<!-- Search form -->							
+						<button type="button" class="btn btn-info  btn-lg"> 
+							<a href="#about" style="color:whitesmoke"> RICERCA </a>
+						</button>
+
+							  <button type="button" class="btn btn-outline-warning btn-lg"> 
+								<a href="#bandi"> RICERCA PER CATEGORIA </a>
+							  </button>
+						</div>
+					</div>
+					<!-- /home content -->
+
+				</div>
+			</div>
+		</div>
+		<!-- /home wrapper -->
+
+	</header>
+	<!-- /Header -->
+
+		<!-- About -->
+		<div id="about" class="section md-padding">
+
+			<!-- Container -->
+			<div class="container">
+	
+				<!-- Row -->
+				<div class="row">
+	
+					<!-- Section header -->
+					<div class="section-header text-center">
+						<h2 class="title">Trova Articoli con parola chiave</h2>
+					</div>
+				  <div>
+					<form action="visualizzaAnnunci.php" method="post">
+						<div class="form-group row">
+						  <div class="col-xs-4">
+							<label for="ex1">Lavoro</label>
+							<input class="form-control" id="ex1" type="text" name="lavoro">
+						  </div>
+						  <div class="col-xs-4">
+							<label for="ex2">Città</label>
+							<input class="form-control" id="ex2" type="text" name="citta">
+						  </div>
+						</div>
+						<button type="submit" class="btn btn-info">Cerca</button>
+	
+					  </form>
+					</div>
+					<!-- /Section header -->
+				  <!-- //////////// QUI DENTRO DEVO INSERIRE LA BARRA DI RICERCA PER I LAVORI //////////// -->
+	
+				</div>
+				<!-- /Row -->
+	
+			</div>
+			<!-- /Container -->
+	
+		</div>
+		<!-- /About -->
+
+
+
+<!-- About --> 
+<div id="bandi" class="section md-padding bg-warning">
+
+	<!-- Container -->
+	<div class="container">
+
+		<!-- Row -->
+		<div class="row">
+
+			<!-- Section header -->
+			<div class="section-header text-center">
+				<h2 class="title">Trova per Categoria</h2>
+			</div>
+		  <div>
+			<form action="visualizzaArticoli.php" method="post">
+				<div class="form-group row">
+						<div class="col-xs-4">
+								<label for="ex1">Ente</label>
+								<select class="form-control chosen" data-placeholder="Choose an option please" name="tipoEnte">                     
+										<option value="http://www.treccani.it/vocabolario/politica/" >POLITICA</option>
+										<option value="http://www.treccani.it/vocabolario/cronaca/" >CRONACA</option>
+										<option value="http://www.treccani.it/vocabolario/economia/" >ECONOMIA</option>
+										<option value="http://www.treccani.it/vocabolario/sport/" >SPORT</option>
+										<option value="http://www.treccani.it/vocabolario/cultura/" >CULTURA</option>
+									  </select>
+						</div>
+				  
+				  <div class="col-xs-4">
+						<label for="ex2">Ordina per</label>
+						<select class="form-control chosen" data-placeholder="Choose an option please" name="ordine">                     
+							<option value="dRecente" >DATA PUBBLICAZIONE (recente)</option>
+							<option value="dLontana" >DATA PUBBLICAZIONE (lontana)</option>
+						  </select>
+					  </div>
+					  <br>
+					  <button type="submit" class="btn btn-info">Cerca</button>
+
+			  </form>
+			 </div>
+
+			</div>
+			<!-- /Section header -->
+		  <!-- //////////// QUI DENTRO DEVO INSERIRE LA BARRA DI RICERCA PER I LAVORI //////////// -->
+
+		</div>
+		<!-- /Row -->
+
+	</div>
+	<!-- /Container -->
+
+</div>
+<!-- /About -->
+
+
+	<!-- Service -->
+	<div id="service" class="section md-padding bg-info">
+
+		<!-- Container -->
+		<div class="container">
+
+			<!-- Row -->
+			<div class="row">
+
+				<!-- Section header -->
+				<div class="section-header text-center">
+					<h2 class="title">SERVIZI</h2>
+				</div>
+				<!-- /Section header -->
+
+				<!-- service -->
+				<div class="col-md-4 col-sm-6">
+					<div class="service">
+						<i class="fa fa-search"></i>
+						<h3>RICERCA ARTICOLI</h3>
+					</div>
+				</div>
+				<!-- /service -->
+
+				<!-- service -->
+				<div class="col-md-4 col-sm-6">
+					<div class="service">
+						<i class="fa fa-reorder"></i>
+						<h3>RICERCA BANDI CONCORSI STATALI</h3>
+					</div>
+				</div>
+				<!-- /service -->
+
+				<!-- service -->
+				<div class="col-md-4 col-sm-6">
+					<div class="service">
+						<i class="fa fa-star-half-full"></i>
+						<h3>SCREENING RECENSIONI AZIENDE</h3>
+					</div>
+				</div>
+				<!-- /service -->
+
+			
+
+			</div>
+			<!-- /Row -->
+
+		</div>
+		<!-- /Container -->
+
+	</div>
+	<!-- /Service -->
+
+
+	
+
+	
+	<!-- Testimonial -->
+	<div id="testimonial" class="section md-padding">
+
+		<!-- Background Image -->
+		<div class="bg-img" style="background-image: url('./img/sfondo11.jpg');">
+			<div class="overlay"></div>
+		</div>
+		<!-- /Background Image -->
+
+		<!-- Container -->
+		<div class="container">
+
+			<!-- Row -->
+			<div class="row">
+
+				<!-- Testimonial slider -->
+				<div class="col-md-10 col-md-offset-1">
+					<div id="testimonial-slider" class="owl-carousel owl-theme">
+
+						<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/jim.jpg" alt="">
+								<h3 class="white-text">Jim Morrison</h3>
+								<span>CANTAUTORE</span>
+							</div>
+							<p class="white-text">“Non arrenderti mai, perché quando pensi che sia tutto finito, è il momento in cui tutto ha inizio.”</p>
+						</div>
+						<!-- /testimonial -->
+
+						<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/goethe.jpg" alt="">
+								<h3 class="white-text">Goethe</h3>
+								<span>SCRITTORE</span>
+							</div>
+							<p class="white-text">“Come raggiungere un traguardo? Senza fretta ma senza sosta.” </p>
+						</div>
+						<!-- /testimonial -->
+
+					</div>
+				</div>
+				<!-- /Testimonial slider -->
+
+			</div>
+			<!-- /Row -->
+
+		</div>
+		<!-- /Container -->
+
+	</div>
+	<!-- /Testimonial -->
+
+	<!-- Team -->
+	<div id="team" class="section md-padding">
+
+		<!-- Container -->
+		<div class="container">
+
+			<!-- Row -->
+			<div class="row">
+
+				<!-- Section header -->
+				<div class="section-header text-center">
+					<h2 class="title">Team</h2>
+				</div>
+				<!-- /Section header -->
+
+				<!-- team -->
+				<div class="col-sm-4">
+					<div class="team">
+						<div class="team-img">
+							<img class="img-responsive" src="./img/alfonso.jpg" alt="">
+							<div class="overlay">
+								<div class="team-social">
+									<a href="https://www.facebook.com/AlfonsoDelGaizoPhotography"><i class="fa fa-facebook"></i></a>
+									<a href="https://www.linkedin.com/in/alfonso-del-gaizo-7a82bb155/"><i class="fa fa-linkedin-square"></i></a>
+								</div>
+							</div>
+						</div>
+						<div class="team-content">
+							<h3>Alfonso Del Gaizo</h3>
+							<span>0522500707</span>
+						</div>
+					</div>
+				</div>
+				<!-- /team -->
+
+				<!-- team -->
+				<div class="col-sm-4">
+					<div class="team">
+						<div class="team-img">
+							<img class="img-responsive" src="./img/rosa.jpg" alt="">
+							<div class="overlay">
+								<div class="team-social">
+									<a href="https://www.facebook.com/rosy.ferraioli"><i class="fa fa-facebook"></i></a>
+									<a href="https://www.linkedin.com/in/rosa-ferraioli-a230b7155/"><i class="fa fa-linkedin-square"></i></a>
+								</div>
+							</div>
+						</div>
+						<div class="team-content">
+							<h3>Rosa Ferraioli</h3>
+							<span>0522500721</span>
+						</div>
+					</div>
+				</div>
+				<!-- /team -->
+	<!-- team -->
+	<div class="col-sm-4">
+		<div class="team">
+			<div class="team-img">
+				<img class="img-responsive" src="./img/francesca.jpg" alt="">
+				<div class="overlay">
+					<div class="team-social">
+						<a href="https://www.facebook.com/francesca.festa.9"><i class="fa fa-facebook"></i></a>
+						<a href="https://www.linkedin.com/in/francesca-festa-58875a1a2/"><i class="fa fa-linkedin-square"></i></a>
+					</div>
+				</div>
+			</div>
+			<div class="team-content">
+				<h3>Francesca Festa</h3>
+				<span>0522500745</span>
+			</div>
+		</div>
+	</div>
+	<!-- /team -->
+
+			</div>
+			<!-- /Row -->
+
+		</div>
+		<!-- /Container -->
+
+	</div>
+	<!-- /Team -->
+
+
+	<!-- Contact -->
+	<div id="contact" class="section md-padding bg-success">
+
+		<!-- Container -->
+		<div class="container">
+			<!-- Row -->
+			<div class="row">
+
+				<!-- Section-header -->
+				<div class="section-header text-center">
+					<h2 class="title">Contatti</h2>
+				</div>
+				<!-- /Section-header -->
+
+				<!-- contact -->
+				<div class="col-sm-4">
+					<div class="contact">
+						<i class="fa fa-phone"></i>
+						<h3>Telefono</h3>
+						<p>3396881152</p>
+					</div>
+				</div>
+				<!-- /contact -->
+
+				<!-- contact -->
+				<div class="col-sm-4">
+					<div class="contact">
+						<i class="fa fa-envelope"></i>
+						<h3>Email</h3>
+						<p>teamgreenpass@gmail.com</p>
+					</div>
+				</div>
+				<!-- /contact -->
+
+				<!-- contact -->
+				<div class="col-sm-4">
+					<div class="contact">
+						<i class="fa fa-map-marker"></i>
+						<h3>Indirizzo</h3>
+						<p>Via Giovanni Paolo II, 132, 84084 Fisciano SA</p>
+					</div>
+				</div>
+				<!-- /contact -->
+
+			
+			</div>
+			<!-- /Row -->
+
+		</div>
+		<!-- /Container -->
+
+	</div>
+	<!-- /Contact -->
+
+
+	<!-- Footer -->
+	<footer id="footer" class="sm-padding bg-dark">
+
+		<!-- Container -->
+		<div class="container">
+
+			<!-- Row -->
+			<div class="row">
+
+				<div class="col-lg-12">
+
+					
+					<!-- footer copyright -->
+					<div class="footer-copyright">
+						<p>Copyright © 2019. All Rights Reserved. Designed by Alfonso Del Gaizo, Rosa Ferraioli & Francesca Festa</p>
+					</div>
+					<!-- /footer copyright -->
+
+				</div>
+
+			</div>
+			<!-- /Row -->
+
+		</div>
+		<!-- /Container -->
+
+	</footer>
+	<!-- /Footer -->
+
+	<!-- Back to top -->
+	<div id="back-to-top"></div>
+	<!-- /Back to top -->
+
+	<!-- Preloader 
+	<div id="preloader">
+		<div class="preloader">
+			<span></span>
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+	</div>
+	/Preloader -->
+
+	<!-- jQuery Plugins -->
+
+</body>
+
+</html>
