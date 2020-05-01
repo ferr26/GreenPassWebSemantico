@@ -158,7 +158,7 @@
             Filter (REGEX(?primaryTopic,'$nomeCategoria'))    
     }
     ORDER BY $ordine(?date)
-    LIMIT 50";
+    LIMIT 200";
 
     $result = sparql_query( $sparql ); 
     if( !$result ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
@@ -234,9 +234,7 @@
                 $linkEditore=$row[$field];
             } else if($field == "primaryTopic"){
                 $topic=$row[$field];
-            } 
-
-    
+            }
          }
         
 
@@ -393,7 +391,6 @@
             </div>";
     }
 } 
-
 if ($topic=="http://www.treccani.it/vocabolario/sport/"){
     echo"
     <a href=\"$topic\"><p> SPORT </p> </a>     
@@ -445,7 +442,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
                 Filter (REGEX(?newspaper,'$giornale'))    
         }
         ORDER BY $ordine(?date)
-        LIMIT   60";
+        LIMIT   200";
         
         $result = sparql_query( $sparql ); 
         if( !$result ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
