@@ -1,0 +1,21 @@
+@prefix ww:    <http://mappings.dbpedia.org/server/ontology/classes/WrittenWork#> .
+@prefix np:    <http://mappings.dbpedia.org/server/ontology/classes/Newspaper#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix js:    <http://mappings.dbpedia.org/server/ontology/classes/Journalist#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#> .
+
+<Link>  a                   foaf:Document ;
+        js:birthName        [ a          foaf:Person ;
+                              foaf:name  "Roberto Saviano"
+                            ] ;
+        np:Newspaper        <https://www.repubblica.it/index.html> ;
+        np:associateEditor  [ a          foaf:Person ;
+                              foaf:name  <https://it.wikipedia.org/wiki/Maurizio_Molinari>
+                            ] ;
+        np:publisher        <http://www.gedispa.it/> ;
+        ww:originalTitle    "Coronavirus : ci salveremo????" ;
+        foaf:primaryTopic   <http://www.treccani.it/vocabolario/cronaca/> ;
+        dc:date             "2020-04-29" ;
+        dc:format           "text/html" ;
+        dc:language         "it" .
