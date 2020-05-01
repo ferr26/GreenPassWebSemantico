@@ -107,14 +107,20 @@
                             <!-- blog comments -->
                             <div class="blog-comments">
 
-                                
+                              
 
     <?php
+         
+         
+
         require_once( "lib/sparqllib.php" );
         $db = sparql_connect( "http://localhost:8890/sparql" );
 
         $nomeCategoria= $_POST["tipoEnte"];
         $ordine= $_POST["ordine"];
+        $giornale= $_POST["giornale"];
+
+    if($giornale == "tutti"){
 
 
     if($ordine == "dRecente"){
@@ -123,6 +129,17 @@
 
     if($ordine == "dLontana"){
         selectCategoria($nomeCategoria, "ASC");
+    }
+    }else
+    {
+        if($ordine == "dRecente"){
+            selectCategoria2($nomeCategoria, "DESC", $giornale);
+        }      
+    
+        if($ordine == "dLontana"){
+            selectCategoria2($nomeCategoria, "ASC", $giornale);
+        }
+      
     }
     
     function selectCategoria($nomeCategoria, $ordine){
@@ -140,81 +157,250 @@
             ?x foaf:primaryTopic ?primaryTopic  .
             Filter (REGEX(?primaryTopic,'$nomeCategoria'))    
     }
-    ORDER BY $ordine(?date)";
+    ORDER BY $ordine(?date)
+    LIMIT 20";
 
     $result = sparql_query( $sparql ); 
     if( !$result ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
 
     $fields = sparql_field_array( $result );
-
-
-    
-
-  //  print "<p>Number of rows: ".sparql_num_rows( $result )." results.</p>";
+                                     
+  
+   print"<h3 class=\"title\">RISULTATI (".sparql_num_rows( $result ).") </h3>";
    
-  //print "<table class='example_table'>";
-   // print "<tr>";
-    
    
     while( $row = sparql_fetch_array( $result ) )
-    {    echo "
+    {    
+        
+      
+        foreach( $fields as $field )
+        {
+          //  echo("$field : $row[$field]");
+    
+             if($field == "originalTitle"){
+                 $titolo=$row[$field];      
+            } else if($field == "x"){
+                  $linkArticolo=$row[$field];
+            }else if($field == "date"){
+                $data=$row[$field];
+            }else if($field == "birthName"){
+                $nomeAutore=$row[$field];
+            } else if($field == "newspaper"){
+                $linkGiornale=$row[$field];
+            }else if($field == "publisher"){
+                $linkEditore=$row[$field];
+            } else if($field == "primaryTopic"){
+                $topic=$row[$field];
+            } 
+    
+    
+    
+         }
+        
+
+
+        
+
+        echo "
         <div class=\"media\">
-        <div class=\"media-left\">
-        <img class=\"media-object\" src=\"./img/giornali.png\" alt=\"\" width=\"70\" height=\"70\">
+        <div class=\"media-left\">";
+
+        if ($linkGiornale=="https://www.repubblica.it/"){
+        echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/rep.png\" alt=\"\" width=\"70\" height=\"70\"></a>
         </div>
         <div class=\"media-body\">";
-          
-    foreach( $fields as $field )
-    {
-      //  echo("$field : $row[$field]");
-
-         if($field == "originalTitle"){
-             echo("<h4 class=\"media-heading\">$row[$field]         
-            <span class=\"time\"> </span></h4>");
-         } else if($field == "x"){
-            echo("<div> <h4>Link dell'Articolo <a href=$row[$field]><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a>
-            <span class=\"time\"> </span></h4>");
-         }else if($field == "date"){
-            echo("$row[$field] </div>");
-         }else if($field == "birthName"){
-            echo("$row[$field]");
-         } else if($field == "newspaper"){
-            echo("<a href=$row[$field]>$row[$field]</a>");
-         }else if($field == "publisher"){
-            echo("<br> $row[$field]");
-         } else if($field == "primaryTopic"){
-            echo("<br> $row[$field]");
-         } 
-
+        }
+        if ($linkGiornale=="https://www.corriere.it/"){
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/corriere.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            </div>
+            <div class=\"media-body\">";
+        }
+        if ($linkGiornale=="https://www.lastampa.it/"){
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/lastampa.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            </div>
+            <div class=\"media-body\">";
+        }
+        if ($linkGiornale=="https://www.ilfattoquotidiano.it/"){
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/ilfatto.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            </div>
+            <div class=\"media-body\">";
+        }
+        if ($linkGiornale=="https://www.ilriformista.it/"){
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/riformista.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            </div>
+            <div class=\"media-body\">";
+        }
 
 
 
-     }
-     echo"</div>";
+        echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
+        
+        echo"
+        <p>$data - <b color:red>$nomeAutore</b></p> 
+        ";
 
-    }
-    echo"</div>";
+        if ($topic=="http://www.treccani.it/vocabolario/cronaca/"){
+        echo"
+        <a href=\"$topic\"><p> CRONACA </p> </a>     
+        <br>
+        <p>GEDI </p>
+        </div>
+        </div>
+     ";
+        } 
+        else{
+            echo"
+        <a href=\"$topic\"><p> CRONACA </p> </a>     
+        <br>
+        <p>GEDI </p>
+        </div>
+        </div>
+     ";
 
-    }
+        }
 
+
+    } // fine WHILE
    
-                            
-                            ?>
 
-                            </div>
-                            <!-- /blog comments -->
+    } // fine funzione Categoria1
 
-                        </div>
-                    </main>
-                    <!-- /Main -->
+    function selectCategoria2($nomeCategoria, $ordine, $giornale){
+        $sparql = "SELECT DISTINCT *  WHERE {
+                ?x ww:originalTitle ?originalTitle .
+                ?x dc:date ?date .
+                ?x js:birthName ?birthName.
+                ?x dc:language ?language .
+                ?x rdf:type ?type .
+                ?x dc:format ?format .
+                ?x np:Newspaper ?newspaper .
+                ?x np:publisher ?publisher .
+                ?x np:associateEditor ?associateEditor .
+                ?associateEditor foaf:name ?name .
+                ?x foaf:primaryTopic ?primaryTopic  .
+                Filter (REGEX(?primaryTopic,'$nomeCategoria'))    
+                Filter (REGEX(?newspaper,'$giornale'))    
+        }
+        ORDER BY $ordine(?date)
+        LIMIT   5";
+        
+        $result = sparql_query( $sparql ); 
+        if( !$result ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
+        
+        $fields = sparql_field_array( $result );
+        
+        
+        while( $row = sparql_fetch_array( $result ) )
+        {    echo "
+            <div class=\"media\">
+            <div class=\"media-left\">
+            <img class=\"media-object\" src=\"./img/giornali.png\" alt=\"\" width=\"70\" height=\"70\">
+            </div>
+            <div class=\"media-body\">";
+            
+        foreach( $fields as $field )
+        {
+        //  echo("$field : $row[$field]");
+        
+            if($field == "originalTitle"){
+                echo("<h4 class=\"media-heading\">$row[$field]         
+                <span class=\"time\"> </span></h4>");
+            } else if($field == "x"){
+                echo("<div> <h4>Link dell'Articolo <a href=$row[$field]><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a>
+                <span class=\"time\"> </span></h4>");
+            }else if($field == "date"){
+                echo("$row[$field] </div>");
+            }else if($field == "birthName"){
+                echo("$row[$field]");
+            } else if($field == "newspaper"){
+                echo("<a href=$row[$field]>$row[$field]</a>");
+            }else if($field == "publisher"){
+                echo("<br> $row[$field]");
+            } else if($field == "primaryTopic"){
+                echo("<br> $row[$field]");
+            } 
+        }
+        echo"</div>";
+        
+        }
+        echo"</div>";
+        
+        } // fine funzione Categoria2
+
+                       
+    ?>
+
+</div>
+						<!-- /blog comments -->
+
+					</div>
+				</main>
+				<!-- /Main -->
 
 
-                    <!-- Back to top -->
-        <div id="back-to-top"></div>
-        <!-- /Back to top -->
+				<!-- Aside -->
+				<aside id="aside" class="col-md-3">
+
+					<!-- Search -->
+					<div class="widget">
+						<div class="widget-search">
+					
+						</div>
+					</div>
+					<!-- /Search -->
+
+					
 
 
 
-        </body>
+				</aside>
+				<!-- /Aside -->
 
-        </html>
+			</div>
+			<!-- /Row -->
+
+		</div>
+		<!-- /Container -->
+
+	</div>
+	<!-- /Blog -->
+
+	<!-- Footer -->
+	<footer id="footer" class="sm-padding bg-dark">
+
+		<!-- Container -->
+		<div class="container">
+				<img class="img-responsive center-block" src="img/walk1.png" alt="logo" height="90" width="90">
+
+			<!-- Row -->
+			<div class="row">
+
+				<div class="col-lg-12">
+
+					
+					<!-- footer copyright -->
+					<div class="footer-copyright">
+						<p>Copyright © 2019. All Rights Reserved. Designed by Alfonso Del Gaizo & Rosa Ferraioli</p>
+					</div>
+					<!-- /footer copyright -->
+
+				</div>
+
+			</div>
+			<!-- /Row -->
+
+		</div>
+		<!-- /Container -->
+
+	</footer>
+	<!-- /Footer -->
+
+	<!-- Back to top -->
+	<div id="back-to-top"></div>
+	<!-- /Back to top -->
+
+
+
+    </body>
+
+    </html>
