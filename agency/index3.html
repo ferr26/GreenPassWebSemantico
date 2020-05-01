@@ -135,7 +135,6 @@
 					  </form>
 					</div>
 					<!-- /Section header -->
-				  <!-- //////////// QUI DENTRO DEVO INSERIRE LA BARRA DI RICERCA PER I LAVORI //////////// -->
 	
 				</div>
 				<!-- /Row -->
@@ -165,7 +164,7 @@
 			<form action="visualizzaArticoli.php" method="post">
 				<div class="form-group row">
 						<div class="col-xs-4">
-								<label for="ex1">Ente</label>
+								<label for="ex1">Categoria</label>
 								<select class="form-control chosen" data-placeholder="Choose an option please" name="tipoEnte">                     
 										<option value="http://www.treccani.it/vocabolario/politica/" >POLITICA</option>
 										<option value="http://www.treccani.it/vocabolario/cronaca/" >CRONACA</option>
@@ -184,7 +183,21 @@
 					  </div>
 					  <br>
 					  <button type="submit" class="btn btn-info">Cerca</button>
+					</div>
+					<div class="form-group row">
 
+					<div class="col-xs-4">
+						<label for="ex2">Giornale</label>
+						<select class="form-control chosen" data-placeholder="Choose an option please" name="giornale">   
+							<option value="tutti" >TUTTI</option>                  
+							<option value="https://www.repubblica.it/" >LA REPUBBLICA</option>
+							<option value="https://www.corriere.it/" >IL CORRIERE DELLA SERA </option>ù
+							<option value="https://www.ilriformista.it/" >IL RIFORMISTA </option>
+							<option value="https://www.ilfattoquotidiano.it/" >IL FATTO QUOTIDIANO </option>
+							<option value="https://www.lastampa.it/" >LA STAMPA </option>
+						  </select>
+					  </div>
+					</div>
 			  </form>
 			 </div>
 
