@@ -701,7 +701,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.repubblica.it/economia/2020/04/27/news/fabbriche_riaperture-255002164/">
+                    <rdf:Description rdf:about="https://www.repubblica.it/economia/2020/04/27/news/fabbriche_riaperture-25502164/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Ducati, Whirlpool, Fca: tra mascherine e termoscanner, tornano gli operai alle fabbriche</ww:originalTitle>
                     <dc:date>2020-04-27</dc:date>
@@ -1295,7 +1295,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.repubblica.it/robinson/2020/04/15/news/bernardo_valli_bagdad_2003-254033337/">
+                    <rdf:Description rdf:about="https://www.repubblica.it/robinson/2020/04/15/news/bernardo_valli_bagdad_203-254033337/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Quelle nuvole di fumo sulla città ferita</ww:originalTitle>
                     <dc:date>2020-04-15</dc:date>
@@ -1635,7 +1635,7 @@
                     <rdf:Description rdf:about="https://www.repubblica.it/robinson/2020/04/09/news/rileggere_i_vangeli_come_un_grande_romanzo_con_augias_e_filoramo-253554100/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Rileggere i Vangeli come un grande romanzo con Augias e Filoramo</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>PAOLO RODARI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
@@ -1654,7 +1654,7 @@
                     <rdf:Description rdf:about="https://www.repubblica.it/robinson/2020/04/07/news/un_appello_per_la_solidarieta_europea-253402316/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Un appello per la solidarietà europea</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -1672,7 +1672,7 @@
                     <rdf:Description rdf:about="https://www.repubblica.it/robinson/2020/04/07/news/scrivevamo_alla_berselli-253330938/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Scrivevamo alla Berselli</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>EDMONDO BERSELLI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
@@ -1691,7 +1691,7 @@
                     <rdf:Description rdf:about="https://www.repubblica.it/robinson/2020/04/03/news/la_scelta_di_casalettori_gli_occhi_vuoti_dei_santi-252960942/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>La scelta di @CasaLettori. Gli occhi vuoti dei santi</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>MARIA ANNA PATTI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
@@ -1710,7 +1710,7 @@
                     <rdf:Description rdf:about="https://www.repubblica.it/robinson/2020/04/03/news/robinson_lo_zen_e_l_arte_di_pulire_casa-252983211/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Robinson, lo zen e l'arte di pulire casa</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -1728,7 +1728,7 @@
                     <rdf:Description rdf:about="https://www.repubblica.it/robinson/2020/04/02/news/il_mondo_del_libro_in_crisi_lo_scenario_fosco_dell_osservatorio_aie-252944860/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Libri, crollo del 75%. L'Aie: "L'editoria sta morendo"</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>RAFFAELLA DE SANTIS </js:birthName>
                     <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
@@ -2102,7 +2102,7 @@
                     <rdf:Description rdf:about="https://www.repubblica.it/robinson/2020/03/03/news/alle_irlandesi_farrell_e_mcnamara_il_pritzker_il_nobel_dell_architettura-250142259/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Alle irlandesi Farrell e McNamara il Pritzker, il "Nobel" dell'architettura</ww:originalTitle>
-                    <dc:date> 2020-03-003</dc:date>
+                    <dc:date> 2020-03-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -2120,7 +2120,7 @@
                     <rdf:Description rdf:about="https://www.repubblica.it/robinson/2020/03/03/news/premio_strega_ecco_i_libri_in_gara-250111645/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Premio Strega, ecco tutti i libri in gara</ww:originalTitle>
-                    <dc:date> 2020-03-003</dc:date>
+                    <dc:date> 2020-03-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -9906,7 +9906,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.ilfattoquotidiano.it/2020/04/04/coronavirus-dalle-mascherine-fatte-in-casa-allacqua-del-rubinetto-fino-alle-zampe-dei-cani-10-bufale-smontate-dal-ministero/5760026/">
+                    <rdf:Description rdf:about="https://www.ilfattoquotidiano.it/2020/04/04/coronavirus-dalle-mascherine-fatte-in-casa-allacqua-del-rubinetto-fino-alle-zampe-dei-cani-10-bufale-smontate-dal-ministero/576026/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, dalle mascherine fatte in casa all’acqua del rubinetto fino alle zampe dei cani: 10 bufale smontate dal ministero</ww:originalTitle>
                     <dc:date>2020-04-04 </dc:date>
@@ -11944,7 +11944,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.lastampa.it/cronaca/2020/04/27/news/ora-in-italia-il-grande-malato-e-il-piemonte-record-di-contagi-rispetto-alla-popolazione-1.38766002">
+                    <rdf:Description rdf:about="https://www.lastampa.it/cronaca/2020/04/27/news/ora-in-italia-il-grande-malato-e-il-piemonte-record-di-contagi-rispetto-alla-popolazione-1.3876602">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Ora in Italia il grande malato è il Piemonte: record di contagi rispetto alla popolazione</ww:originalTitle>
                     <dc:date>2020-04-27</dc:date>
@@ -13103,7 +13103,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.lastampa.it/cronaca/2020/04/23/news/dal-4-maggio-ripartono-cantieri-edili-e-fabbriche-al-lavoro-quasi-3-milioni-di-italiani-1.38752002">
+                    <rdf:Description rdf:about="https://www.lastampa.it/cronaca/2020/04/23/news/dal-4-maggio-ripartono-cantieri-edili-e-fabbriche-al-lavoro-quasi-3-milioni-di-italiani-1.3875202">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Dal 4 maggio ripartono cantieri edili e fabbriche. Al lavoro quasi 3 milioni di italiani</ww:originalTitle>
                     <dc:date>2020-04-23</dc:date>
@@ -15353,7 +15353,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/09/news/coronavirus-il-governo-conferma-chiusura-fino-al-3-maggio-1.38699802">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, il governo conferma: chiusura fino al 3 maggio</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -15371,7 +15371,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/09/news/coronavirus-il-ministro-boccia-a-confindustria-fase-2-prima-viene-la-salute-dei-cittadini-1.38699252">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, il ministro Boccia a Confindustria: “Fase 2? Prima viene la salute dei cittadini”</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -15389,7 +15389,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/09/news/il-senato-approva-decreto-cura-italia-tra-le-dure-polemiche-dell-opposizione-finito-il-finto-idillio-dell-unita-nazionale-1.38699210">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il Senato approva decreto Cura Italia tra le dure polemiche dell’opposizione. Finito il finto idillio dell’unità nazionale</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -15407,7 +15407,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/09/news/coronavirus-e-scontro-tra-governo-e-regione-lombardia-sulle-cifre-spese-per-l-emergenza-1.38699198">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, è scontro tra governo e Regione Lombardia sulle cifre spese per l’emergenza</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -15425,7 +15425,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/09/news/decreto-imprese-sulla-gazzetta-ufficiale-sace-sotto-controllo-del-ministero-dell-economia-1.38698166">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Decreto imprese sulla Gazzetta Ufficiale. Sace passa sotto il controllo del ministero dell’Economia</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -15461,7 +15461,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/09/news/conte-alla-bbc-allenteremo-alcune-misure-entro-fine-mese-1.38697959">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Conte alla Bbc: “Allenteremo alcune misure entro fine mese”</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -15479,7 +15479,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/09/news/coronavirus-gli-scienziati-contrari-ad-aprire-le-aziende-conte-italia-chiusa-per-altri-15-giorni-1.38695924">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, gli scienziati contrari ad aprire le aziende. Conte: Italia chiusa per altri 15 giorni</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>PAOLO RUSSO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15498,7 +15498,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/08/news/conte-avverte-la-germania-attenti-oppure-ognuno-fara-per-se-orlando-pd-fa-bene-ad-essere-duro-con-l-ue-1.38695756">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Conte avverte la Germania: “Attenti, oppure ognuno farà per sé”. Orlando (Pd): “Fa bene ad essere duro con l'Ue”</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>CARLO BERTINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15517,7 +15517,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/07/news/coronavirus-verso-una-riapertura-in-due-step-prima-le-aziende-poi-i-cittadini-1.38691554">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, verso una riapertura in due step: prima le aziende, poi l’allentamento per i cittadini</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>AMEDEO LA MATTINA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15536,7 +15536,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/07/news/anche-meloni-sconfessa-salvini-su-apertura-chiese-per-pasqua-berlusconi-sarebbe-irresponsabile-1.38689779">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Anche Meloni sconfessa Salvini su apertura chiese per Pasqua. Berlusconi: “Sarebbe irresponsabile”</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>UGO MAGRI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15631,7 +15631,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/04/news/decreti-economici-non-decolla-la-cabina-di-regia-governo-opposizioni-1.38679819">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Decreti economici, nuovo vertice governo-opposizioni. Ma la cabina di regia non decolla</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>FILIPPO FEMIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15650,7 +15650,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/03/news/torna-in-mare-la-nave-alan-kurdi-della-ong-tedesca-sea-eye-l-italia-alla-germania-gestitela-voi-1.38673252">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Torna in mare la nave Alan Kurdi, della Ong tedesca Sea Eye. L’Italia alla Germania: “Gestitela voi”</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>ALESSANDRO BARBERA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15669,7 +15669,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/03/news/sanita-allo-stato-insorgono-i-governatori-1.38673098">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Sanità allo Stato, insorgono i governatori</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>FABIO MARTINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15688,7 +15688,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/03/news/emergenza-coronavirus-slitta-il-decreto-per-i-soldi-alle-imprese-1.38671045">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Emergenza coronavirus, slitta il decreto per i soldi alle imprese</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>AMEDEO LA MATTINA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15707,7 +15707,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/03/news/il-copasir-borsa-italiana-nel-mirino-degli-stranieri-1.38671033">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il Copasir: Borsa Italiana nel mirino degli stranieri</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>AMEDEO LA MATTINA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15726,7 +15726,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/02/news/coronavirus-casini-un-contributo-straordinario-da-parte-di-chi-ha-maggiori-possibilita-economiche-1.38670886">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, Casini: “Un contributo straordinario da parte di chi ha maggiori possibilità economiche”</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>ROBERTO GIOVANNINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15745,7 +15745,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/02/news/coronavirus-tusk-mette-sotto-accusa-orbane-e-ammonisce-l-europa-sia-solidale-1.38669489">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, Tusk mette sotto accusa Orban e ammonisce: “L’Europa sia solidale”</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>UGO MAGRI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -15764,7 +15764,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/02/news/riuscira-l-inps-a-pagare-entro-il-15-aprile-i-bonus-e-la-cig-1.38669463">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Riuscirà l’Inps a pagare entro il 15 aprile i bonus e la Cig?</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -15984,7 +15984,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/30/news/giusto-mettere-mano-alla-costituzione-ma-lo-strumento-e-sbagliato-la-proposta-del-sindaco-sala-fa-discutere-1.38656002">
+                    <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/30/news/giusto-mettere-mano-alla-costituzione-ma-lo-strumento-e-sbagliato-la-proposta-del-sindaco-sala-fa-discutere-1.3865602">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, la proposta di Sala fa discutere. Giorgetti: “Una Costituente? Ben arrivato”</ww:originalTitle>
                     <dc:date>2020-03-30</dc:date>
@@ -17461,7 +17461,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/09/news/conte-tutta-italia-diventa-zona-protetta-1.38572209">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Conte: “Tutta Italia diventa zona protetta”</ww:originalTitle>
-                    <dc:date> 2020-03-009</dc:date>
+                    <dc:date> 2020-03-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>PAOLO FESTUCCIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17480,7 +17480,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/09/news/il-coronavirus-riapre-il-dibattito-sull-indulto-1.38571903">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il coronavirus riapre il dibattito sull’indulto</ww:originalTitle>
-                    <dc:date> 2020-03-009</dc:date>
+                    <dc:date> 2020-03-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>GRAZIA LONGO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17499,7 +17499,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/09/news/spadafora-dall-udeur-a-rutelli-fino-al-m5s-parabola-di-un-politico-che-sogna-di-condurre-una-trasmissione-tv-1.38570366">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Spadafora, dall’Udeur a Rutelli fino al M5S: parabola di un politico che sogna di condurre una trasmissione tv</ww:originalTitle>
-                    <dc:date> 2020-03-009</dc:date>
+                    <dc:date> 2020-03-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>FEDERICO CAPURSO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17518,7 +17518,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/08/news/coronavirus-timori-per-i-detenuti-1.38567361">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, timori per i detenuti</ww:originalTitle>
-                    <dc:date> 2020-03-008</dc:date>
+                    <dc:date> 2020-03-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>MARIA BERLINGUER </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17537,7 +17537,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/08/news/8-marzo-il-virus-non-ferma-la-rabbia-delle-donne-in-piazza-1.38566881">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>8 marzo, il virus non ferma la “rabbia” delle donne in piazza</ww:originalTitle>
-                    <dc:date> 2020-03-008</dc:date>
+                    <dc:date> 2020-03-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>MARIA BERLINGUER </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17556,7 +17556,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/08/news/virus-boom-di-accessi-sito-del-governo-in-tilt-1.38566107">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Virus, boom di accessi: sito del governo in tilt</ww:originalTitle>
-                    <dc:date> 2020-03-008</dc:date>
+                    <dc:date> 2020-03-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>FRANCESCO BEI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17575,7 +17575,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/08/news/coronavirus-i-timori-di-conte-per-il-resto-del-paese-rimanete-a-casa-uscite-solo-se-necessario-1.38564036">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, i timori di Conte per il resto del Paese: “Rimanete a casa, uscite solo se necessario”</ww:originalTitle>
-                    <dc:date> 2020-03-008</dc:date>
+                    <dc:date> 2020-03-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>ILARIO LOMBARDO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17594,7 +17594,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/07/news/la-lega-subito-un-commissario-straordinario-per-50-mila-posti-di-terapia-intensiva-1.38566408">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>La Lega: subito un commissario straordinario per 50 mila posti di terapia intensiva</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>AMEDEO LA MATTINA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17613,7 +17613,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/07/news/l-europa-all-italia-le-spese-da-coronavirus-fuori-dal-bilancio-strutturale-1.38563175">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>L’Europa all’Italia: le spese da coronavirus fuori dal bilancio strutturale</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>ALESSANDRO BARBERA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17632,7 +17632,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/07/news/una-filastrocca-in-quartine-contro-la-paura-1.38562882">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Una filastrocca in quartine contro la paura</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>GIACOMO GALEAZZI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17651,7 +17651,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/07/news/quasi-centomila-contagiati-nel-mondo-1.38562287">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Oltre centomila contagiati nel mondo</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>PAOLO FESTUCCIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17670,7 +17670,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/07/news/verso-nuove-zone-rosse-e-ulteriori-limiti-in-tutta-italia-1.38562154">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, verso nuove zone rosse e ulteriori limiti in tutta Italia</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>GIACOMO GALEAZZI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17689,7 +17689,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cronaca/2020/03/07/news/coronavirus-giustizia-ferma-fino-31-maggio-bonafede-potenziate-le-videoconferenze-1.38562041">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, Giustizia ferma fino 31 maggio. Bonafede: “Potenziate le videoconferenze”</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>FEDERICO CAPURSO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17708,7 +17708,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/07/news/pd-e-m5s-corrono-insieme-in-liguria-cosi-l-alleanza-diventa-strutturale-1.38559779">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Pd e M5S corrono insieme in Liguria: “Così l’alleanza diventa strutturale”</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <js:birthName>ALESSANDRO BARBERA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -17727,7 +17727,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/07/news/il-prossimo-passo-pronti-a-chiudere-gli-uffici-pubblici-1.38559908">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il prossimo passo: “Pronti a chiudere gli uffici pubblici”</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -18568,7 +18568,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/04/09/news/ai-tempi-del-virus-36-storie-in-un-libro-gratuito-per-tutti-1.38697898">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>“Ai tempi del virus”: 36 storie in un libro gratuito per tutti</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>MARIA BERLINGUER </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18587,7 +18587,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/04/08/news/contro-il-virus-un-nuovo-manifesto-di-ventotene-1.38693378">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Contro il virus un nuovo manifesto di Ventotene</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>MARIA CORBI, FRANCESCA SFORZA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18606,7 +18606,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/04/08/news/la-quarantena-dei-mormoni-i-templi-sono-chiusi-e-alle-funzioni-si-partecipa-in-streaming-1.38691044">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>La quarantena dei Mormoni. I Templi sono chiusi e alle funzioni si partecipa in streaming</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>ALBERTO MATTIOLI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18625,7 +18625,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/04/07/news/bocelli-concerto-di-pasqua-nel-duomo-di-milano-1.38690201">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Bocelli, concerto di Pasqua nel Duomo di Milano</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>FLAVIA AMABILE </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18758,7 +18758,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/milano/appuntamenti/2020/04/04/news/musei-chiusi-adesso-le-mostre-si-guardano-online-1.38678688">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Musei chiusi? Adesso le mostre si guardano online</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>STEFANO PRIARONE </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18777,7 +18777,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/e20/cronaca/2020/04/03/news/le-scuole-non-riapriranno-nessuno-sara-bocciato-e-la-maturita-sara-digitale-1.38675666">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Le scuole non riapriranno. Nessuno sarà bocciato e la maturità sarà digitale</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>FRANCESCA PACI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18796,7 +18796,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/04/03/news/addio-a-juan-gimenez-uno-dei-padri-dell-immaginario-fantascientifico-moderno-1.38674064">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Addio a Juan Gimenez, uno dei padri dell’immaginario fantascientifico moderno</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>FIORELLA MINERVINO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18815,7 +18815,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/scuola/2020/04/03/news/professione-virologo-il-fascino-di-un-mestiere-fino-a-poco-tempo-fa-sconosciuto-1.38673434">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Professione virologo, il fascino di un mestiere fino a poco tempo fa sconosciuto</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>RAFFAELLA SILIPO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18834,7 +18834,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/04/03/news/web-e-tv-la-milano-della-cultura-non-si-ferma-1.38673056">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Web e tv, la Milano della cultura non si ferma</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -18852,7 +18852,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/04/03/news/virus-la-grande-paura-dei-libri-1.38672928">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Virus, la grande paura dei libri</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -18870,7 +18870,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/04/03/news/instagram-ai-tempi-del-virus-e-senza-filtri-e-gli-influencer-non-sono-piu-protagonisti-1.38670083">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Instagram ai tempi del virus è senza filtri, e gli influencer non sono più protagonisti</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>ELEONORA ATTOLICO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18889,7 +18889,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/e20/cronaca/2020/04/02/news/coronavirus-arriva-l-esame-di-stato-light-1.38670304">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, arriva l’esame di Stato “light”</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>GIACOMO GALEAZZI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18908,7 +18908,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/04/02/news/il-nonno-sulla-cyclette-e-una-bottiglia-di-birra-1.38670221">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il nonno sulla cyclette e una bottiglia di birra</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>CLAUDIO MARINACCIO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -18927,7 +18927,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/04/02/news/mettersi-nei-panni-di-un-opera-d-arte-grazie-al-getty-museum-1.38669674">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Mettersi nei panni di un’opera d’arte grazie al Getty Museum</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>EMANUELA MINUCCI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -19738,7 +19738,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/03/09/news/storytelling-il-modo-teatrale-di-comunicare-1.38570091">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Storytelling, il modo teatrale di comunicare</ww:originalTitle>
-                    <dc:date> 2020-03-009</dc:date>
+                    <dc:date> 2020-03-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>RAFFAELLA SILIPO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -19757,7 +19757,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/03/05/news/la-catena-d-oro-nuovo-capitolo-per-gli-shadowhunters-1.38553433">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>“La catena d’oro”, nuovo capitolo per gli Shadowhunters</ww:originalTitle>
-                    <dc:date> 2020-03-008</dc:date>
+                    <dc:date> 2020-03-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>GIORDANO STABILE </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -19776,7 +19776,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/03/07/news/l-antica-hatra-rivivra-grazie-agli-archeologi-venuti-dall-italia-1.38563421">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>L’antica Hatra rivivrà grazie agli archeologi venuti dall’Italia</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>STEFANO PRIARONE </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -19795,7 +19795,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/spettacoli/musica/2020/03/07/news/morto-mccoy-tyner-leggenda-del-jazz-1.38562301">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Morto McCoy Tyner, leggenda del jazz</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>ROBERTO GRANDE (*) </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -19814,7 +19814,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/03/07/news/wonder-woman-la-supereroina-dell-8-marzo-1.38562242">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Wonder Woman, la supereroina dell’8 Marzo</ww:originalTitle>
-                    <dc:date> 2020-03-008</dc:date>
+                    <dc:date> 2020-03-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>CARLO GRANDE </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -19833,7 +19833,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/2020/03/07/news/la-psicanalisi-e-il-coronavirus-1.38562113">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>La psicanalisi e il coronavirus</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>EMANUELA MINUCCI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -19852,7 +19852,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/03/07/news/la-religione-nel-terzo-millennio-1.38562084">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>La religione nel Terzo Millennio</ww:originalTitle>
-                    <dc:date> 2020-03-007</dc:date>
+                    <dc:date> 2020-03-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>EMANUELA MINUCCI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -19966,7 +19966,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/03/04/news/il-genio-di-raffaello-in-mostra-alle-scuderie-del-quirinale-1.38550431">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il genio di Raffaello in mostra alle Scuderie del Quirinale</ww:originalTitle>
-                    <dc:date> 2020-03-004</dc:date>
+                    <dc:date> 2020-03-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -19984,7 +19984,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/03/04/news/scoop-la-slitta-di-terence-hill-in-trinita-anticipata-da-un-quadro-1.38550245">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Scoop: la slitta di Terence Hill in “Trinità” anticipata da un quadro</ww:originalTitle>
-                    <dc:date> 2020-03-004</dc:date>
+                    <dc:date> 2020-03-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -20002,7 +20002,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/03/04/news/non-correre-con-la-carrozzina-25-cose-da-non-dire-a-un-disabile-1.38550045">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>“Non correre con la carrozzina”: 25 cose da non dire a un disabile</ww:originalTitle>
-                    <dc:date> 2020-03-004</dc:date>
+                    <dc:date> 2020-03-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>NORIA NALLI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20021,7 +20021,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/03/04/news/maurizio-valenzi-e-la-sua-napoli-1.38548877">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Maurizio Valenzi e la sua Napoli</ww:originalTitle>
-                    <dc:date> 2020-03-004</dc:date>
+                    <dc:date> 2020-03-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>RITA ITALIANO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20040,7 +20040,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/03/03/news/perche-i-libri-per-ragazzi-piacciono-ai-grandi-1.38539906">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Perché i libri per ragazzi piacciono ai grandi</ww:originalTitle>
-                    <dc:date> 2020-03-004</dc:date>
+                    <dc:date> 2020-03-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>RAFFAELLA SILIPO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20059,7 +20059,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/03/04/news/universita-le-migliori-sono-ancora-made-in-usa-1.38548571">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Università, le migliori sono ancora made in Usa</ww:originalTitle>
-                    <dc:date> 2020-03-004</dc:date>
+                    <dc:date> 2020-03-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>MARIA BERLINGUER </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20078,7 +20078,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/03/04/news/universita-e-classifiche-un-operazione-di-marketing-1.38548673">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Università e classifiche, un’operazione di marketing</ww:originalTitle>
-                    <dc:date> 2020-03-004</dc:date>
+                    <dc:date> 2020-03-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>PAOLO BERTINETTI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20097,7 +20097,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/03/03/news/premio-strega-ecco-i-candidati-1.38548858">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Premio Strega, ecco i candidati</ww:originalTitle>
-                    <dc:date> 2020-03-003</dc:date>
+                    <dc:date> 2020-03-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>SIMONA SIRI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20116,7 +20116,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/03/03/news/woody-allen-si-confessa-nella-biografia-1.38544814">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Woody Allen si confessa nella biografia</ww:originalTitle>
-                    <dc:date> 2020-03-003</dc:date>
+                    <dc:date> 2020-03-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>GIANGIORGIO SATRAGNI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20135,7 +20135,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/03/03/news/effetto-coronavirus-sulla-musica-classica-1.38544790">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Effetto Coronavirus sulla musica classica</ww:originalTitle>
-                    <dc:date> 2020-03-003</dc:date>
+                    <dc:date> 2020-03-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>DARIO BRAGAGLIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20154,7 +20154,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/03/03/news/dresda-rinasce-la-pinacoteca-sulle-rive-dell-elba-1.38543998">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Dresda, rinasce la pinacoteca sulle rive dell’Elba</ww:originalTitle>
-                    <dc:date> 2020-03-003</dc:date>
+                    <dc:date> 2020-03-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20173,7 +20173,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/03/03/news/una-nuova-identita-visiva-per-la-fondazione-adriano-olivetti-1.38541992">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Una nuova identità visiva per la Fondazione Adriano Olivetti</ww:originalTitle>
-                    <dc:date> 2020-03-003</dc:date>
+                    <dc:date> 2020-03-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>GIULIA ZONCA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20192,7 +20192,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/03/02/news/woody-allen-in-contemporanea-mondiale-l-autobiografia-a-proposito-di-niente-in-libreria-dal-9-aprile-1.38541912">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Woody Allen in contemporanea mondiale: l’autobiografia “A proposito di niente” in libreria dal 9 aprile con “La Nave di Teseo”</ww:originalTitle>
-                    <dc:date> 2020-03-002</dc:date>
+                    <dc:date> 2020-03-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>VALERIA RANDONE* </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20211,7 +20211,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/03/02/news/morto-a-76-anni-ulay-il-compagno-di-marina-abramovic-1.38541366">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Morto a 77 anni Ulay, il compagno di Marina Abramovic</ww:originalTitle>
-                    <dc:date> 2020-03-002</dc:date>
+                    <dc:date> 2020-03-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>L. MAR. </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20230,7 +20230,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/topnews/tempi-moderni/2020/03/02/news/la-rivoluzionaria-fantascienza-dell-eternauta-diventa-serie-tv-1.38540128">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>La rivoluzionaria fantascienza dell’Eternauta diventa serie tv</ww:originalTitle>
-                    <dc:date> 2020-03-002</dc:date>
+                    <dc:date> 2020-03-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -20712,7 +20712,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/mare/2020/02/07/news/il-rischio-sul-mare-quando-a-imbarcarsi-e-l-assicurazione-1.38438960">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il rischio sul mare, quando a imbarcarsi è l’assicurazione</ww:originalTitle>
-                    <dc:date> 2020-02-007</dc:date>
+                    <dc:date> 2020-02-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -20730,7 +20730,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/02/07/news/quando-i-neri-eravamo-noi-1.38438729">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Quando i "neri" eravamo noi</ww:originalTitle>
-                    <dc:date> 2020-02-007</dc:date>
+                    <dc:date> 2020-02-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -20748,7 +20748,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/02/07/news/cosi-dami-e-marghe-raccontano-l-asperger-1.38437754">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Così Dami e Marghe raccontano l’Asperger</ww:originalTitle>
-                    <dc:date> 2020-02-007</dc:date>
+                    <dc:date> 2020-02-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>NORIA NALLIL </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20767,7 +20767,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/02/07/news/lindbergh-l-uomo-che-sapeva-guardare-e-fotografare-le-donne-1.38434786">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Lindbergh, l’uomo che sapeva guardare (e fotografare) le donne</ww:originalTitle>
-                    <dc:date> 2020-02-007</dc:date>
+                    <dc:date> 2020-02-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>EMANUELA GRIGLIè </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20881,7 +20881,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/02/04/news/eroi-del-quotidiano-il-calendario-2020-dei-carabinieri-e-disegnato-da-mimmo-paladino-e-scritto-da-margaret-mazzantini-1.38424583">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Eroi del quotidiano, il calendario 2020 dei carabinieri è disegnato da Mimmo Paladino e scritto da Margaret Mazzantini</ww:originalTitle>
-                    <dc:date> 2020-02-004</dc:date>
+                    <dc:date> 2020-02-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>CLAUDIO MARINACCIO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20900,7 +20900,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/02/03/news/e-morto-george-steiner-gigante-della-critica-letteraria-1.38420822">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>È morto George Steiner, gigante della critica letteraria</ww:originalTitle>
-                    <dc:date> 2020-02-003</dc:date>
+                    <dc:date> 2020-02-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>FILIPPO FEMIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20919,7 +20919,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/02/02/news/l-agnello-mistico-di-van-eyck-il-colpo-d-occhio-della-rivoluzione-1.38412720">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>“L’agnello mistico” di Van Eyck, il colpo d’occhio della rivoluzione</ww:originalTitle>
-                    <dc:date> 2020-02-002</dc:date>
+                    <dc:date> 2020-02-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>AMITAV GHOSH </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -20938,7 +20938,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/cultura/2020/02/02/news/antony-gormley-per-avere-senso-l-arte-dev-essere-condivisa-1.38412687">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Antony Gormley: “Per avere senso l’arte dev’essere condivisa”</ww:originalTitle>
-                    <dc:date> 2020-02-002</dc:date>
+                    <dc:date> 2020-02-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cultura/"></foaf:primaryTopic>
                     <js:birthName>MARIO TOZZI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23349,7 +23349,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/09/news/sirigu-chi-fa-vedere-sui-social-che-fa-gli-esecizi-a-casa-e-un-cretino-1.38699440">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Sirigu: “Chi fa vedere sui social che fa gli esercizi a casa è un cretino”</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -23367,7 +23367,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/volley/2020/04/09/news/caos-pallavolo-si-dimettono-i-presidenti-di-lega-maschile-e-femminile-ignorati-su-stop-campionati-1.38699034">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Caos pallavolo, si dimettono i presidenti di Lega maschile e femminile: “Ignorati su stop campionati”</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -23385,7 +23385,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/09/news/fallo-di-mano-e-rigori-si-cambia-1.38698919">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Fallo di mano e rigori, si cambia</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>PAOLO BRUSORIO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23404,7 +23404,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/09/news/inter-il-medico-batte-il-covid-19-1.38697846">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Inter, il medico batte il Covid-19</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>STEFANO SCACCHI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23423,7 +23423,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/09/news/elkann-rilancia-il-progetto-europa-la-juve-e-in-posizione-di-forza-1.38695719">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Elkann rilancia il progetto Europa: “La Juve è in posizione di forza”</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GIANLUCA ODDENINO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23442,7 +23442,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/08/news/mourinho-scatenato-si-allena-nel-parco-con-i-giocatori-poi-chiede-scusa-1.38695418">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Mourinho scatenato si allena nel parco con i giocatori, poi chiede scusa</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GIANLUCA ODDENINO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23461,7 +23461,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/08/news/elkann-la-juve-in-europa-e-in-una-posizione-di-forza-1.38695098">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Elkann: “La Juve in Europa è in una posizione di forza”</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>FRANCESCO MANASSERO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23480,7 +23480,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/08/news/le-confessioni-di-edera-al-sito-del-toro-mi-manca-la-vittoria-all-europeo-under-21-1.38695008">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Le confessioni di Edera al sito del Toro: “Mi manca la vittoria all’Europeo Under 21”</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>ANTONIO BARILLà </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23499,7 +23499,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/08/news/tredici-gol-dalla-bandierina-su-rai3-la-fiaba-di-palanca-1.38694338">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Tredici gol dalla bandierina: su Rai Sport la fiaba di Palanca</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>JACOPO D'ORSI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23518,7 +23518,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/08/news/coronavirus-addio-a-sabia-corse-due-finali-olimpiche-negli-800-1.38693787">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, addio a Sabia: corse due finali olimpiche negli 800</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>JACOPO D'ORSI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23537,7 +23537,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/08/news/ronaldinho-scarcerato-cauzione-da-1-5-milioni-1.38693588">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Ronaldinho scarcerato, cauzione da 1,5 milioni</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>MATTEO DE SANTIS </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23556,7 +23556,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/basket/2020/04/07/news/basket-petrucci-il-campionato-di-serie-a-e-concluso-1.38691107">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Basket, i campionati di serie A e A2 sono conclusi. Scudetto non assegnato</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>FRANCESCO MANASSERO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23575,7 +23575,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/07/news/armando-izzo-si-confessa-al-sito-del-torino-tra-passioni-segrete-e-palestra-in-casa-1.38690664">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Armando Izzo si confessa al sito del Torino tra passioni segrete e palestra in casa</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>MATTEO AGLIO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23594,7 +23594,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/07/news/motogp-salta-anche-il-mugello-sarei-sorpreso-se-si-corresse-il-mondiale-2020-1.38690006">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>MotoGp, salta anche il Mugello. “Sarei sorpreso se si corresse il Mondiale 2020”</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GUGLIELMO BUCCHERI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23613,7 +23613,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/07/news/partite-aperte-solo-a-239-persone-giocatori-staff-quattro-raccattapalle-giornalisti-cosi-la-bundesliga-pensa-di-riprendere-il-campionato-a-maggio-1.38689999">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Partite aperte solo a 239 persone: giocatori, staff, quattro raccattapalle, giornalisti. Così la Bundesliga pensa di riprendere il campionato a maggio</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GIORGIO VIBERTI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23632,7 +23632,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/07/news/tangenti-in-cambio-di-voti-per-assegnare-i-mondiali-di-calcio-i-nomi-dei-corrotti-1.38689896">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Tangenti in cambio di voti per assegnare i Mondiali di calcio, i nomi dei corrotti</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GIORGIO VIBERTI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23651,7 +23651,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/07/news/il-ciclismo-lancia-l-allarme-se-non-si-torna-a-correre-molte-squadre-chiuderanno-1.38689382">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il ciclismo lancia l’allarme: “Se non si torna a correre, molte squadre chiuderanno”</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GUGLIELMO BUCCHERI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23670,7 +23670,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/07/news/calcio-la-partita-degli-stipendi-tagliati-in-serie-a-puo-finire-in-tribunale-1.38689241">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Calcio, la partita degli stipendi tagliati in serie A può finire in tribunale</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>DANIELA COTTO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23689,7 +23689,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/07/news/virus-il-golf-rivoluziona-il-calendario-ma-la-ryder-cup-e-salva-per-ora-1.38688193">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Virus: il golf rivoluziona il calendario ma la Ryder Cup è salva. Per ora</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>FRANCESCO MANASSERO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23969,7 +23969,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/04/news/coronavirus-la-casa-della-nazionale-trasformata-in-centro-per-la-quarantena-1.38678824">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, la casa della Nazionale trasformata in centro per la quarantena</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>STEFANO SEMERARO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -23988,7 +23988,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/tennis/2020/04/04/news/la-sharapova-si-sente-sola-chiamatemi-questo-e-il-mio-numero-1.38678775">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>La Sharapova si sente sola: «Chiamatemi, questo è il mio numero»</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GIANLUCA ODDENINO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24007,7 +24007,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/04/news/coronavirus-il-monza-di-berlusconi-taglia-gli-stipendi-del-50-1.38678619">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, Berlusconi taglia gli stipendi del 50% al Monza</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>ROBERTO PAVANELLO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24026,7 +24026,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/04/news/sky-sport-questa-volta-buffa-non-racconta-ma-risponde-1.38679331">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Sky Sport, questa volta Buffa non racconta ma risponde</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>STEFANO SCACCHI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24045,7 +24045,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/04/news/agnelli-lotito-scoppia-la-pace-per-riprendere-la-serie-a-e-tagliare-gli-stipendi-1.38678039">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Agnelli-Lotito, scoppia la pace per far ripartire la Serie A e tagliare gli stipendi</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GIANLUCA ODDENINO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24064,7 +24064,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/04/news/tagliare-ma-non-troppo-quando-i-calciatori-salgono-sulle-barricate-1.38677654">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Tagliare, ma non troppo. Quando i calciatori salgono sulle barricate</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GUGLIELMO BUCCHERI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24083,7 +24083,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/04/news/dal-caso-bosman-al-campionato-chiuso-in-anticipo-il-belgio-sa-come-far-tremare-l-europa-del-calcio-1.38677616">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Dal caso Bosman al campionato chiuso in anticipo. Il Belgio sa come far tremare l’Europa del calcio</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>FRANCESCO MANASSERO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24102,7 +24102,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/03/news/toro-djidji-racconta-le-differenze-con-la-francia-serie-a-piu-tosta-per-emergenza-virus-italia-piu-disciplinata-1.38674340">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Toro, Djidji racconta le differenze con la Francia: “Serie A più tosta. Per emergenza virus, Italia più disciplinata”</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GIANLUCA ODDENINO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24121,7 +24121,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/03/news/juve-dybala-resta-in-quarantena-abbiamo-ancora-il-coronavirus-1.38674067">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Juve, Dybala resta in quarantena: “Abbiamo ancora il coronavirus”</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>STEFANO SCACCHI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24140,7 +24140,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/03/news/taglio-stipendi-lo-scontro-tra-club-e-giocatori-1.38673677">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Taglio stipendi, lo scontro tra club e giocatori</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>JACOPO D'ORSI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24159,7 +24159,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/03/news/coronavirus-la-rivolta-di-eto-o-e-drogba-test-in-africa-non-siamo-cavie-1.38673640">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, la rivolta di Eto’o e Drogba: “Test in Africa? Non siamo cavie”</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>JACOPO D'ORSI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24178,7 +24178,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/motori/2020/04/03/news/f1-silverstone-si-fa-avanti-pronti-a-ospitare-piu-di-una-gara-1.38673180">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>F1, Silverstone si fa avanti: pronti a ospitare più di una gara</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>PAOLO BRUSORIO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24197,7 +24197,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/03/news/stipendi-il-governo-inglese-attacca-i-calciatori-1.38673085">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Stipendi, il governo inglese attacca i calciatori</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>ROBERTO CONDIO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24216,7 +24216,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/03/news/inter-la-storia-in-un-triplete-1.38672978">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Inter, la storia in un Triplete</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>STEFANO MANCINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24235,7 +24235,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/motori/2020/04/02/news/l-ex-boss-della-formula-1-ecclestone-papa-per-la-quarta-volta-a-89-anni-1.38670750">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>L'ex boss della Formula 1 Ecclestone papà per la quarta volta a 89 anni</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>ANTONIO BARILLà </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24254,7 +24254,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/02/news/belgio-stop-definitivo-al-campionato-primo-caso-in-europa-1.38669873">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Belgio, stop definitivo al campionato: primo caso in Europa</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>ROBERTO CONDIO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24273,7 +24273,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/02/news/coronavirus-spadafora-un-piano-per-far-ripartire-lo-sport-a-maggio-1.38669780">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, Spadafora: “Un piano per far ripartire lo sport a maggio”</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>ANTONIO BARILLà </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24292,7 +24292,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/motori/2020/04/02/news/coronavirus-la-mclaren-e-la-prima-scuderia-a-tagliare-in-formula-1-1.38669482">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, la McLaren è la prima scuderia a “tagliare” in Formula 1</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>DANIELA COTTO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24311,7 +24311,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/02/news/motogp-rinviato-anche-il-gp-di-francia-del-17-maggio-1.38669061">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>MotoGp: rinviato anche il Gp di Francia del 17 maggio</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>ANTONIO BARILLà </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24330,7 +24330,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/calcio/2020/04/02/news/se-la-serie-a-non-ripartisse-e-lo-scudetto-venisse-assegnato-la-juve-dovrebbe-accettarlo-1.38668744">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Se la Serie A non ripartisse e lo scudetto venisse assegnato, la Juve dovrebbe accettarlo?</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>FRANCESCO MANASSERO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -24349,7 +24349,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/sport/2020/04/02/news/ryder-a-settembre-per-far-ripartire-il-golf-l-idea-romantica-del-capitano-dell-europa-1.38666529">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>“Ryder a settembre per far ripartire il golf”: l’idea romantica del capitano dell’Europa</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>GIULIA ZONCA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -27001,7 +27001,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/23/news/telecom-dividendo-nonostante-la-crisi-tre-miliardi-per-tagliare-il-debito-1.38750028">
+                    <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/23/news/telecom-dividendo-nonostante-la-crisi-tre-miliardi-per-tagliare-il-debito-1.3875028">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Telecom, dividendo nonostante la crisi Tre miliardi per tagliare il debito</ww:originalTitle>
                     <dc:date>2020-04-23</dc:date>
@@ -29063,7 +29063,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/coronavirus-eurogruppo-intesa-a-cinque-sul-pacchetto-economico-anti-crisi-1.38699996">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Eurogruppo, accordo da 500 miliardi. Ma c’è l’ennesimo rinvio sugli eurobond</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MARCO BRESOLIN </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29082,7 +29082,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/unicredit-via-libera-degli-azionisti-ai-conti-2019-1.3870113">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Unicredit, via libera degli azionisti ai conti 2019</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>FRANCESCO SPINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29101,7 +29101,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/coronavirus-accordo-tra-fca-e-sindacati-per-la-ripartenza-1.38699556">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, accordo tra Fca e sindacati per la ripartenza</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>TEODORO CHIARELLI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29120,7 +29120,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/nuovo-round-di-negoziati-all-eurogruppo-merkel-chiude-all-ipotesi-coronabond-1.38699319">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Nuovo round di negoziati all'Eurogruppo, Merkel chiude all'ipotesi Coronabond</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MARCO BRESOLIN </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29139,7 +29139,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/saipem-contratto-per-costruire-una-ferrovia-in-egitto-1.38699262">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Saipem, contratto per costruire una ferrovia in Egitto</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29158,7 +29158,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/agricoltura/2020/04/09/news/il-riso-italiano-sara-esportato-in-cina-l-accordo-dopo-anni-di-trattative-1.38699006">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il riso italiano sarà esportato in Cina, l’accordo dopo anni di trattative</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MAURIZIO TROPEANO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29177,7 +29177,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/covid-19-la-abet-laminati-crea-rivestimenti-anti-virus-1.38698972">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Covid-19, la Abet Laminati crea rivestimenti anti-virus</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI  GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29196,7 +29196,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/windtre-un-trimestre-di-connettivita-gratis-per-studiare-connessi-1.38698900">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>WindTre, un trimestre di connettività gratis per “Studiare connessi”</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29215,7 +29215,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/non-fissarsi-sui-coronabond-l-europa-trovera-una-soluzione-1.38698289">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Eurobond, Merkel gela l’Italia: “Sono contraria”. E Lagarde: “L’Europa troverà altre soluzioni”</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>ROBERTO GIOVANNINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29234,7 +29234,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/09/news/decreto-imprese-sulla-gazzetta-ufficiale-sace-sotto-controllo-del-ministero-dell-economia-1.38698166">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Decreto imprese sulla Gazzetta Ufficiale. Sace passa sotto il controllo del ministero dell’Economia</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>VALERIA PIANTONI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29253,7 +29253,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/borse-asiatiche-in-leggero-recupero-1.38697953">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Wall Street in rialzo su stimoli Fed</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>GIANLUCA PAOLUCCI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29272,7 +29272,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/dl-imprese-patuelli-subito-alle-banche-le-misure-applicative-ecco-il-testo-della-circolare-1.38697946">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Patuelli (Abi): “Subito alle banche le misure applicative per la liquidità alle imprese”. Ecco il testo della circolare</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>ROBERTO GIOVANNINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29291,7 +29291,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/petrolio-c-e-l-accordo-per-tagliare-la-produzione-1.38697931">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Petrolio, c’è l’accordo per tagliare la produzione</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>TEODORO CHIARELLI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29310,7 +29310,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/08/news/l-appello-delle-confindustrie-del-nord-al-governo-fateci-lavorare-o-il-motore-del-paese-si-fermera-1.38695893">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>L’appello delle Confindustrie del Nord al governo: “Fateci lavorare o il motore del Paese si fermerà”</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MARCO BRESOLIN </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29329,7 +29329,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/elkann-avanti-con-le-nozze-fca-peugeot-exor-e-in-prima-linea-per-la-ripresa-1.38695848">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Elkann: avanti con le nozze Fca-Peugeot. “Exor è in prima linea per la ripresa”</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29348,7 +29348,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/09/news/eurogruppo-scontro-sul-fondo-salva-stati-germania-e-francia-in-pressing-sull-olanda-1.38695945">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Eurogruppo, scontro sul fondo salva-Stati: Germania e Francia in pressing sull’Olanda</ww:originalTitle>
-                    <dc:date> 2020-04-009</dc:date>
+                    <dc:date> 2020-04-09</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>TEODORO CHIARELLI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29367,7 +29367,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/08/news/banca-generali-fa-boom-in-borsa-1.38695468">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Banca Generali fa boom in Borsa</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MATTEO CIVILLINI, GIANLUCA PAOLUCCI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29386,7 +29386,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/08/news/exor-avanti-su-fca-psa-e-partnerre-covea-nonostante-il-coronavirus-elkann-in-prima-linea-per-la-ripresa-il-giornalismo-di-qualita-ha-futuro-1.38695188">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Exor: avanti su Fca-Psa e PartnerRe-Covéa nonostante il coronavirus. Elkann: “In prima linea per la ripresa. Il giornalismo di qualità ha futuro”</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>WALTER PASSERINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29405,7 +29405,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/08/news/mascherine-consip-revoca-il-contratto-con-la-indaco-service-1.38694490">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Mascherine, Consip revoca il contratto con la Indaco Service</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>WALTER PASSERINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29424,7 +29424,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/lavoro/2020/04/08/news/satispay-alla-caccia-di-giovani-specialisti-1.38694190">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Satispay alla caccia di giovani specialisti</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>VALERIA PIANTONI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29443,7 +29443,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/lavoro/2020/04/08/news/la-banca-d-italia-assume-105-laureati-e-diplomati-destinati-all-area-operativa-1.38694169">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>La Banca d’Italia assume 105 laureati e diplomati destinati all’area operativa</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29462,7 +29462,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/08/news/borse-asiatiche-incerte-sulla-scia-di-wall-street-1.38693465">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Wall Street tenta il recupero</ww:originalTitle>
-                    <dc:date> 2020-04-008</dc:date>
+                    <dc:date> 2020-04-08</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MAURIZIO TROPEANO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29481,7 +29481,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/07/news/la-borsa-scatta-con-il-lingotto-1.38691070">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>La Borsa scatta con il Lingotto</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29500,7 +29500,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/agricoltura/2020/04/07/news/vigneti-e-frantoi-d-italia-on-line-le-giacenze-per-evitare-speculazioni-e-pratiche-sleali-1.38690864">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Vigneti e frantoi d’Italia, on line le giacenze “per evitare speculazioni e pratiche sleali”</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUCA MONTICELLI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29519,7 +29519,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/07/news/il-coronavirus-avra-effetti-devastanti-sul-lavoro-a-rischio-25-milioni-di-posti-1.38690839">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>“Il coronavirus avrà effetti devastanti sul lavoro, a rischio 25 milioni di posti”</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>WALTER PASSERINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29538,7 +29538,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/07/news/l-oreal-400-mila-prodotti-alle-onlus-1.38690335">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>L’Oréal, 400 mila prodotti alle onlus</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -29556,7 +29556,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/07/news/allarme-istat-choc-senza-precedenti-con-chiusure-fino-a-giugno-consumi-giu-del-10-1.38690101">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Allarme Istat: choc senza precedenti, con chiusure fino a giugno consumi giù del 10%</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -29574,7 +29574,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/lavoro/2020/04/07/news/esame-di-stato-bloccato-per-migliaia-di-giovani-ma-potrebbero-essere-subito-utili-1.38689820">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Esame di Stato bloccato per migliaia di giovani, ma potrebbero essere subito utili</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -29592,7 +29592,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/07/news/borse-europee-aprono-in-positivo-1.38689406">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Wall Street apre in netto rialzo</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>VALERIA PIANTONI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29611,7 +29611,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/07/news/diasorin-entro-fine-mese-il-test-per-gli-anticorpi-covid-19-1.38689392">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Diasorin, entro fine mese il test per gli anticorpi Covid-19</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>PAOLO BARONI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29630,7 +29630,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/lavoro/2020/04/07/news/coronavirus-choc-epocale-in-italia-a-rischio-1-milione-di-imprese-1.38689190">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus “choc epocale”: in Italia a rischio 1 milione di imprese</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>DOMENICO ZACCARIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29649,7 +29649,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/07/news/cnh-industria-ritira-la-proposta-di-distribuzione-del-dividendo-1.38689046">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Cnh Industrial ritira la proposta di distribuzione del dividendo</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>FRANCESCO SPINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29668,7 +29668,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/tuttogreen/2020/04/07/news/covistop-la-barriera-antivirus-che-ha-dato-nuova-vita-alla-eurostands-di-cavenago-1.38673495">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>“Covistop”, la barriera antivirus che ha dato nuova vita alla Eurostands di Cavenago</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>PAOLO BARONI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29687,7 +29687,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/07/news/i-piccoli-azionisti-tim-al-governo-ora-serve-la-rete-unica-1.38687709">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>I piccoli azionisti Tim al governo: “Ora serve la rete unica”</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>PAOLO BARONI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29706,7 +29706,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/07/news/il-governo-vara-il-decreto-imprese-una-potenza-di-fuoco-mai-vista-1.38687628">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, il governo vara il decreto imprese: “Una potenza di fuoco mai vista”</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -29725,7 +29725,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/lavoro/2020/04/07/news/coronavirus-stop-al-fallimento-delle-imprese-sino-alla-fine-della-crisi-1.38687841">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, stop al fallimento delle imprese sino alla fine della crisi</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MAURIZIO TROPEANO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30029,7 +30029,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/04/news/neos-porta-2-5-milioni-di-mascherine-dalla-cina-alla-spagna-1.38679288">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Neos porta 2,5 milioni di mascherine dalla Cina alla Spagna</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>CARLO ALBERTO DE CASA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30048,7 +30048,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/04/news/autostrade-accordo-a-un-passo-il-51-ad-allianz-atlantia-al-49-niente-revoche-o-penali-1.38679155">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Autostrade, accordo a un passo: il 51% ai tedeschi di Allianz, Atlantia al 49%, niente revoche o penali. Palazzo Chigi smentisce</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>ALESSANDRO BARBERA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30067,7 +30067,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/agricoltura/2020/04/04/news/coronavirus-troppi-vincoli-burocratici-frenano-l-agroalimentare-1.38678594">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>“Coronavirus, troppi vincoli burocratici frenano l’agroalimentare”</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -30085,7 +30085,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/04/news/coronavirus-gentiloni-serve-un-piano-marshall-dell-unione-europea-1.38678032">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, Gentiloni: “Serve un piano Marshall dell’Unione Europea”</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -30103,7 +30103,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/04/news/le-garanzie-dello-stato-quanto-valgono-e-come-aiuteranno-le-imprese-a-superare-la-crisi-economica-1.38677964">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Le garanzie dello Stato: quanto valgono e come aiuteranno le imprese a superare la crisi economica</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -30121,7 +30121,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/04/news/calo-della-domanda-e-vendite-dei-fondi-ecco-perche-l-oro-frena-in-borsa-1.38677452">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Calo della domanda e vendite dei fondi, ecco perché l’oro frena in Borsa</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -30139,7 +30139,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/04/news/intesa-conte-mef-pronti-200-miliardi-di-prestiti-garantiti-1.38675616">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Intesa Conte-Mef: pronti 200 miliardi di prestiti “coperti”</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -30157,7 +30157,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/coronavirus-fca-rinvia-assemblea-azionisti-a-fine-giugno-1.38675680">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, Fca rinvia a fine giugno l'assemblea di Bilancio e la delibera sul dividendo da 1,1 miliardi legato all'accordo con Psa</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>TEODORO CHIARELLI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30176,7 +30176,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/coronavirus-appello-di-bar-e-ristoranti-al-governo-subito-in-intervento-a-tutela-del-settore-1.38675549">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, appello di bar e ristoranti al governo: subito in intervento a tutela del settore</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MARCO BRESOLIN, ILARIO LOMBARDO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30195,7 +30195,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/tensione-sui-conti-ue-salta-telefonata-conte-sanchez-rutte-1.38675503">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Tensione sui conti Ue, Salta telefonata Conte-Sanchez-Rutte</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30214,7 +30214,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/exor-per-gedi-chiusura-con-cir-il-23-aprile-1.38675472">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Exor, per Gedi chiusura con Cir il 23 aprile</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>SANDRA RICCIO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30233,7 +30233,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/coronavirus-dalla-collaborazione-fca-siare-le-prime-elettrovalvole-per-i-ventilatori-1.38675296">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, dalla collaborazione Fca-Siare le prime elettrovalvole per i ventilatori</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30252,7 +30252,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/borsa-giu-atlantia-controcorrente-1.38675008">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Borsa giù, Atlantia controcorrente</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MAURIZIO TROPEANO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30271,7 +30271,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/coronavirus-sconti-dal-fisco-sulle-donazioni-alimentari-per-le-famiglie-1.38674809">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, sconti dal Fisco sulle donazioni alimentari per le famiglie</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MAURIZIO TROPEANO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30290,7 +30290,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/edison-non-cede-il-gas-algerino-1.38674516">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Edison non cede il gas algerino</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>WALTER PASSERINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30309,7 +30309,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/agricoltura/2020/04/03/news/coronavirus-accanto-a-liquori-e-integratori-alimentari-ora-si-realizzano-disinfettanti-1.38674302">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, accanto a liquori e integratori alimentari ora si realizzano disinfettanti</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>WALTER PASSERINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30328,7 +30328,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/agricoltura/2020/04/03/news/coronavirus-scontro-sui-voucher-per-l-agricoltura-1.38674126">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, scontro sui voucher per l’agricoltura</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>GIORDANO STABILE </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30347,7 +30347,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/lavoro/2020/04/03/news/borello-supermercati-cerca-giovani-esperti-ortofrutta-macellai-pescivendoli-1.38673659">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Borello Supermercati cerca giovani, esperti ortofrutta, macellai, pescivendoli</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>VALERIA PIANTONI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30366,7 +30366,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/lavoro/2020/04/03/news/l-emergenza-coronavirus-non-ferma-hangar-piemonte-premiati-15-progetti-1.38673643">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>L’emergenza coronavirus non ferma Hangar Piemonte: premiati 15 progetti</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30385,7 +30385,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/petrolio-riad-cede-a-trump-e-chiede-una-riunione-d-emergenza-dell-opec-1.38673315">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Petrolio, Riad cede a Trump e chiede una riunione d’emergenza dell’Opec</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>LUIGI GRASSIA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30404,7 +30404,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/covid-19-la-birra-corona-sospende-la-produzione-per-due-settimane-1.38673297">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Covid-19, la birra Corona sospende la produzione per due settimane</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MARCO BRESOLIN </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30423,7 +30423,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/coronavirus-google-mette-in-chiaro-gli-spostamenti-rispettata-la-privacy-1.38673200">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, Google mette in chiaro gli spostamenti: rispettata la privacy</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>WALTER PASSERINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30442,7 +30442,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/03/news/borse-asiatiche-in-calo-1.38673060">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Avvio incerto per Wall Street</ww:originalTitle>
-                    <dc:date> 2020-04-003</dc:date>
+                    <dc:date> 2020-04-03</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>ROBERTO GIOVANNINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30461,7 +30461,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/02/news/allarme-italia-il-pil-puo-cadere-del-15-1.38670894">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Allarme Italia, “il Pil può cadere del 15%”</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MAURIZIO TROPEANO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30480,7 +30480,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/02/news/il-petrolio-accende-piazza-affari-1.38670440">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il petrolio accende Piazza Affari</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>WALTER PASSERINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30499,7 +30499,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/02/news/le-due-opzioni-sul-tavolo-per-l-utilizzo-del-fondo-salva-stati-ma-restano-condizionalita-e-il-monitoraggio-1.38670063">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Le due opzioni sul tavolo per l'utilizzo del Fondo Salva Stati, ma restano condizionalità e il monitoraggio</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>FRANCESCO SPINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30518,7 +30518,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/02/news/coronavirus-luxottica-taglia-lo-stipendio-dei-manager-per-integrare-la-cassa-integrazione-dei-dipendenti-1.38669550">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, Luxottica taglia lo stipendio dei manager per integrare la cassa integrazione dei dipendenti</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>R. GI. </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30537,7 +30537,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/lavoro/2020/04/02/news/assunzioni-di-giovani-per-la-carriera-di-junior-technology-specialist-1.38669525">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Assunzioni di giovani per la carriera di Junior Technology Specialist</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>VALERIA PIANTONI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30556,7 +30556,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/02/news/riuscira-l-inps-a-pagare-entro-il-15-aprile-i-bonus-e-la-cig-1.38669463">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Riuscirà l’Inps a pagare entro il 15 aprile i bonus e la Cig?</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>ROBERTO GIOVANNINI </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30575,7 +30575,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/agricoltura/2020/04/02/news/cimice-asiatica-dall-ue-piu-fondi-per-gli-interventi-in-difesa-dell-ortofrutta-italiana-1.38669363">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Cimice asiatica, dall’Ue più fondi per gli interventi in difesa dell’ortofrutta italiana</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName>MAURIZIO TROPEANO </js:birthName>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
@@ -30594,7 +30594,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/lavoro/2020/04/02/news/il-premio-marzotto-2020-rilancia-con-risorse-per-5-milioni-di-euro-1.38669294">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il Premio Marzotto 2020 rilancia con risorse per 5 milioni di euro</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -30612,7 +30612,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/02/news/altola-ai-dividenti-della-banca-d-inghilterra-hsbc-medita-il-trasloco-a-hong-kong-1.38669220">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Altolà ai dividendi dalla Banca d'Inghilterra, Hsbc medita il trasloco a Hong Kong</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -30630,7 +30630,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/tuttogreen/2020/04/02/news/zanchini-legambiente-migliaia-di-cantieri-diffusi-una-ricetta-di-buon-senso-1.38669069">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Zanchini, Legambiente: “Migliaia di cantieri diffusi, una ricetta di buon senso”</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -30648,7 +30648,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/02/news/crisi-coronavirus-boeing-pronta-a-vendere-l-azienda-ai-suoi-160-mila-dipendenti-1.38668884">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Crisi coronavirus, Boeing pronta a vendere l’azienda ai suoi 160 mila dipendenti</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -30666,7 +30666,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/economia/2020/04/02/news/borse-asiatiche-contrastate-sulla-scia-di-wall-street-1.38668485">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Wall Street volatile in apertura, tenta il recupero</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -30684,7 +30684,7 @@
                     <rdf:Description rdf:about="https://www.lastampa.it/tuttogreen/2020/04/02/news/fillea-cgil-e-legambiente-rilanciamo-edilizia-ed-economia-con-l-adeguamento-energetico-delle-case-degli-italiani-1.38666497">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Fillea-Cgil e Legambiente, un piano per fare ristrutturazioni energetiche a 1,2 milioni di condomini creando 430mila posti di lavoro</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
                     <np:associateEditor> 
@@ -32246,7 +32246,7 @@
                     <rdf:Description rdf:about="https://www.ilriformista.it/dramma-per-lex-del-napoli-beto-figlio-ucciso-a-colpi-di-pistola-80305/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Dramma per l’ex del Napoli Beto: figlio ucciso a colpi di pistola</ww:originalTitle>
-                    <dc:date> 2020-04-007</dc:date>
+                    <dc:date> 2020-04-07</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>Redazione </js:birthName>
                     <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>
@@ -32303,7 +32303,7 @@
                     <rdf:Description rdf:about="https://www.ilriformista.it/coverciano-maracana-e-iduna-park-il-calcio-dona-gli-stadi-per-il-coronavirus-75759/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coverciano, Maracanà e Iduna Park: il calcio ‘dona’ gli stadi per il coronavirus</ww:originalTitle>
-                    <dc:date> 2020-04-004</dc:date>
+                    <dc:date> 2020-04-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>Redazione </js:birthName>
                     <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>
@@ -32322,7 +32322,7 @@
                     <rdf:Description rdf:about="https://www.ilriformista.it/la-quarantena-con-maria-sharapova-questo-e-il-mio-numero-scrivetemi-75483/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>La quarantena con Maria Sharapova: “Questo è il mio numero, scrivetemi”</ww:originalTitle>
-                    <dc:date> 2020-04-002</dc:date>
+                    <dc:date> 2020-04-02</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
                     <js:birthName>Redazione </js:birthName>
                     <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>
