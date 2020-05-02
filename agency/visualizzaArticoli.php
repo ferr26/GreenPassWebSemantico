@@ -9,7 +9,7 @@
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     
 
-        <title>WalkToWalk</title>
+        <title>GreenPass</title>
 
         <!-- Google font -->
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
@@ -110,8 +110,10 @@
                               
 
     <?php
-         
-         
+                
+        ini_set('error_reporting', E_ALL & ~E_DEPRECATED & ~E_STRICT);
+        ini_set('display_errors', 0); // disabilita la visualizzazione degli errori a schermo.
+        ini_set('log_errors', 0); // disabilita il log degli errori.
 
         require_once( "lib/sparqllib.php" );
         $db = sparql_connect( "http://localhost:8890/sparql" );
@@ -119,7 +121,12 @@
         $nomeCategoria= $_POST["tipoEnte"];
         $ordine= $_POST["ordine"];
         $giornale= $_POST["giornale"];
+        $parola= $_POST["parola"];
 
+
+        if($parola != null){
+            selectParolaChiave($parola);
+        }
     if($giornale == "tutti"){
 
 
@@ -183,8 +190,10 @@
                   $linkArticolo=$row[$field];
             }else if($field == "date"){
                 $data=$row[$field];
+
                 $anno=substr($data, 0, 4);
                 $mese=substr($data, 5, 2);
+     
                 if ($mese=="01"){
                     $mese="Gennaio";
                 }
@@ -711,8 +720,294 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
         
         } // fine funzione Categoria2
 
-                       
+    
+    function selectParolaChiave($parola){
+        $sparql = "SELECT DISTINCT *  WHERE {
+            ?x ww:originalTitle ?originalTitle .
+            ?x dc:date ?date .
+            ?x js:birthName ?birthName.
+            ?x dc:language ?language .
+            ?x rdf:type ?type .
+            ?x dc:format ?format .
+            ?x np:Newspaper ?newspaper .
+            ?x np:publisher ?publisher .
+            ?x np:associateEditor ?associateEditor .
+            ?associateEditor foaf:name ?name .
+            ?x foaf:primaryTopic ?primaryTopic  .
+            Filter contains(?originalTitle, LCASE('$parola'))    
+    }
+    ORDER BY DESC(?date)
+    LIMIT   200";
+    
+    $result = sparql_query( $sparql ); 
+    if( !$result ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
+    
+    $fields = sparql_field_array( $result );
+    
+    print"<h3 class=\"title\">RISULTATI (".sparql_num_rows( $result ).") </h3>";
+
+    while( $row = sparql_fetch_array( $result ) )
+    {    
+        
+      
+        foreach( $fields as $field )
+        {
+          //  echo("$field : $row[$field]");
+    
+             if($field == "originalTitle"){
+                 $titolo=$row[$field];      
+            } else if($field == "x"){
+                  $linkArticolo=$row[$field];
+            }else if($field == "date"){
+                $data=$row[$field];
+                $anno=substr($data, 0, 4);
+                $mese=substr($data, 5, 2);
+                if ($mese=="01"){
+                    $mese="Gennaio";
+                }
+                if ($mese=="02"){
+                    $mese="Febbraio";
+                }
+                if ($mese=="03"){
+                    $mese="Marzo";
+                }
+                if ($mese=="04"){
+                    $mese="Aprile";
+                }
+                if ($mese=="05"){
+                    $mese="Maggio";
+                }
+                if ($mese=="06"){
+                    $mese="Giugno";
+                }
+                if ($mese=="07"){
+                    $mese="Luglio";
+                }
+                if ($mese=="08"){
+                    $mese="Agosto";
+                }
+                if ($mese=="09"){
+                    $mese="Settembre";
+                }
+                if ($mese=="10"){
+                    $mese="Ottobre";
+                }
+                if ($mese=="11"){
+                    $mese="Novembre";
+                }
+                if ($mese=="12"){
+                    $mese="Dicembre";
+                }
+                
+                $giorno=substr($data, 8, 10);
+                $data="$giorno $mese $anno";
+
+
+            }else if($field == "birthName"){
+                $nomeAutore=$row[$field];
+            } else if($field == "newspaper"){
+                $linkGiornale=$row[$field];
+            }else if($field == "publisher"){
+                $linkEditore=$row[$field];
+            } else if($field == "primaryTopic"){
+                $topic=$row[$field];
+            } 
+
+    
+         }
+        
+
+
+        
+
+        echo "
+        <div class=\"media\">
+        <div class=\"media-left\">";
+
+        if ($linkGiornale=="https://www.repubblica.it/"){
+        echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/rep.png\" alt=\"\" width=\"70\" height=\"70\"></a>
+        </div>
+        <div class=\"media-body\">";
+        }
+        if ($linkGiornale=="https://www.corriere.it/"){
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/corriere.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            </div>
+            <div class=\"media-body\">";
+        }
+        if ($linkGiornale=="https://www.lastampa.it/"){
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/lastampa.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            </div>
+            <div class=\"media-body\">";
+        }
+        if ($linkGiornale=="https://www.ilfattoquotidiano.it/"){
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/ilfatto.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            </div>
+            <div class=\"media-body\">";
+        }
+        if ($linkGiornale=="https://www.ilriformista.it/"){
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/riformista.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            </div>
+            <div class=\"media-body\">";
+        }
+
+
+
+        echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
+        
+        echo"
+        <p>$data - <em><b>$nomeAutore</b></em></p> 
+        ";
+
+        if ($topic=="http://www.treccani.it/vocabolario/cronaca/"){
+                echo"
+                <a href=\"$topic\"><p> CRONACA </p> </a>     
+                <br>
+                ";
+
+                if ($linkEditore=="http://www.gedispa.it/"){
+                echo "<p> <a href=\"$linkEditore\">G.E.D.I.</a></p>
+                    </div>
+                    </div>";
+                }
+                if ($linkEditore=="https://www.seif-spa.it/"){
+                    echo "<p> <a href=\"$linkEditore\">SOCIETA' EDITORIALE IL FATTO</a></p>
+                        </div>
+                        </div>";
+                }
+                if ($linkEditore=="https://www.rcsmediagroup.it/"){
+                    echo "<p> <a href=\"$linkEditore\">RCS GROUP</a></p>
+                        </div>
+                        </div>";
+                }
+                if ($linkEditore=="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"){
+                    echo "<p> <a href=\"$linkEditore\">ROMEO EDITORIALE</a></p>
+                        </div>
+                        </div>";
+                }
+
+
+        } 
+        if ($topic=="http://www.treccani.it/vocabolario/economia/"){
+            echo"
+            <a href=\"$topic\"><p> ECONOMIA </p> </a>     
+            <br>
+            ";
+
+            if ($linkEditore=="http://www.gedispa.it/"){
+            echo "<p> <a href=\"$linkEditore\">G.E.D.I.</a></p>
+                </div>
+                </div>";
+            }
+            if ($linkEditore=="https://www.seif-spa.it/"){
+                echo "<p> <a href=\"$linkEditore\">SOCIETA' EDITORIALE IL FATTO</a></p>
+                    </div>
+                    </div>";
+            }
+            if ($linkEditore=="https://www.rcsmediagroup.it/"){
+                echo "<p> <a href=\"$linkEditore\">RCS GROUP</a></p>
+                    </div>
+                    </div>";
+            }
+            if ($linkEditore=="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"){
+                echo "<p> <a href=\"$linkEditore\">ROMEO EDITORIALE</a></p>
+                    </div>
+                    </div>";
+            }
+      } 
+
+      if ($topic=="http://www.treccani.it/vocabolario/politica/"){
+        echo"
+        <a href=\"$topic\"><p> POLITICA </p> </a>     
+        <br>
+        ";
+
+        if ($linkEditore=="http://www.gedispa.it/"){
+        echo "<p> <a href=\"$linkEditore\">G.E.D.I.</a></p>
+            </div>
+            </div>";
+        }
+        if ($linkEditore=="https://www.seif-spa.it/"){
+            echo "<p> <a href=\"$linkEditore\">SOCIETA' EDITORIALE IL FATTO</a></p>
+                </div>
+                </div>";
+        }
+        if ($linkEditore=="https://www.rcsmediagroup.it/"){
+            echo "<p> <a href=\"$linkEditore\">RCS GROUP</a></p>
+                </div>
+                </div>";
+        }
+        if ($linkEditore=="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"){
+            echo "<p> <a href=\"$linkEditore\">ROMEO EDITORIALE</a></p>
+                </div>
+                </div>";
+        }
+  } 
+
+  if ($topic=="http://www.treccani.it/vocabolario/cultura/"){
+    echo"
+    <a href=\"$topic\"><p> CULTURA </p> </a>     
+    <br>
+    ";
+
+    if ($linkEditore=="http://www.gedispa.it/"){
+    echo "<p> <a href=\"$linkEditore\">G.E.D.I.</a></p>
+        </div>
+        </div>";
+    }
+    if ($linkEditore=="https://www.seif-spa.it/"){
+        echo "<p> <a href=\"$linkEditore\">SOCIETA' EDITORIALE IL FATTO</a></p>
+            </div>
+            </div>";
+    }
+    if ($linkEditore=="https://www.rcsmediagroup.it/"){
+        echo "<p> <a href=\"$linkEditore\">RCS GROUP</a></p>
+            </div>
+            </div>";
+    }
+    if ($linkEditore=="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"){
+        echo "<p> <a href=\"$linkEditore\">ROMEO EDITORIALE</a></p>
+            </div>
+            </div>";
+    }
+} 
+
+if ($topic=="http://www.treccani.it/vocabolario/sport/"){
+    echo"
+    <a href=\"$topic\"><p> SPORT </p> </a>     
+    <br>
+    ";
+
+    if ($linkEditore=="http://www.gedispa.it/"){
+    echo "<p> <a href=\"$linkEditore\">G.E.D.I.</a></p>
+        </div>
+        </div>";
+    }
+    if ($linkEditore=="https://www.seif-spa.it/"){
+        echo "<p> <a href=\"$linkEditore\">SOCIETA' EDITORIALE IL FATTO</a></p>
+            </div>
+            </div>";
+    }
+    if ($linkEditore=="https://www.rcsmediagroup.it/"){
+        echo "<p> <a href=\"$linkEditore\">RCS GROUP</a></p>
+            </div>
+            </div>";
+    }
+    if ($linkEditore=="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"){
+        echo "<p> <a href=\"$linkEditore\">ROMEO EDITORIALE</a></p>
+            </div>
+            </div>";
+    }
+} 
+
+
+    } // fine WHILE
+   
+
+        }
+
     ?>
+
+
 
 </div>
 						<!-- /blog comments -->
