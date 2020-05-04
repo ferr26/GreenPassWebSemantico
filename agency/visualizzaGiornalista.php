@@ -215,7 +215,7 @@
                              echo ("<a href=$federation><img class=\"media-object\" src=\"./img/sardegna.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
                                                     }
         if ($federation=="\"https://www.odg.it/\""){
-                            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/ordine.png\" alt=\"\" width=\"120\" height=\"100\"></a>");
+                            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/ordine.png\" alt=\"\" width=\"100\" height=\"90\"></a>");
                                                      }
         echo ("<p></p>");
         echo ("<a href=$linkPubblicazioni><img class=\"media-object\" src=\"./img/pubblicazioni.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
@@ -225,7 +225,7 @@
 
 
     }
-
+}
     ?>
 
 
