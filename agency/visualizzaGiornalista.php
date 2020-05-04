@@ -204,7 +204,7 @@
         if ($federation=="\"http://www.ordinegiornalisti.veneto.it/#sthash.wW1ftcUK.dpbs\""){
                             echo ("<a href=$federation><img class=\"media-object\" src=\"./img/veneto.jpg\" alt=\"\" width=\"70\" height=\"90\"></a>");
                             }
-                        }
+                        
         if ($federation=="\"https://www.odg.mi.it/\""){
                                             echo ("<a href=$federation><img class=\"media-object\" src=\"./img/lombardia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
                                             }
