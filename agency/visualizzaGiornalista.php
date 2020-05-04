@@ -198,6 +198,9 @@
         if ($federation=="\"http://www.odg.toscana.it/\""){
                     echo ("<a href=$federation><img class=\"media-object\" src=\"./img/toscana.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
                     }
+        if ($federation=="\"https://odg.bo.it/\""){
+                        echo ("<a href=$federation><img class=\"media-object\" src=\"./img/emilia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                        }
         echo ("<p></p>");
         echo ("<a href=$linkPubblicazioni><img class=\"media-object\" src=\"./img/pubblicazioni.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
 
