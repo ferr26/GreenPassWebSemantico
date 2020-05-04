@@ -201,6 +201,16 @@
         if ($federation=="\"https://odg.bo.it/\""){
                         echo ("<a href=$federation><img class=\"media-object\" src=\"./img/emilia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
                         }
+        if ($federation=="\"http://www.ordinegiornalisti.veneto.it/#sthash.wW1ftcUK.dpbs\""){
+                            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/veneto.jpg\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                            }
+                        }
+        if ($federation=="\"https://www.odg.mi.it/\""){
+                                            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/lombardia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                                            }
+        if ($federation=="\"https://www.og.puglia.it/\""){
+                                                echo ("<a href=$federation><img class=\"media-object\" src=\"./img/puglia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                                                }
         echo ("<p></p>");
         echo ("<a href=$linkPubblicazioni><img class=\"media-object\" src=\"./img/pubblicazioni.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
 
