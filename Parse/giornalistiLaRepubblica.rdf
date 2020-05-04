@@ -39,7 +39,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <js:federation>"https://odg.roma.it/"</js:federation>
   <foaf:img rdf:resource="https://www.corrieredellacalabria.it/wp-content/uploads/2019/01/c2ef15ee-123a-4453-bad3-5fca09fca2a0-1-300x220.jpg"/>
   <foaf:nick>alexsja</foaf:nick>
-  <foaf:publications rdf:resource=" https://www.corrieredellacalabria.it/tag/alessia-candito/" />
+  <foaf:publications rdf:resource="https://www.corrieredellacalabria.it/tag/alessia-candito/" />
 
 
  
@@ -302,7 +302,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/castellettir">
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-  <foaf:name>ROSALBA CASTELLETTI</foaf:name>ì
+  <foaf:name>ROSALBA CASTELLETTI</foaf:name>
   <js:birthDate>1979-10-20</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>"https://odg.roma.it/"</js:federation>
