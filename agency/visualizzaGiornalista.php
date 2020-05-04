@@ -145,7 +145,7 @@
         foreach( $fields as $field ){
 
            if($field == "birthDate"){
-                $dataNascita=$row[$field];      
+                $data=$row[$field];      
            } else if($field == "name"){
                  $name=$row[$field];
            }else if ($field == "gender"){
@@ -174,6 +174,48 @@
         echo "<p>$linkImg</p>";
         */
 
+        $anno=substr($data, 0, 4);
+        $mese=substr($data, 5, 2);
+        if ($mese=="01"){
+            $mese="Gennaio";
+        }
+        if ($mese=="02"){
+            $mese="Febbraio";
+        }
+        if ($mese=="03"){
+            $mese="Marzo";
+        }
+        if ($mese=="04"){
+            $mese="Aprile";
+        }
+        if ($mese=="05"){
+            $mese="Maggio";
+        }
+        if ($mese=="06"){
+            $mese="Giugno";
+        }
+        if ($mese=="07"){
+            $mese="Luglio";
+        }
+        if ($mese=="08"){
+            $mese="Agosto";
+        }
+        if ($mese=="09"){
+            $mese="Settembre";
+        }
+        if ($mese=="10"){
+            $mese="Ottobre";
+        }
+        if ($mese=="11"){
+            $mese="Novembre";
+        }
+        if ($mese=="12"){
+            $mese="Dicembre";
+        }
+        
+        $giorno=substr($data, 8, 10);
+        $data="$giorno $mese $anno";
+
 
         echo "
         <div class=\"media\">
@@ -182,9 +224,9 @@
         </div>
         <div class=\"media-body\">";
         echo("<h4 class=\"media-heading\"> $name <span class=\"time\"> </span></h4>");
-        echo("<em> @$nick </em>");
+        echo("<em style=\"color:#3498DB\"> @$nick </em>");
         echo("<p></p>");
-        echo("<em> $dataNascita </em>");
+        echo("<em> $data </em>");
         echo ("<p></p>");
         if ($federation=="\"https://odg.roma.it/\""){
         echo ("<a href=$federation><img class=\"media-object\" src=\"./img/lazio.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
@@ -206,21 +248,22 @@
                             }
                         
         if ($federation=="\"https://www.odg.mi.it/\""){
-                            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/lombardia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/lombardia.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
                                             }
         if ($federation=="\"https://www.og.puglia.it/\""){
-                            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/puglia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/puglia.png\" alt=\"\" width=\"70\" height=\"100\"></a>");
                                                 }
         if ($federation=="\"http://www.odgs.it/\""){
                              echo ("<a href=$federation><img class=\"media-object\" src=\"./img/sardegna.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
                                                     }
-        if ($federation=="\"https://www.odg.it/\""){
-                            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/ordine.png\" alt=\"\" width=\"100\" height=\"90\"></a>");
+        if ($federation=="\"http://www.odgpiemonte.it/\""){
+                            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/piemonte.jpg\" alt=\"\" width=\"100\" height=\"90\"></a>");
                                                      }
+                                  
         echo ("<p></p>");
         echo ("<a href=$linkPubblicazioni><img class=\"media-object\" src=\"./img/pubblicazioni.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
 
-      
+                                                    
         
 
 

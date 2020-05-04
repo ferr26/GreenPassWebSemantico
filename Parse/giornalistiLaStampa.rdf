@@ -21,10 +21,10 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/monicaserra_">
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-  <foaf:name>MONICA SERRA</foaf:name>
+  <foaf:name> SERRA</foaf:name>
   <js:birthDate>1986-01-10</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"https://www.og.puglia.it/index.php?limitstart=216"</js:federation>
+  <js:federation>"https://www.og.puglia.it/"</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1011290160460451842/02REqLrR_400x400.jpg"/>
   <foaf:nick>monicaserra_</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilgiornale.it/autore/monica-serra-84837.html" />
@@ -92,6 +92,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <js:birthDate>1972-08-22</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>"https://odg.roma.it/"</js:federation>
+  <foaf:nick>ggaleazzi</foaf:nick>
   <foaf:img rdf:resource="http://www.giornalistitalia.it/wp-content/uploads/2015/11/Giacomo-Galeazzi.jpg"/>
   <foaf:publications rdf:resource="https://it.wikipedia.org/wiki/Giacomo_Galeazzi#Opere" />
 </rdf:Description>

@@ -311,4 +311,28 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:publications rdf:resource="https://ricerca.repubblica.it/repubblica/topic/persone/r/rosalba+castelletti"/>
   </rdf:Description>
 
+
+  <rdf:Description rdf:about="https://twitter.com/domebriish">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>DOMENICO MARCHESE</foaf:name>
+  <js:birthDate>1967-10-20</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"https://odg.roma.it/"</js:federation>
+  <foaf:img rdf:resource="https://www.satisfiction.eu/wp-content/uploads/2020/04/AVT_Gerard-Berreby_69-300x239.jpg"/>
+  <foaf:nick>domebriish</foaf:nick>
+  <foaf:publications rdf:resource="https://ricerca.repubblica.it/repubblica/topic/luoghi/t/torino"/>
+  </rdf:Description>
+
+
+    <rdf:Description rdf:about="https://twitter.com/albertcustodero">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>ALBERTO CUSTODERO</foaf:name>
+  <js:birthDate>1962-04-04</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"http://www.odgpiemonte.it/"</js:federation>
+  <foaf:img rdf:resource="https://lh3.googleusercontent.com/proxy/CS0Pb1S1BvbZErsLskZuFaL0VlQVtPbf-s4sTGDfKXzw6q7qTJUcm1vjvZTx7iz82sjPuUPfakJXxG4Ztya1smoGlkoQ_nA1e-THwBB8WVSAKZZeJP5k6LVfR6ghSGI"/>
+  <foaf:nick>albertcustodero</foaf:nick>
+  <foaf:publications rdf:resource="https://ricerca.repubblica.it/repubblica/topic/persone/a/alberto+custodero"/>
+  </rdf:Description>
+
 </rdf:RDF>

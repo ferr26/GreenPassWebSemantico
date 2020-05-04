@@ -27,6 +27,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <js:federation>"https://www.odg.mi.it/"</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/846437839797661696/Ja2l0V9w_400x400.jpg"/>
   <foaf:nick>andtundo</foaf:nick>
+  <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/atundo/" />
 </rdf:Description>
 
 
@@ -221,6 +222,18 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:img rdf:resource="https://www.streetlib.com/wp-content/uploads/2017/02/logo-fatto-quotidiano.png"/>
   <foaf:nick>redazioneilfatto</foaf:nick>
   <foaf:publications rdf:resource="https://www.streetlib.com/wp-content/uploads/2017/02/logo-fatto-quotidiano.png"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://www.odg.it/">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Redazione</foaf:name>
+  <js:birthDate>-</js:birthDate>
+  <foaf:gender>M/F</foaf:gender>
+  <js:federation>"https://www.odg.it/"</js:federation>
+  <foaf:img rdf:resource="./img/ordine.png"/>
+  <foaf:nick>redazione</foaf:nick>
+  <foaf:publications rdf:resource="https://www.odg.it/"/>
 </rdf:Description>
 
 

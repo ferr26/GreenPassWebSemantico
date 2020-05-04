@@ -173,7 +173,7 @@
     $fields = sparql_field_array( $result );
                                      
   
-   print"<h3 class=\"title\">RISULTATI (".sparql_num_rows( $result ).") </h3>";
+   print"<h3  style=\"color:#3498DB\">RISULTATI (".sparql_num_rows( $result ).") </h3>";
    
    
     while( $row = sparql_fetch_array( $result ) )
@@ -255,7 +255,7 @@
         <div class=\"media-left\">";
 
         if ($linkGiornale=="https://www.repubblica.it/"){
-        echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/rep.png\" alt=\"\" width=\"70\" height=\"70\"></a>
+        echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/rep.png\" alt=\"\" width=\"100\" height=\"100\"></a>
         </div>
         <div class=\"media-body\">";
         }
@@ -265,24 +265,24 @@
             <div class=\"media-body\">";
         }
         if ($linkGiornale=="https://www.lastampa.it/"){
-            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/lastampa.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/stampa.jpg\" alt=\"\" width=\"100\" height=\"100\"></a>
             </div>
             <div class=\"media-body\">";
         }
         if ($linkGiornale=="https://www.ilfattoquotidiano.it/"){
-            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/ilfatto.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/ilfatto2.png\" alt=\"\" width=\"100\" height=\"100\"></a>
             </div>
             <div class=\"media-body\">";
         }
         if ($linkGiornale=="https://www.ilriformista.it/"){
-            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/riformista.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/riformista.png\" alt=\"\" width=\"100\" height=\"100\"></a>
             </div>
             <div class=\"media-body\">";
         }
 
 
 
-        echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
+        echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#3498DB\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
         
         echo"
         <p>$data - <em><a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
@@ -290,7 +290,7 @@
 
         if ($topic=="http://www.treccani.it/vocabolario/cronaca/"){
                 echo"
-                <a href=\"$topic\"><p> CRONACA </p> </a>     
+                <a href=\"$topic\" style=\"color:#3498DB\"><p> CRONACA </p> </a>     
                 <br>
                 ";
 
@@ -319,7 +319,7 @@
         } 
         if ($topic=="http://www.treccani.it/vocabolario/economia/"){
             echo"
-            <a href=\"$topic\"><p> ECONOMIA </p> </a>     
+            <a href=\"$topic\" style=\"color:#3498DB\"><p> ECONOMIA </p> </a>     
             <br>
             ";
 
@@ -347,7 +347,7 @@
 
       if ($topic=="http://www.treccani.it/vocabolario/politica/"){
         echo"
-        <a href=\"$topic\"><p> POLITICA </p> </a>     
+        <a href=\"$topic\" style=\"color:#3498DB\"><p> POLITICA </p> </a>     
         <br>
         ";
 
@@ -375,7 +375,7 @@
 
   if ($topic=="http://www.treccani.it/vocabolario/cultura/"){
     echo"
-    <a href=\"$topic\"><p> CULTURA </p> </a>     
+    <a href=\"$topic\" style=\"color:#3498DB\"><p> CULTURA </p> </a>     
     <br>
     ";
 
@@ -402,7 +402,7 @@
 } 
 if ($topic=="http://www.treccani.it/vocabolario/sport/"){
     echo"
-    <a href=\"$topic\"><p> SPORT </p> </a>     
+    <a href=\"$topic\" style=\"color:#3498DB\"><p> SPORT </p> </a>     
     <br>
     ";
 
@@ -458,7 +458,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
         
         $fields = sparql_field_array( $result );
         
-        print"<h3 class=\"title\">RISULTATI (".sparql_num_rows( $result ).") </h3>";
+        print"<h3 style=\"color:#3498DB\">RISULTATI (".sparql_num_rows( $result ).") </h3>";
         
 
     while( $row = sparql_fetch_array( $result ) )
@@ -540,7 +540,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
         <div class=\"media-left\">";
 
         if ($linkGiornale=="https://www.repubblica.it/"){
-        echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/rep.png\" alt=\"\" width=\"70\" height=\"70\"></a>
+        echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/rep.png\" alt=\"\" width=\"100\" height=\"100\"></a>
         </div>
         <div class=\"media-body\">";
         }
@@ -550,24 +550,24 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
             <div class=\"media-body\">";
         }
         if ($linkGiornale=="https://www.lastampa.it/"){
-            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/lastampa.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/stampa.jpg\" alt=\"\" width=\"100\" height=\"100\"></a>
             </div>
             <div class=\"media-body\">";
         }
         if ($linkGiornale=="https://www.ilfattoquotidiano.it/"){
-            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/ilfatto.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/ilfatto2.png\" alt=\"\" width=\"100\" height=\"100\"></a>
             </div>
             <div class=\"media-body\">";
         }
         if ($linkGiornale=="https://www.ilriformista.it/"){
-            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/riformista.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/riformista.png\" alt=\"\" width=\"100\" height=\"100\"></a>
             </div>
             <div class=\"media-body\">";
         }
 
 
 
-        echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
+        echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#3498DB\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
         
       echo"
         <p>$data - <em><a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
@@ -605,7 +605,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
         } 
         if ($topic=="http://www.treccani.it/vocabolario/economia/"){
             echo"
-            <a href=\"$topic\"><p> ECONOMIA </p> </a>     
+            <a href=\"$topic\" style=\"color:#3498DB\"><p> ECONOMIA </p> </a>     
             <br>
             ";
 
@@ -633,7 +633,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
 
       if ($topic=="http://www.treccani.it/vocabolario/politica/"){
         echo"
-        <a href=\"$topic\"><p> POLITICA </p> </a>     
+        <a href=\"$topic\" style=\"color:#3498DB\"><p> POLITICA </p> </a>     
         <br>
         ";
 
@@ -661,7 +661,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
 
   if ($topic=="http://www.treccani.it/vocabolario/cultura/"){
     echo"
-    <a href=\"$topic\"><p> CULTURA </p> </a>     
+    <a href=\"$topic\" style=\"color:#3498DB\"><p> CULTURA </p> </a>     
     <br>
     ";
 
@@ -689,7 +689,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
 
 if ($topic=="http://www.treccani.it/vocabolario/sport/"){
     echo"
-    <a href=\"$topic\"><p> SPORT </p> </a>     
+    <a href=\"$topic\" style=\"color:#3498DB\"><p> SPORT </p> </a>     
     <br>
     ";
 
@@ -745,7 +745,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
     
     $fields = sparql_field_array( $result );
     
-    print"<h3 class=\"title\">RISULTATI (".sparql_num_rows( $result ).") </h3>";
+    print"<h3 cstyle=\"color:#3498DB\">RISULTATI (".sparql_num_rows( $result ).") </h3>";
 
     while( $row = sparql_fetch_array( $result ) )
     {    
@@ -826,7 +826,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
         <div class=\"media-left\">";
 
         if ($linkGiornale=="https://www.repubblica.it/"){
-        echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/rep.png\" alt=\"\" width=\"70\" height=\"70\"></a>
+        echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/rep.png\" alt=\"\" width=\"100\" height=\"100\"></a>
         </div>
         <div class=\"media-body\">";
         }
@@ -836,24 +836,24 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
             <div class=\"media-body\">";
         }
         if ($linkGiornale=="https://www.lastampa.it/"){
-            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/lastampa.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/stampa.jpg\" alt=\"\" width=\"100\" height=\"100\"></a>
             </div>
             <div class=\"media-body\">";
         }
         if ($linkGiornale=="https://www.ilfattoquotidiano.it/"){
-            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/ilfatto.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/ilfatto2.png\" alt=\"\" width=\"100\" height=\"100\"></a>
             </div>
             <div class=\"media-body\">";
         }
         if ($linkGiornale=="https://www.ilriformista.it/"){
-            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/riformista.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+            echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/riformista.png\" alt=\"\" width=\"100\" height=\"100\"></a>
             </div>
             <div class=\"media-body\">";
         }
 
 
 
-        echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
+        echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#3498DB\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
         
         echo"
         <p>$data - <em><a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
@@ -861,7 +861,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
 
         if ($topic=="http://www.treccani.it/vocabolario/cronaca/"){
                 echo"
-                <a href=\"$topic\"><p> CRONACA </p> </a>     
+                <a href=\"$topic\" style=\"color:#3498DB\"><p> CRONACA </p> </a>     
                 <br>
                 ";
 
@@ -890,7 +890,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
         } 
         if ($topic=="http://www.treccani.it/vocabolario/economia/"){
             echo"
-            <a href=\"$topic\"><p> ECONOMIA </p> </a>     
+            <a href=\"$topic\" style=\"color:#3498DB\"><p> ECONOMIA </p> </a>     
             <br>
             ";
 
@@ -918,7 +918,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
 
       if ($topic=="http://www.treccani.it/vocabolario/politica/"){
         echo"
-        <a href=\"$topic\"><p> POLITICA </p> </a>     
+        <a href=\"$topic\" style=\"color:#3498DB\"><p> POLITICA </p> </a>     
         <br>
         ";
 
@@ -946,7 +946,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
 
   if ($topic=="http://www.treccani.it/vocabolario/cultura/"){
     echo"
-    <a href=\"$topic\"><p> CULTURA </p> </a>     
+    <a href=\"$topic\" style=\"color:#3498DB\"><p> CULTURA </p> </a>     
     <br>
     ";
 
@@ -974,7 +974,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
 
 if ($topic=="http://www.treccani.it/vocabolario/sport/"){
     echo"
-    <a href=\"$topic\"><p> SPORT </p> </a>     
+    <a href=\"$topic\" style=\"color:#3498DB\"><p> SPORT </p> </a>     
     <br>
     ";
 
