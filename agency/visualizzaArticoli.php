@@ -288,7 +288,6 @@
         <p>$data - <em><a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
         ";
 
-
         if ($topic=="http://www.treccani.it/vocabolario/cronaca/"){
                 echo"
                 <a href=\"$topic\"><p> CRONACA </p> </a>     

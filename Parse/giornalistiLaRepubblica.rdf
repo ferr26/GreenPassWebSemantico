@@ -148,7 +148,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:publications rdf:resource="https://www.ibs.it/libri/autori/Giovanna%20Vitale" />
 </rdf:Description>
 
-<rdf:Description rdf:about="https://twitter.com/giovivit">
+<rdf:Description rdf:about="https://twitter.com/menicr?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
   <foaf:name>RAFFAELLA MENICHINI </foaf:name>
   <js:birthDate>1965-08-18</js:birthDate>
