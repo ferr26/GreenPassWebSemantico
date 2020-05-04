@@ -212,4 +212,16 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 </rdf:Description>
 
 
+<rdf:Description rdf:about="https://www.ilfattoquotidiano.it/redazione/">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>F. Q.</foaf:name>
+  <js:birthDate>-</js:birthDate>
+  <foaf:gender>M/F</foaf:gender>
+  <js:federation>"https://www.odg.it/"</js:federation>
+  <foaf:img rdf:resource="https://www.streetlib.com/wp-content/uploads/2017/02/logo-fatto-quotidiano.png"/>
+  <foaf:nick>redazioneilfatto</foaf:nick>
+  <foaf:publications rdf:resource="https://www.streetlib.com/wp-content/uploads/2017/02/logo-fatto-quotidiano.png"/>
+</rdf:Description>
+
+
 </rdf:RDF>
