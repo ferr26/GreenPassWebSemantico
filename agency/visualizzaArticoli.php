@@ -285,7 +285,7 @@
         echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
         
         echo"
-        <p>$data - <em><a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
+        <p>$data - <em><a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
         ";
 
 
@@ -571,7 +571,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
         echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
         
       echo"
-        <p>$data - <em><a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
+        <p>$data - <em><a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
         ";
 
 
@@ -857,7 +857,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
         echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
         
         echo"
-        <p>$data - <em><a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
+        <p>$data - <em><a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
         ";
 
         if ($topic=="http://www.treccani.it/vocabolario/cronaca/"){
@@ -1051,8 +1051,8 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
 
 		<!-- Container -->
 		<div class="container">
-				<img class="img-responsive center-block" src="img/walk1.png" alt="logo" height="90" width="90">
-
+        <img class="img-responsive center-block" src="img/semanticWeb.png" alt="logo" height="30" width="30">
+                <p></p>
 			<!-- Row -->
 			<div class="row">
 

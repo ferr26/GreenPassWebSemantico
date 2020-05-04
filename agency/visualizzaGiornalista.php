@@ -79,8 +79,6 @@
             </nav>
             <!-- /Nav -->
             
-            <div  id="over" class="header-wrapper sm-padding bg-grey">
-        <img src="./img/semanticWeb.png" width="170" height="170">	
         </div>  
             
         
@@ -117,7 +115,6 @@
         $autore= $_GET["variabile"];
 
 
-        echo"$autore";
 
         selectAutore($autore);
 
@@ -138,7 +135,6 @@
     
         $fields = sparql_field_array( $result );
 
-        print"<h3 class=\"title\">RISULTATI (".sparql_num_rows( $result ).") </h3>";
 
 
         
@@ -149,21 +145,65 @@
         foreach( $fields as $field ){
 
            if($field == "birthDate"){
-                $anno=$row[$field];      
+                $dataNascita=$row[$field];      
            } else if($field == "name"){
                  $name=$row[$field];
            }else if ($field == "gender"){
             $gender=$row[$field];
            }else if ($field == "federation"){
             $federation=$row[$field];
+           }else if ($field == "nick"){
+            $nick=$row[$field];
+           }else if ($field == "x"){
+            $linkAutore=$row[$field];
+           }
+           else if ($field == "publications"){
+            $linkPubblicazioni=$row[$field];
+           }
+           else if ($field == "img"){
+            $linkImg=$row[$field];
            }
 
+        } //fine FOREACH
 
-        }
+        /*
+        echo " <p>$dataNascita $name $gender $federation - $nick <br><p>";
+        echo "<p>$linkAutore</p>";
+        echo "<p>$linkPubblicazioni</p>";
+        echo "<p>$linkAutore</p>";
+        echo "<p>$linkImg</p>";
+        */
+
 
         echo "
-             $anno $name $gender $federation <br>";
-   
+        <div class=\"media\">
+        <div class=\"media-left\">";
+        echo"<a href=\"$linkAutore\"><img class=\"media-object\" src=\"$linkImg\" alt=\"\" width=\"250\" height=\"250\"></a>
+        </div>
+        <div class=\"media-body\">";
+        echo("<h4 class=\"media-heading\"> $name <span class=\"time\"> </span></h4>");
+        echo("<em> @$nick </em>");
+        echo("<p></p>");
+        echo("<em> $dataNascita </em>");
+        echo ("<p></p>");
+        if ($federation=="\"https://odg.roma.it/\""){
+        echo ("<a href=$federation><img class=\"media-object\" src=\"./img/lazio.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
+        }
+        if ($federation=="\"http://www.odgsicilia.it/\""){
+            echo ("<a href=$federation><img class=\"media-object\" src=\"./img/sicilia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+            }
+        if ($federation=="\"http://www.odg.campania.it/\""){
+                echo ("<a href=$federation><img class=\"media-object\" src=\"./img/campania.jpg\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                }
+        if ($federation=="\"http://www.odg.toscana.it/\""){
+                    echo ("<a href=$federation><img class=\"media-object\" src=\"./img/toscana.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                    }
+        echo ("<p></p>");
+        echo ("<a href=$linkPubblicazioni><img class=\"media-object\" src=\"./img/pubblicazioni.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
+
+      
+        
+
 
     }
 }
@@ -211,7 +251,8 @@
 
 		<!-- Container -->
 		<div class="container">
-				<img class="img-responsive center-block" src="img/walk1.png" alt="logo" height="90" width="90">
+				<img class="img-responsive center-block" src="img/semanticWeb.png" alt="logo" height="30" width="30">
+                <p></p>
 
 			<!-- Row -->
 			<div class="row">

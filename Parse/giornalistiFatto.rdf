@@ -14,18 +14,18 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <js:birthDate>1975-02-23</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>"http://www.odgsicilia.it/"</js:federation>
-  <foaf:img rdf:resource="https://twitter.com/ManuelaModica/photo"/>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/432850353277501441/jtBrD8qu_400x400.jpeg"/>
   <foaf:nick>ManuelaModica</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/manuela-modica/ptype/articoli/" />
 </rdf:Description>
 
-<rdf:Description rdf:about="https://twitter.com/ManuelaModica">
+<rdf:Description rdf:about="https://www.facebook.com/pages/category/Journalist/Andrea-Tundo-1399701293638170/">
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-  <foaf:name>https://twitter.com/andtundo</foaf:name>
+  <foaf:name>Andrea Tundo</foaf:name>
   <js:birthDate>1987-06-04</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>"https://www.odg.mi.it/"</js:federation>
-  <foaf:img rdf:resource="https://twitter.com/ManuelaModica/photo"/>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/846437839797661696/Ja2l0V9w_400x400.jpg"/>
   <foaf:nick>andtundo</foaf:nick>
 </rdf:Description>
 
