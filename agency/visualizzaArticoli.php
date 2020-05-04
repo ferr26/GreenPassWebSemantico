@@ -116,7 +116,7 @@
         ini_set('log_errors', 0); // disabilita il log degli errori.
 
         require_once( "lib/sparqllib.php" );
-        $db = sparql_connect( "http://localhost:8890/sparql" );
+        $db = sparql_connect("http://localhost:8890/sparql");
 
         $nomeCategoria= $_POST["tipoEnte"];
         $ordine= $_POST["ordine"];
@@ -285,8 +285,9 @@
         echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
         
         echo"
-        <p>$data - <em><b>$nomeAutore</b></em></p> 
+        <p>$data - <em><a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
         ";
+
 
         if ($topic=="http://www.treccani.it/vocabolario/cronaca/"){
                 echo"
@@ -569,9 +570,10 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
 
         echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
         
-        echo"
-        <p>$data - <em><b>$nomeAutore</b></em></p> 
+      echo"
+        <p>$data - <em><a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
         ";
+
 
         if ($topic=="http://www.treccani.it/vocabolario/cronaca/"){
                 echo"
@@ -734,10 +736,10 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
             ?x np:associateEditor ?associateEditor .
             ?associateEditor foaf:name ?name .
             ?x foaf:primaryTopic ?primaryTopic  .
-            Filter contains(?originalTitle, LCASE('$parola'))    
+            Filter contains(LCASE(?originalTitle), LCASE('$parola'))    
     }
     ORDER BY DESC(?date)
-    LIMIT   200";
+    ";
     
     $result = sparql_query( $sparql ); 
     if( !$result ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
@@ -855,7 +857,7 @@ if ($topic=="http://www.treccani.it/vocabolario/sport/"){
         echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#1ac6ff\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
         
         echo"
-        <p>$data - <em><b>$nomeAutore</b></em></p> 
+        <p>$data - <em><a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
         ";
 
         if ($topic=="http://www.treccani.it/vocabolario/cronaca/"){
