@@ -71,7 +71,7 @@
                     <ww:originalTitle>Coronavirus, il bilancio del 4 maggio: tornano sotto i 100mila gli attualmente positivi</ww:originalTitle>
                     <dc:date>2020-05-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
-                    <js:birthName>ura di ALESSIO SGHERZA </js:birthName>
+                    <js:birthName> ALESSIO SGHERZA </js:birthName>
                     <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
                     <np:associateEditor> 
                     <foaf:Person>
