@@ -117,6 +117,8 @@
 
 
         selectAutore($autore);
+        visualizzArticoli($autore);
+
 
     function selectAutore($autore){
             $sparql = "SELECT DISTINCT *  WHERE {
@@ -261,13 +263,293 @@
                                                      }
                                   
         echo ("<p></p>");
-        echo ("<a href=$linkPubblicazioni><img class=\"media-object\" src=\"./img/pubblicazioni.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
+        echo ("<a href=$linkPubblicazioni><img class=\"media-object\" src=\"./img/pubblicazioni.png\" alt=\"\" width=\"70\" height=\"70\"></a></div>");
 
                                                     
         
 
 
     }
+
+}
+
+    function visualizzArticoli($nomeAutore){
+        $sparql = "SELECT DISTINCT *  WHERE {
+            ?x js:birthName ?birthName.
+            ?x ww:originalTitle ?originalTitle .
+            ?x dc:date ?date .
+            ?x dc:language ?language .
+            ?x rdf:type ?type .
+            ?x dc:format ?format .
+            ?x np:Newspaper ?newspaper .
+            ?x np:publisher ?publisher .
+            ?x np:associateEditor ?associateEditor .
+            ?associateEditor foaf:name ?name .
+            ?x foaf:primaryTopic ?primaryTopic  .
+            Filter (REGEX(?birthName,'$nomeAutore'))    
+       }
+    ORDER BY DESC(?date)
+    ";
+     $result = sparql_query( $sparql ); 
+     if( !$result ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
+     
+     $fields = sparql_field_array( $result );
+     
+     print("<br> <br>");
+     print"<h3 cstyle=\"color:#3498DB\">Articoli Pubblicati (".sparql_num_rows( $result ).") </h3>";
+
+     while( $row = sparql_fetch_array( $result ) )
+     {    
+         
+        foreach( $fields as $field )
+        {
+        if($field == "originalTitle"){
+            $titolo=$row[$field];      
+       } else if($field == "x"){
+             $linkArticolo=$row[$field];
+       }else if($field == "date"){
+           $data=$row[$field];
+           $anno=substr($data, 0, 4);
+           $mese=substr($data, 5, 2);
+           if ($mese=="01"){
+               $mese="Gennaio";
+           }
+           if ($mese=="02"){
+               $mese="Febbraio";
+           }
+           if ($mese=="03"){
+               $mese="Marzo";
+           }
+           if ($mese=="04"){
+               $mese="Aprile";
+           }
+           if ($mese=="05"){
+               $mese="Maggio";
+           }
+           if ($mese=="06"){
+               $mese="Giugno";
+           }
+           if ($mese=="07"){
+               $mese="Luglio";
+           }
+           if ($mese=="08"){
+               $mese="Agosto";
+           }
+           if ($mese=="09"){
+               $mese="Settembre";
+           }
+           if ($mese=="10"){
+               $mese="Ottobre";
+           }
+           if ($mese=="11"){
+               $mese="Novembre";
+           }
+           if ($mese=="12"){
+               $mese="Dicembre";
+           }
+           
+           $giorno=substr($data, 8, 10);
+           $data="$giorno $mese $anno";
+
+
+       }else if($field == "birthName"){
+           $nomeAutore=$row[$field];
+       } else if($field == "newspaper"){
+           $linkGiornale=$row[$field];
+       }else if($field == "publisher"){
+           $linkEditore=$row[$field];
+       } else if($field == "primaryTopic"){
+           $topic=$row[$field];
+       } 
+
+
+    } 
+
+   echo "
+   <div class=\"media\">
+   <div class=\"media-left\">";
+
+   if ($linkGiornale=="https://www.repubblica.it/"){
+   echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/rep.png\" alt=\"\" width=\"100\" height=\"100\"></a>
+   </div>
+   <div class=\"media-body\">";
+   }
+   if ($linkGiornale=="https://www.corriere.it/"){
+       echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/corriere.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>
+       </div>
+       <div class=\"media-body\">";
+   }
+   if ($linkGiornale=="https://www.lastampa.it/"){
+       echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/stampa.jpg\" alt=\"\" width=\"100\" height=\"100\"></a>
+       </div>
+       <div class=\"media-body\">";
+   }
+   if ($linkGiornale=="https://www.ilfattoquotidiano.it/"){
+       echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/ilfatto2.png\" alt=\"\" width=\"100\" height=\"100\"></a>
+       </div>
+       <div class=\"media-body\">";
+   }
+   if ($linkGiornale=="https://www.ilriformista.it/"){
+       echo"<a href=\"$linkGiornale\"><img class=\"media-object\" src=\"./img/riformista.png\" alt=\"\" width=\"100\" height=\"100\"></a>
+       </div>
+       <div class=\"media-body\">";
+   }
+
+
+
+   echo(" <a href=\"$linkArticolo\"><i class=\"fa fa-external-link\" style=\" font-size:23px; color:#3498DB\"></i> </a><h4 class=\"media-heading\"> $titolo <span class=\"time\"> </span></h4>");
+        
+        echo"
+        <p>$data - <em><a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaGiornalista.php?variabile=$nomeAutore\">$nomeAutore</a> </em></p>
+        ";
+
+
+        if ($topic=="http://www.treccani.it/vocabolario/cronaca/"){
+                echo"
+                <a href=\"$topic\"><p> CRONACA </p> </a>     
+                <br>
+                ";
+
+                if ($linkEditore=="http://www.gedispa.it/"){
+                echo "<p> <a href=\"$linkEditore\">G.E.D.I.</a></p>
+                    </div>
+                    </div>";
+                }
+                if ($linkEditore=="https://www.seif-spa.it/"){
+                    echo "<p> <a href=\"$linkEditore\">SOCIETA' EDITORIALE IL FATTO</a></p>
+                        </div>
+                        </div>";
+                }
+                if ($linkEditore=="https://www.rcsmediagroup.it/"){
+                    echo "<p> <a href=\"$linkEditore\">RCS GROUP</a></p>
+                        </div>
+                        </div>";
+                }
+                if ($linkEditore=="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"){
+                    echo "<p> <a href=\"$linkEditore\">ROMEO EDITORIALE</a></p>
+                        </div>
+                        </div>";
+                }
+
+
+        } 
+        if ($topic=="http://www.treccani.it/vocabolario/economia/"){
+            echo"
+            <a href=\"$topic\" style=\"color:#3498DB\"><p> ECONOMIA </p> </a>     
+            <br>
+            ";
+
+            if ($linkEditore=="http://www.gedispa.it/"){
+            echo "<p> <a href=\"$linkEditore\">G.E.D.I.</a></p>
+                </div>
+                </div>";
+            }
+            if ($linkEditore=="https://www.seif-spa.it/"){
+                echo "<p> <a href=\"$linkEditore\">SOCIETA' EDITORIALE IL FATTO</a></p>
+                    </div>
+                    </div>";
+            }
+            if ($linkEditore=="https://www.rcsmediagroup.it/"){
+                echo "<p> <a href=\"$linkEditore\">RCS GROUP</a></p>
+                    </div>
+                    </div>";
+            }
+            if ($linkEditore=="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"){
+                echo "<p> <a href=\"$linkEditore\">ROMEO EDITORIALE</a></p>
+                    </div>
+                    </div>";
+            }
+        } 
+
+        if ($topic=="http://www.treccani.it/vocabolario/politica/"){
+        echo"
+        <a href=\"$topic\" style=\"color:#3498DB\"><p> POLITICA </p> </a>     
+        <br>
+        ";
+
+        if ($linkEditore=="http://www.gedispa.it/"){
+        echo "<p> <a href=\"$linkEditore\">G.E.D.I.</a></p>
+            </div>
+            </div>";
+        }
+        if ($linkEditore=="https://www.seif-spa.it/"){
+            echo "<p> <a href=\"$linkEditore\">SOCIETA' EDITORIALE IL FATTO</a></p>
+                </div>
+                </div>";
+        }
+        if ($linkEditore=="https://www.rcsmediagroup.it/"){
+            echo "<p> <a href=\"$linkEditore\">RCS GROUP</a></p>
+                </div>
+                </div>";
+        }
+        if ($linkEditore=="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"){
+            echo "<p> <a href=\"$linkEditore\">ROMEO EDITORIALE</a></p>
+                </div>
+                </div>";
+        }
+        } 
+
+        if ($topic=="http://www.treccani.it/vocabolario/cultura/"){
+        echo"
+        <a href=\"$topic\" style=\"color:#3498DB\"><p> CULTURA </p> </a>     
+        <br>
+        ";
+
+        if ($linkEditore=="http://www.gedispa.it/"){
+        echo "<p> <a href=\"$linkEditore\">G.E.D.I.</a></p>
+        </div>
+        </div>";
+        }
+        if ($linkEditore=="https://www.seif-spa.it/"){
+        echo "<p> <a href=\"$linkEditore\">SOCIETA' EDITORIALE IL FATTO</a></p>
+            </div>
+            </div>";
+        }
+        if ($linkEditore=="https://www.rcsmediagroup.it/"){
+        echo "<p> <a href=\"$linkEditore\">RCS GROUP</a></p>
+            </div>
+            </div>";
+        }
+        if ($linkEditore=="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"){
+        echo "<p> <a href=\"$linkEditore\">ROMEO EDITORIALE</a></p>
+            </div>
+            </div>";
+        }
+        } 
+
+        if ($topic=="http://www.treccani.it/vocabolario/sport/"){
+        echo"
+        <a href=\"$topic\" style=\"color:#3498DB\"><p> SPORT </p> </a>     
+        <br>
+        ";
+
+        if ($linkEditore=="http://www.gedispa.it/"){
+        echo "<p> <a href=\"$linkEditore\">G.E.D.I.</a></p>
+        </div>
+        </div>";
+        }
+        if ($linkEditore=="https://www.seif-spa.it/"){
+        echo "<p> <a href=\"$linkEditore\">SOCIETA' EDITORIALE IL FATTO</a></p>
+            </div>
+            </div>";
+        }
+        if ($linkEditore=="https://www.rcsmediagroup.it/"){
+        echo "<p> <a href=\"$linkEditore\">RCS GROUP</a></p>
+            </div>
+            </div>";
+        }
+        if ($linkEditore=="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"){
+        echo "<p> <a href=\"$linkEditore\">ROMEO EDITORIALE</a></p>
+            </div>
+            </div>";
+        }
+        } 
+
+
+        } // fine WHILE
+
+   
+
 }
     ?>
 
