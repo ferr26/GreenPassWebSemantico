@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:np="http://mappings.dbpedia.org/server/ontology/classes/Newspaper#"
+xmlns:js="http://mappings.dbpedia.org/server/ontology/classes/Journalist#"
+xmlns:ww="http://mappings.dbpedia.org/server/ontology/classes/WrittenWork#"
+xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+
+<rdf:Description rdf:about="https://www.linkedin.com/in/ciriaco-m-viggiano-303904141/?originalSubdomain=it">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Ciriaco M. Viaggiano</foaf:name>
+  <js:birthDate>1983-11-14</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <foaf:img rdf:resource="https://www.sorrentostyle.it/wp-content/uploads/2019/04/ciriaco.jpg"/>
+  <foaf:nick>ciriaco-m-viggiano</foaf:nick>
+  <foaf:publications rdf:resource="https://www.ilriformista.it/author/ciriaco-m-viggiano/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/riccardomagi">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Riccardo Magi</foaf:name>
+  <js:birthDate>1976-08-07</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"https://odg.roma.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1169366343793152000/vjyi8lgP_400x400.jpg"/>
+  <foaf:nick>riccardomagi</foaf:nick>
+  <foaf:publications rdf:resource="https://www.radicali.it/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/mdemarco55">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Marco Demarco</foaf:name>
+  <js:birthDate>1955-11-12</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1027556191453503489/5TQCEe_0_400x400.jpg"/>
+  <foaf:nick>mdemarco55</foaf:nick>
+  <foaf:publications rdf:resource="https://www.festivaldelgiornalismo.com/speaker/marco-demarco" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/tizianamaiolo">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Tiziana Maiolo</foaf:name>
+  <js:birthDate>1941-06-23</js:birthDate>
+  <foaf:gender>F</foaf:gender>
+  <js:federation>"http://www.odg.mi.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/2967263329/92e3bfa2f190b2cf12246ebfc7bf07da_400x400.jpeg"/>
+  <foaf:nick>tizianamaiolo</foaf:nick>
+  <foaf:publications rdf:resource="https://it.wikipedia.org/wiki/Tiziana_Maiolo#Pubblicazioni" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/missemi1633">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Emilia Missione</foaf:name>
+  <js:birthDate>1990-10-19</js:birthDate>
+  <foaf:gender>F</foaf:gender>
+  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/936880467587956736/muI6IRXn_400x400.jpg"/>
+  <foaf:nick>missemi1633</foaf:nick>
+  <foaf:publications rdf:resource="https://napoli.ilriformista.it/author/emiliamissione/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/AngelaAzzaro">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Angela Azzaro</foaf:name>
+  <js:birthDate>1973-03-13</js:birthDate>
+  <foaf:gender>F</foaf:gender>
+  <js:federation>"https://www.og.puglia.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1144624761001205760/VrT3Yq6m_400x400.jpg"/>
+  <foaf:nick>AngelaAzzaro</foaf:nick>
+  <foaf:publications rdf:resource="https://www.cinquantamila.it/storyTellerThread.php?threadId=AZZARO%20Angela" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/CarmineDiNiro">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Carmine Di Niro</foaf:name>
+  <js:birthDate>1989-08-10</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/3518831626/d733fe23232ddf6dccca7d042b0d3aa1_400x400.jpeg"/>
+  <foaf:nick>CarmineDiNiro</foaf:nick>
+  <foaf:publications rdf:resource="https://napoli.ilriformista.it/author/c-diniro/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/maillamorte">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Antonio Lamorte</foaf:name>
+  <js:birthDate>1990-10-20</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"http://www.odg.basilicata.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/734383594924343302/A7qKxA8L_400x400.jpg"/>
+  <foaf:nick>maillamorte</foaf:nick>
+  <foaf:publications rdf:resource="https://napoli.ilriformista.it/author/antoniolamorte/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/CiroCuozzo87">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Ciro Cuozzo</foaf:name>
+  <js:birthDate>1987-07-28</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/885546441405607937/dQdsFVsT_400x400.jpg"/>
+  <foaf:nick>CiroCuozzo87</foaf:nick>
+  <foaf:publications rdf:resource="https://www.anteprima24.it/author/ciro-cuozzo/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/grassormp1964">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Rossella Grasso</foaf:name>
+  <js:birthDate>1987-05-07</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1003976499727421440/UQgAynEo_400x400.jpg"/>
+  <foaf:nick>grassormp1964</foaf:nick>
+  <foaf:publications rdf:resource="https://www.ilriformista.it/author/r-grasso/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.linkedin.com/in/viviana-lanza-82b36911/?originalSubdomain=it">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Viviana Lanza</foaf:name>
+  <js:birthDate>1980-02-17</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <foaf:img rdf:resource="http://nteve.com/wp-content/uploads/2016/05/viviana-rivasplata-lanza-linea-d.jpg"/>
+  <foaf:nick>viviana-lanza</foaf:nick>
+  <foaf:publications rdf:resource="https://napoli.ilriformista.it/author/vivianalanza/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/renatobrunetta">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Renato Brunetta</foaf:name>
+  <js:birthDate>1950-05-26</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"https://odg.roma.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1133999517651603456/FRoAG5-Z_400x400.png"/>
+  <foaf:nick>renatobrunetta</foaf:nick>
+  <foaf:publications rdf:resource="https://www.renatobrunetta.it/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/pguzzanti">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Paolo Guzzanti</foaf:name>
+  <js:birthDate>1940-08-01</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"https://odg.roma.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/2750011113/b3cebf223c927053e94f58a21506bb2b_400x400.jpeg"/>
+  <foaf:nick>pguzzanti</foaf:nick>
+  <foaf:publications rdf:resource="https://it.wikipedia.org/wiki/Paolo_Guzzanti#Opere" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://it.wikipedia.org/wiki/Giuliano_Cazzola">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Giuliano Cazzola</foaf:name>
+  <js:birthDate>1941-02-09</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"https://odg.bo.it/"</js:federation>
+  <foaf:img rdf:resource="https://upload.wikimedia.org/wikipedia/commons/5/56/Giuliano_Cazzola.jpg"/>
+  <foaf:nick>Giuliano_Cazzola</foaf:nick>
+  <foaf:publications rdf:resource="https://it.wikipedia.org/wiki/Giuliano_Cazzola#Opere" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://it.wikipedia.org/wiki/Roberto_Bagnasco">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Roberto Bagnasco</foaf:name>
+  <js:birthDate>1950-04-07</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"https://www.ordineliguregiornalisti.org/"</js:federation>
+  <foaf:img rdf:resource="https://upload.wikimedia.org/wikipedia/commons/9/9f/Roberto_Bagnasco_daticamera_2018.jpg"/>
+  <foaf:nick>Roberto_Bagnasco</foaf:nick>
+  <foaf:publications rdf:resource="http://robertobagnasco.it/" />
+</rdf:Description>
+
+</rdf:RDF>
