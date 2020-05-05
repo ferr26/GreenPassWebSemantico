@@ -147,6 +147,7 @@ for ($i=0;$i<$cnt;$i++){
     if ($autore=="NULL"){
 
                     $core2="
+                    <js:birthName>Redazione</js:birthName>
                     <np:Newspaper rdf:resource=\"$linkGiornale\"></np:Newspaper>
                     <np:associateEditor> 
                     <foaf:Person>
@@ -318,6 +319,7 @@ for ($i=0;$i<$cnt;$i++){
     if ($autore=="NULL"){
 
                     $core2="
+                    <js:birthName>F. Q.</js:birthName>
                     <np:Newspaper rdf:resource=\"$linkGiornale\"></np:Newspaper>
                     <np:associateEditor> 
                     <foaf:Person>
