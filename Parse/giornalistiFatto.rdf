@@ -8,6 +8,7 @@ xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#"
 xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 
+
 <rdf:Description rdf:about="https://twitter.com/ManuelaModica">
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
   <foaf:name>Manuela Modica</foaf:name>

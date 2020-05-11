@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:np="http://mappings.dbpedia.org/server/ontology/classes/Newspaper#"
+        xmlns:js="http://mappings.dbpedia.org/server/ontology/classes/Journalist#"
+        xmlns:ww="http://mappings.dbpedia.org/server/ontology/classes/WrittenWork#"
+        xmlns:or="http://mappings.dbpedia.org/server/ontology/classes/Organisation#"
+        xmlns:pr="http://mappings.dbpedia.org/server/ontology/classes/Person#"
+        xmlns:ct="http://mappings.dbpedia.org/server/ontology/classes/City#"
+        xmlns:pp="http://mappings.dbpedia.org/server/ontology/classes/PopulatedPlace#"
+        xmlns:pl="http://mappings.dbpedia.org/server/ontology/classes/Place#"
+        xmlns:owl="http://www.w3.org/2002/07/owl#"
+        xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#"
+        xmlns:gn="http://www.geonames.org/ontology#" 
+        xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+        <rdf:Description rdf:about="https://www.odg.mi.it/">
+        <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Organisation"/>
+        <or:commonName>Ordine dei Giornalisti Lombardia</or:commonName>
+        <or:headquarter>
+                <pp:PopulatedPlace>
+                        <pp:address>Via A. da Recanate, 1</pp:address>
+                        <pp:zipCode> 20100 </pp:zipCode>
+                        <pp:administrativeHeadCity>
+                                <ct:City>
+                                        <ct:officialName>Milano</ct:officialName>
+                                </ct:City>
+                        </pp:administrativeHeadCity>
+                        <pp:region> Lombardia </pp:region>
+                        <pp:regionLink>https://www.regione.lombardia.it/wps/portal/istituzionale/</pp:regionLink>
+                </pp:PopulatedPlace>
+       </or:headquarter>
+
+        <or:administrator>
+                <pr:Person>
+                        <pr:birthName>Alessandro Galimberti</pr:birthName>
+                </pr:Person>
+        </or:administrator>
+        <or:service>
+         <owl:Thing>
+                <foaf:mbox>odgmi@pec.odg.mi.it</foaf:mbox>
+                <foaf:phone>026771371</foaf:phone>
+        </owl:Thing>  
+        </or:service>
+
+        </rdf:Description>
+
+
+        <rdf:Description rdf:about="http://www.odg.campania.it/">
+        <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Organisation"/>
+        <or:commonName>Ordine dei Giornalisti Campania</or:commonName>
+        <or:headquarter>
+                <pp:PopulatedPlace>
+                        <pp:address>Via S. Maria a Cappella Vecchia, 8/B</pp:address>
+                        <pp:zipCode> 80100 </pp:zipCode>
+                        <pp:administrativeHeadCity>
+                                <ct:City>
+                                        <ct:officialName>Napoli</ct:officialName>
+                                </ct:City>
+                        </pp:administrativeHeadCity>
+                        <pp:region> Campania </pp:region>
+                        <pp:regionLink>http://www.regione.campania.it/</pp:regionLink>
+                </pp:PopulatedPlace>
+       </or:headquarter>
+
+        <or:administrator>
+                <pr:Person>
+                        <pr:birthName>Ottavio Lucarelli</pr:birthName>
+                </pr:Person>
+        </or:administrator>
+        <or:service>
+         <owl:Thing>
+                <foaf:mbox>odgcampania@yahoo.it</foaf:mbox>
+                <foaf:phone>0817642543</foaf:phone>
+        </owl:Thing>  
+        </or:service>
+
+        </rdf:Description>
+
+
+        <rdf:Description rdf:about="https://odg.roma.it/">
+        <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Organisation"/>
+        <or:commonName>Ordine dei Giornalisti Lazio</or:commonName>
+        <or:headquarter>
+                <pp:PopulatedPlace>
+                        <pp:address>Piazza della Torretta, 36</pp:address>
+                        <pp:zipCode> 00100 </pp:zipCode>
+                        <pp:administrativeHeadCity>
+                                <ct:City>
+                                        <ct:officialName>Roma</ct:officialName>
+                                </ct:City>
+                        </pp:administrativeHeadCity>
+                        <pp:region> Lazio </pp:region>
+                        <pp:regionLink>http://www.regione.lazio.it/rl_main/</pp:regionLink>
+                </pp:PopulatedPlace>
+       </or:headquarter>
+
+        <or:administrator>
+                <pr:Person>
+                        <pr:birthName>Paola Spadari</pr:birthName>
+                </pr:Person>
+        </or:administrator>
+        <or:service>
+         <owl:Thing>
+                <foaf:mbox>amministrazione@odg.roma.it</foaf:mbox>
+                <foaf:phone>066810191</foaf:phone>
+        </owl:Thing>  
+        </or:service>
+
+        </rdf:Description>
+
+
+        <rdf:Description rdf:about="http://www.odgpiemonte.it/">
+        <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Organisation"/>
+        <or:commonName>Ordine dei Giornalisti Piemonte</or:commonName>
+        <or:headquarter>
+                <pp:PopulatedPlace>
+                        <pp:address>Palazzo Ceriana-Mayneri,27</pp:address>
+                        <pp:zipCode> 10100 </pp:zipCode>
+                        <pp:administrativeHeadCity>
+                                <ct:City>
+                                        <ct:officialName>Torino</ct:officialName>
+                                </ct:City>
+                        </pp:administrativeHeadCity>
+                        <pp:region> Piemonte </pp:region>
+                        <pp:regionLink>https://www.regione.piemonte.it/web/</pp:regionLink>
+                </pp:PopulatedPlace>
+       </or:headquarter>
+
+        <or:administrator>
+                <pr:Person>
+                        <pr:birthName>Alberto Senigaglia</pr:birthName>
+                </pr:Person>
+        </or:administrator>
+        <or:service>
+         <owl:Thing>
+                <foaf:mbox>info.ordine@odgpiemonte.it</foaf:mbox>
+                <foaf:phone>011533890</foaf:phone>
+        </owl:Thing>  
+        </or:service>
+
+        </rdf:Description>
+
+
+        <rdf:Description rdf:about="http://www.odg.toscana.it/">
+        <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Organisation"/>
+        <or:commonName>Ordine dei Giornalisti Toscana</or:commonName>
+        <or:headquarter>
+                <pp:PopulatedPlace>
+                        <pp:address>Vicolo dei Malespini 1</pp:address>
+                        <pp:zipCode>50122</pp:zipCode>
+                        <pp:administrativeHeadCity>
+                                <ct:City>
+                                        <ct:officialName>Firenze</ct:officialName>
+                                </ct:City>
+                        </pp:administrativeHeadCity>
+                        <pp:region> Toscana </pp:region>
+                        <pp:regionLink>https://www.regione.toscana.it/</pp:regionLink>
+                </pp:PopulatedPlace>
+       </or:headquarter>
+
+        <or:administrator>
+                <pr:Person>
+                        <pr:birthName>Luigi Ceccherini</pr:birthName>
+                </pr:Person>
+        </or:administrator>
+        <or:service>
+         <owl:Thing>
+                <foaf:mbox>info@odg.toscana.it</foaf:mbox>
+                <foaf:phone>055289920</foaf:phone>
+        </owl:Thing>  
+        </or:service>
+
+        </rdf:Description>
+
+
+        <rdf:Description rdf:about="https://odg.bo.it/">
+        <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Organisation"/>
+        <or:commonName>Ordine dei Giornalisti Emilia Romagna</or:commonName>
+        <or:headquarter>
+                <pp:PopulatedPlace>
+                        <pp:address>Str. Maggiore,6</pp:address>
+                        <pp:zipCode>40125</pp:zipCode>
+                        <pp:administrativeHeadCity>
+                                <ct:City>
+                                        <ct:officialName>Bologna</ct:officialName>
+                                </ct:City>
+                        </pp:administrativeHeadCity>
+                        <pp:region> Emilia Romagna </pp:region>
+                        <pp:regionLink>https://www.regione.emilia-romagna.it/</pp:regionLink>
+                </pp:PopulatedPlace>
+       </or:headquarter>
+
+        <or:administrator>
+                <pr:Person>
+                        <pr:birthName>Claudio Santini</pr:birthName>
+                </pr:Person>
+        </or:administrator>
+        <or:service>
+         <owl:Thing>
+                <foaf:mbox>info@odg.bo.it</foaf:mbox>
+                <foaf:phone>0051235461</foaf:phone>
+        </owl:Thing>  
+        </or:service>
+
+        </rdf:Description>
+
+
+        <rdf:Description rdf:about="http://www.ordinegiornalisti.veneto.it/#sthash.wW1ftcUK.dpbs">
+        <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Organisation"/>
+        <or:commonName>Ordine dei Giornalisti Veneto</or:commonName>
+        <or:headquarter>
+                <pp:PopulatedPlace>
+                        <pp:address>Calle del Scaleter</pp:address>
+                        <pp:zipCode>0125</pp:zipCode>
+                        <pp:administrativeHeadCity>
+                                <ct:City>
+                                        <ct:officialName>Venezia</ct:officialName>
+                                </ct:City>
+                        </pp:administrativeHeadCity>
+                        <pp:region> Veneto </pp:region>
+                        <pp:regionLink>https://www.regione.veneto.it/</pp:regionLink>
+                </pp:PopulatedPlace>
+       </or:headquarter>
+
+        <or:administrator>
+                <pr:Person>
+                        <pr:birthName>Gianluca Amadori</pr:birthName>
+                </pr:Person>
+        </or:administrator>
+        <or:service>
+         <owl:Thing>
+                <foaf:mbox>segreteria@ordinegiornalisti.veneto.it</foaf:mbox>
+                <foaf:phone>0415242650</foaf:phone>
+        </owl:Thing>  
+        </or:service>
+
+        </rdf:Description>
+
+
+        <rdf:Description rdf:about="https://www.og.puglia.it/">
+        <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Organisation"/>
+        <or:commonName>Ordine dei Giornalisti Puglia</or:commonName>
+        <or:headquarter>
+                <pp:PopulatedPlace>
+                        <pp:address>Strada Palazzo di Città, 5</pp:address>
+                        <pp:zipCode>70122</pp:zipCode>
+                        <pp:administrativeHeadCity>
+                                <ct:City>
+                                        <ct:officialName>Bari</ct:officialName>
+                                </ct:City>
+                        </pp:administrativeHeadCity>
+                        <pp:region> Puglia </pp:region>
+                        <pp:regionLink>https://www.regione.puglia.it/</pp:regionLink>
+                </pp:PopulatedPlace>
+       </or:headquarter>
+
+        <or:administrator>
+                <pr:Person>
+                        <pr:birthName>Piero Ricci</pr:birthName>
+                </pr:Person>
+        </or:administrator>
+        <or:service>
+         <owl:Thing>
+                <foaf:mbox>ordine@og.puglia.it</foaf:mbox>
+                <foaf:phone>0805223511</foaf:phone>
+        </owl:Thing>  
+        </or:service>
+
+        </rdf:Description>
+
+
+         <rdf:Description rdf:about="http://www.odgsicilia.it/">
+        <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Organisation"/>
+        <or:commonName>Ordine dei Giornalisti Sicilia</or:commonName>
+        <or:headquarter>
+                <pp:PopulatedPlace>
+                        <pp:address>Via G. L. Bernini, 52/5</pp:address>
+                        <pp:zipCode> 90145</pp:zipCode>
+                        <pp:administrativeHeadCity>
+                                <ct:City>
+                                        <ct:officialName>Palermo</ct:officialName>
+                                </ct:City>
+                        </pp:administrativeHeadCity>
+                        <pp:region> Sicilia </pp:region>
+                        <pp:regionLink>http://www.regione.sicilia.it/</pp:regionLink>
+                </pp:PopulatedPlace>
+       </or:headquarter>
+
+        <or:administrator>
+                <pr:Person>
+                        <pr:birthName>Giulio Francese</pr:birthName>
+                </pr:Person>
+        </or:administrator>
+        <or:service>
+         <owl:Thing>
+                <foaf:mbox>info@odgsicilia.it </foaf:mbox>
+                <foaf:phone>0916110669</foaf:phone>
+        </owl:Thing>  
+        </or:service>
+
+        </rdf:Description>
+
+         <rdf:Description rdf:about="http://www.odgs.it/">
+        <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Organisation"/>
+        <or:commonName>Ordine dei Giornalisti Sardegna</or:commonName>
+        <or:headquarter>
+                <pp:PopulatedPlace>
+                        <pp:address>Via Barone Rossi, 29</pp:address>
+                        <pp:zipCode>09125</pp:zipCode>
+                        <pp:administrativeHeadCity>
+                                <ct:City>
+                                        <ct:officialName>Cagliari</ct:officialName>
+                                </ct:City>
+                        </pp:administrativeHeadCity>
+                        <pp:region> Sardegna </pp:region>
+                        <pp:regionLink>https://www.regione.sardegna.it/</pp:regionLink>
+                </pp:PopulatedPlace>
+       </or:headquarter>
+
+        <or:administrator>
+                <pr:Person>
+                        <pr:birthName>Francesco Birocchi</pr:birthName>
+                </pr:Person>
+        </or:administrator>
+        <or:service>
+         <owl:Thing>
+                <foaf:mbox>info@odgsardegna.it </foaf:mbox>
+                <foaf:phone>070664884</foaf:phone>
+        </owl:Thing>  
+        </or:service>
+
+        </rdf:Description>
+
+</rdf:RDF>

@@ -237,7 +237,7 @@
             echo ("<a href=$federation><img class=\"media-object\" src=\"./img/sicilia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
             }
         if ($federation=="\"http://www.odg.campania.it/\""){
-                echo ("<a href=$federation><img class=\"media-object\" src=\"./img/campania.jpg\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                echo ("<a href=$federation><img class=\"media-object\" src=\"./img/campania.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>");
                 }
         if ($federation=="\"http://www.odg.toscana.it/\""){
                     echo ("<a href=$federation><img class=\"media-object\" src=\"./img/toscana.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
