@@ -11,7 +11,7 @@
 
                     <rdf:Description rdf:about="https://www.repubblica.it/cronaca/2020/05/04/news/strage_di_duisburg_la_mamma_della_vittima_italiana_giulia_morta_per_la_seconda_volta_-255672838/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Strage della Love Parade, la mamma della vittima italiana: "Giulia morta per la seconda volta"</ww:originalTitle>
+                    <ww:originalTitle>Strage della Love Parade, la mamma della vittima italiana: Giulia morta per la seconda volta</ww:originalTitle>
                     <dc:date>2020-05-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
                     <js:birthName>PAOLO BERIZZI </js:birthName>

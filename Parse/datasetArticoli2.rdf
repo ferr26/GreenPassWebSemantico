@@ -1,0 +1,378 @@
+<?xml version="1.0"?> 
+
+        <rdf:RDF
+
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:np="http://mappings.dbpedia.org/server/ontology/classes/Newspaper#"
+        xmlns:js="http://mappings.dbpedia.org/server/ontology/classes/Journalist#"
+        xmlns:ww="http://mappings.dbpedia.org/server/ontology/classes/WrittenWork#"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+         <rdf:Description rdf:about="https://www.repubblica.it/cronaca/2020/05/04/news/strage_di_duisburg_la_mamma_della_vittima_italiana_giulia_morta_per_la_seconda_volta_-255672838/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Strage della Love Parade, la mamma della vittima italiana: Giulia morta per la seconda volta</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>PAOLO BERIZZI </js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://www.repubblica.it/vaticano/2020/05/04/news/l_accusa_di_ratzinger_mi_vogliono_silenziare_-255670392/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Vaticano, l'accusa di Ratzinger: Mi vogliono silenziare</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>PAOLO RODARI </js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://www.repubblica.it/cronaca/2020/05/04/news/caos_procure_ecco_le_carte_dell_inchiesta_su_palamara-255667911/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Caos procure: trame e strategie, la rete di relazioni nelle carte dell'inchiesta su Palamara</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>MARIA ELENA VINCENZI </js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://www.repubblica.it/cronaca/2020/05/04/news/coronavirus_bilancio_4_maggio-255639030/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Coronavirus, il bilancio del 4 maggio: tornano sotto i 100mila gli attualmente positivi</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName> ALESSIO SGHERZA </js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://bologna.repubblica.it/cronaca/2020/05/04/news/bonaccini_matrimonio_youtube-255653908/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Rimini, la storia di Gabriele e Cristina: le nozze su Youtube grazie a mille amici e sconosciuti</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>CRISTINA PALAZZO </js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://torino.repubblica.it/cronaca/2020/05/04/news/treni_e_aerei_tutti_prenotati_famiglia_spende_1300_euro_di_taxi_per_tornare_in_puglia_dal_piemonte-255652303/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Treni e aerei tutti prenotati, madre e figlio spendono 1300 euro di autista pur di tornare subito in Puglia dal Piemonte</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>LUCA GUERRA </js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://bari.repubblica.it/cronaca/2020/05/04/news/copie_pirata_di_giornali_e_riviste_stop_a_114_canali_telegram-255650784/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Copie pirata di giornali e libri, la Procura di Bari sequestra 114 canali Telegram</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>LAURA MONTANARI </js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://www.repubblica.it/cronaca/2020/05/04/news/copie_pirata_di_giornali_su_telegram_salgono_a_114_i_canali_oscurati-255651171/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Copie pirata di giornali su Telegram, salgono a 114 i canali oscurati</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>Redazione</js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://parma.repubblica.it/cronaca/2020/05/04/news/fase_due_a_parma_la_ripartenza_e_nel_segno_di_runner_e_ciclisti-255649711/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Fase due, a Parma la ripartenza è nel segno di runner e ciclisti</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>Redazione</js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://www.repubblica.it/cronaca/2020/05/04/news/umbria-255640261/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Umbria, chiuse le indagini sui presunti concorsi pilotati da politici locali del Pd</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>Redazione</js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                     
+                    
+
+                    
+                    <rdf:Description rdf:about="https://bari.repubblica.it/cronaca/2020/05/04/news/barletta_partorisce_in_strada_con_l_aiuto_dei_passanti_mamma_e_figlia_stanno_bene-255628856/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Barletta, partorisce davanti al portone di casa: mamma e figlia stanno bene.  È il nostro simbolo della ripresa</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>Redazione</js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://firenze.repubblica.it/cronaca/2020/05/04/news/l_ombrellone_del_bagnino_riapre_per_un_ora_e_il_grido_di_protesta_della_versilia-255624502/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>L'ombrellone del bagnino riapre per un'ora: è il grido di protesta dei balneari della Versilia</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>Redazione</js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://www.repubblica.it/cronaca/2020/05/04/news/coronavirus_i_primi_test_del_vaccino_italiano_gli_anticorpi_bloccano_virus_-255619523/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Coronavirus, i primi test del vaccino italiano: Gli anticorpi bloccano virus</ww:originalTitle>
+                    <dc:date>2020-05-04</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
+                    <js:birthName>Redazione</js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                
+                    
+
+                    
+                    <rdf:Description rdf:about="https://firenze.repubblica.it/cronaca/2020/02/29/news/mattarella_presidente_sant_anna_stazzema_eccidio_anniversario_fascismo-249886752/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Mattarella a Sant'Anna di Stazzema: L'Unione europea è fragile, ma è un antidoto ai muri</ww:originalTitle>
+                    <dc:date>2020-02-29</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
+                    <js:birthName>Redazione</js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://napoli.repubblica.it/cronaca/2020/02/27/news/conte_macron_napoli-249714911/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Coronavirus, Macron a Napoli: Non chiuderemo le frontiere. Conte: Esempio da Napoli, niente paura</ww:originalTitle>
+                    <dc:date>2020-02-27</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
+                    <js:birthName>ANTONIO DI COSTANZO e CONCHITA SANNINO </js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://www.repubblica.it/politica/2020/02/26/news/le_sardine_da_amici_-249619053/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Le Sardine da Amici aprono la prima puntata dello show di Maria De Filippi</ww:originalTitle>
+                    <dc:date>2020-02-26</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
+                    <js:birthName>ILARIA VENTURI </js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://bari.repubblica.it/cronaca/2020/02/21/news/carlo_calenda_regionali_puglia_fitto_e_cento_volte_meglio_di_emiliano_-249146884/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Regionali Puglia, Calenda si allea con Renzi contro il Pd: Fitto è cento volte meglio di Emiliano</ww:originalTitle>
+                    <dc:date>2020-02-21</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
+                    <js:birthName>Redazione</js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://napoli.repubblica.it/cronaca/2020/02/20/news/m5s_la_denuncia_su_facebook_rousseau_chiede_le_bollette_per_identificare_gli_iscritti_-249105626/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>M5s, la denuncia su Facebook: Rousseau chiede le bollette per identificare gli iscritti</ww:originalTitle>
+                    <dc:date>2020-02-20</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
+                    <js:birthName>Redazione</js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+                    
+
+                    
+                    <rdf:Description rdf:about="https://bologna.repubblica.it/cronaca/2020/02/20/news/zingaretti_lancia_la_sindaca_di_marzabotto_alla_presidenza_del_pd-249098881/">
+                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+                    <ww:originalTitle>Zingaretti lancia la sindaca di Marzabotto alla presidenza del Pd</ww:originalTitle>
+                    <dc:date>2020-02-20</dc:date>
+                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
+                    <js:birthName>Redazione</js:birthName>
+                    <np:Newspaper rdf:resource="https://www.repubblica.it/"></np:Newspaper>
+                    <np:associateEditor> 
+                    <foaf:Person>
+                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Maurizio_Molinari"></foaf:name>
+                    </foaf:Person>
+                    </np:associateEditor>
+                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
+                    <dc:format>text/html</dc:format>
+                    <dc:language>it</dc:language>
+                    </rdf:Description> 
+
+
+
+
+</rdf:RDF>

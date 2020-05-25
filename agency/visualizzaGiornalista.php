@@ -231,35 +231,35 @@
         echo("<em> $data </em>");
         echo ("<p></p>");
         if ($federation=="\"https://odg.roma.it/\""){
-        echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=https://odg.roma.it/\"><img class=\"media-object\" src=\"./img/lazio.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
+        echo ("<a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaOrdini.php?variabile=https://odg.roma.it/\"><img class=\"media-object\" src=\"./img/lazio.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
         }
         if ($federation=="\"http://www.odgsicilia.it/\""){
-            echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odgsicilia.it/\"><img class=\"media-object\" src=\"./img/sicilia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+            echo ("<a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odgsicilia.it/\"><img class=\"media-object\" src=\"./img/sicilia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
             }
         if ($federation=="\"http://www.odg.campania.it/\""){
-                echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile='http://www.odg.campania.it/'\"><img class=\"media-object\" src=\"./img/campania.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>");
+                echo ("<a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odg.campania.it/\"><img class=\"media-object\" src=\"./img/campania.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>");
                 }
         if ($federation=="\"http://www.odg.toscana.it/\""){
-                    echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odg.toscana.it/\"><img class=\"media-object\" src=\"./img/toscana.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                    echo ("<a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odg.toscana.it/\"><img class=\"media-object\" src=\"./img/toscana.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
                     }
         if ($federation=="\"https://odg.bo.it/\""){
-                        echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=https://odg.bo.it/\"><img class=\"media-object\" src=\"./img/emilia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                        echo ("<a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaOrdini.php?variabile=https://odg.bo.it/\"><img class=\"media-object\" src=\"./img/emilia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
                         }
         if ($federation=="\"http://www.ordinegiornalisti.veneto.it/#sthash.wW1ftcUK.dpbs\""){
-                            echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.ordinegiornalisti.veneto.it/#sthash.wW1ftcUK.dpbs\"><img class=\"media-object\" src=\"./img/veneto.jpg\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                            echo ("<a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.ordinegiornalisti.veneto.it/#sthash.wW1ftcUK.dpbs\"><img class=\"media-object\" src=\"./img/veneto.jpg\" alt=\"\" width=\"70\" height=\"90\"></a>");
                             }
                         
         if ($federation=="\"https://www.odg.mi.it/\""){
-                            echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=https://www.odg.mi.it/\"><img class=\"media-object\" src=\"./img/lombardia.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
+                            echo ("<a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaOrdini.php?variabile=https://www.odg.mi.it/\"><img class=\"media-object\" src=\"./img/lombardia.png\" alt=\"\" width=\"70\" height=\"70\"></a>");
                                             }
         if ($federation=="\"https://www.og.puglia.it/\""){
-                            echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=https://www.og.puglia.it/\"><img class=\"media-object\" src=\"./img/puglia.png\" alt=\"\" width=\"70\" height=\"100\"></a>");
+                            echo ("<a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaOrdini.php?variabile=https://www.og.puglia.it/\"><img class=\"media-object\" src=\"./img/puglia.png\" alt=\"\" width=\"70\" height=\"100\"></a>");
                                                 }
         if ($federation=="\"http://www.odgs.it/\""){
-                             echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odgs.it/\"><img class=\"media-object\" src=\"./img/sardegna.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
+                             echo ("<a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odgs.it/\"><img class=\"media-object\" src=\"./img/sardegna.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
                                                     }
         if ($federation=="\"http://www.odgpiemonte.it/\""){
-                            echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odgpiemonte.it/\"><img class=\"media-object\" src=\"./img/piemonte.jpg\" alt=\"\" width=\"100\" height=\"90\"></a>");
+                            echo ("<a href=\"http://localhost/WebSemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odgpiemonte.it/\"><img class=\"media-object\" src=\"./img/piemonte.jpg\" alt=\"\" width=\"100\" height=\"90\"></a>");
                                                      }
                                   
         echo ("<p></p>");
