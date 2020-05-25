@@ -237,7 +237,7 @@
             echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odgsicilia.it/\"><img class=\"media-object\" src=\"./img/sicilia.png\" alt=\"\" width=\"70\" height=\"90\"></a>");
             }
         if ($federation=="\"http://www.odg.campania.it/\""){
-                echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile='http://www.odg.campania.it/'\"><img class=\"media-object\" src=\"./img/campania.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>");
+                echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odg.campania.it/\"><img class=\"media-object\" src=\"./img/campania.jpg\" alt=\"\" width=\"70\" height=\"70\"></a>");
                 }
         if ($federation=="\"http://www.odg.toscana.it/\""){
                     echo ("<a href=\"http://localhost/progettowebsemantico/websemantico/agency/visualizzaOrdini.php?variabile=http://www.odg.toscana.it/\"><img class=\"media-object\" src=\"./img/toscana.png\" alt=\"\" width=\"70\" height=\"90\"></a>");

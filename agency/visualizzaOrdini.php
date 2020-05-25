@@ -118,7 +118,7 @@
         selectOrdini($ordini);
    
         function selectOrdini($ordini){
-            $sparql = "SELECT DISTINCT *  WHERE {
+            $sparql = "SELECT DISTINCT  ?x ?commonName ?address ?zipCode ?region ?regionLink ?officialName ?birthName ?mbox ?phone  WHERE {
                 ?x or:commonName ?commonName.
                 ?x or:headquarter ?headquarter.
                 ?headquarter pp:address ?address .
