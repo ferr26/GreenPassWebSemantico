@@ -10,7 +10,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://www.linkedin.com/in/ciriaco-m-viggiano-303904141/?originalSubdomain=it">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Ciriaco M. Viaggiano</foaf:name>
+  <js:birthName>Ciriaco M. Viaggiano</js:birthName>
   <js:birthDate>1983-11-14</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.campania.it/</js:federation>
@@ -21,7 +21,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/riccardomagi">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Riccardo Magi</foaf:name>
+  <js:birthName>Riccardo Magi</js:birthName>
   <js:birthDate>1976-08-07</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -32,7 +32,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/mdemarco55">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Marco Demarco</foaf:name>
+  <js:birthName>Marco Demarco</js:birthName>
   <js:birthDate>1955-11-12</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.campania.it/</js:federation>
@@ -43,7 +43,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/tizianamaiolo">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Tiziana Maiolo</foaf:name>
+  <js:birthName>Tiziana Maiolo</js:birthName>
   <js:birthDate>1941-06-23</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>http://www.odg.mi.it/</js:federation>
@@ -54,7 +54,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/missemi1633">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Emilia Missione</foaf:name>
+  <js:birthName>Emilia Missione</js:birthName>
   <js:birthDate>1990-10-19</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>http://www.odg.campania.it/</js:federation>
@@ -65,7 +65,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/AngelaAzzaro">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Angela Azzaro</foaf:name>
+  <js:birthName>Angela Azzaro</js:birthName>
   <js:birthDate>1973-03-13</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>https://www.og.puglia.it/</js:federation>
@@ -76,7 +76,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/CarmineDiNiro">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Carmine Di Niro</foaf:name>
+  <js:birthName>Carmine Di Niro</js:birthName>
   <js:birthDate>1989-08-10</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.campania.it/</js:federation>
@@ -87,7 +87,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/maillamorte">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Antonio Lamorte</foaf:name>
+  <js:birthName>Antonio Lamorte</js:birthName>
   <js:birthDate>1990-10-20</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.basilicata.it/</js:federation>
@@ -98,7 +98,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/CiroCuozzo87">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Ciro Cuozzo</foaf:name>
+  <js:birthName>Ciro Cuozzo</js:birthName>
   <js:birthDate>1987-07-28</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.campania.it/</js:federation>
@@ -109,7 +109,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/grassormp1964">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Rossella Grasso</foaf:name>
+  <js:birthName>Rossella Grasso</js:birthName>
   <js:birthDate>1987-05-07</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.campania.it/</js:federation>
@@ -120,7 +120,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://www.linkedin.com/in/viviana-lanza-82b36911/?originalSubdomain=it">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Viviana Lanza</foaf:name>
+  <js:birthName>Viviana Lanza</js:birthName>
   <js:birthDate>1980-02-17</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.campania.it/</js:federation>
@@ -131,7 +131,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/renatobrunetta">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Renato Brunetta</foaf:name>
+  <js:birthName>Renato Brunetta</js:birthName>
   <js:birthDate>1950-05-26</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -142,7 +142,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/pguzzanti">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Paolo Guzzanti</foaf:name>
+  <js:birthName>Paolo Guzzanti</js:birthName>
   <js:birthDate>1940-08-01</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -153,7 +153,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://it.wikipedia.org/wiki/Giuliano_Cazzola">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Giuliano Cazzola</foaf:name>
+  <js:birthName>Giuliano Cazzola</js:birthName>
   <js:birthDate>1941-02-09</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.bo.it/</js:federation>
@@ -164,7 +164,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://it.wikipedia.org/wiki/Roberto_Bagnasco">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>Roberto Bagnasco</foaf:name>
+  <js:birthName>Roberto Bagnasco</js:birthName>
   <js:birthDate>1950-04-07</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://www.ordineliguregiornalisti.org/</js:federation>
