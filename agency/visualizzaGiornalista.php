@@ -122,14 +122,14 @@
 
     function selectAutore($autore){
             $sparql = "SELECT DISTINCT *  WHERE {
-                ?x foaf:name ?name .
+                ?x js:birthName ?birthName .
                 ?x js:birthDate ?birthDate .
                 ?x foaf:gender ?gender .
                 ?x js:federation ?federation.
                 ?x foaf:img ?img .
                 ?x foaf:nick ?nick .
                 ?x foaf:publications ?publications  .
-                Filter (REGEX(?name,'$autore'))    
+                Filter (REGEX(?birthName,'$autore'))    
         }";
         
         $result = sparql_query( $sparql ); 
@@ -148,7 +148,7 @@
 
            if($field == "birthDate"){
                 $data=$row[$field];      
-           } else if($field == "name"){
+           } else if($field == "birthName"){
                  $name=$row[$field];
            }else if ($field == "gender"){
             $gender=$row[$field];
