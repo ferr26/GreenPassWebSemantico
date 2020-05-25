@@ -10,7 +10,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/63frank">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>FRANCO GIUBILEI</foaf:name>
+  <js:birthName>FRANCO GIUBILEI</js:birthName>
   <js:birthDate>1963-01-01</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.bo.it/</js:federation>
@@ -21,7 +21,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/monicaserra_">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name> SERRA</foaf:name>
+  <js:birthName> SERRA</js:birthName>
   <js:birthDate>1986-01-10</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>https://www.og.puglia.it/</js:federation>
@@ -32,7 +32,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/fulviocerutti">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>FULVIO CERUTTI</foaf:name>
+  <js:birthName>FULVIO CERUTTI</js:birthName>
   <js:birthDate>1973-08-22</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odgpiemonte.it/</js:federation>
@@ -43,7 +43,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/davidelessi">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>DAVIDE LESSI</foaf:name>
+  <js:birthName>DAVIDE LESSI</js:birthName>
   <js:birthDate>1985-07-01</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odgpiemonte.it/</js:federation>
@@ -54,7 +54,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/gioveroma">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>GIOVANNA ROMANO</foaf:name>
+  <js:birthName>GIOVANNA ROMANO</js:birthName>
   <js:birthDate>1976-08-04</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>http://www.odg.toscana.it/</js:federation>
@@ -66,7 +66,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/ChiaraBaldi86">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>CHIARA BALDI</foaf:name>
+  <js:birthName>CHIARA BALDI</js:birthName>
   <js:birthDate>1986-08-22</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>http://www.odg.mi.it/</js:federation>
@@ -77,7 +77,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/FGrignetti">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>FRANCESCO GRIGNETTI</foaf:name>
+  <js:birthName>FRANCESCO GRIGNETTI</js:birthName>
   <js:birthDate>1961-03-21</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -88,7 +88,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://it.wikipedia.org/wiki/Giacomo_Galeazzi">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>GIACOMO GALEAZZI</foaf:name>
+  <js:birthName>GIACOMO GALEAZZI</js:birthName>
   <js:birthDate>1972-08-22</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -99,7 +99,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/rigatells">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>FRANCESCO RIGATELLI</foaf:name>
+  <js:birthName>FRANCESCO RIGATELLI</js:birthName>
   <js:birthDate>1984-01-03</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.bo.it/</js:federation>
@@ -110,7 +110,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/paoloxbaroni">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>PAOLO BARONI</foaf:name>
+  <js:birthName>PAOLO BARONI</js:birthName>
   <js:birthDate>1962-12-04</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -121,7 +121,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/ilariolombardo">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>ILARIO LOMBARDO</foaf:name>
+  <js:birthName>ILARIO LOMBARDO</js:birthName>
   <js:birthDate>1984-02-13</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -132,7 +132,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/hanslucam">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>LUCA MONTICELLI</foaf:name>
+  <js:birthName>LUCA MONTICELLI</js:birthName>
   <js:birthDate>1982-02-03</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.bo.it/</js:federation>
@@ -143,7 +143,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/ugomagri">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>UGO MAGRI</foaf:name>
+  <js:birthName>UGO MAGRI</js:birthName>
   <js:birthDate>1956-11-16</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -154,7 +154,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/nicola_pinna">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>NICOLA PINNA</foaf:name>
+  <js:birthName>NICOLA PINNA</js:birthName>
   <js:birthDate>1982-06-25</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odgs.it/</js:federation>
@@ -165,7 +165,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/jan_novantuno">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>GIANMARIA TAMMARO</foaf:name>
+  <js:birthName>GIANMARIA TAMMARO</js:birthName>
   <js:birthDate>1991-10-24</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.campania.it/</js:federation>
@@ -176,7 +176,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/LodoPoletto">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>LODOVICO POLETTO</foaf:name>
+  <js:birthName>LODOVICO POLETTO</js:birthName>
   <js:birthDate>1964-04-14</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.campania.it/</js:federation>
@@ -187,7 +187,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/MariannaBruschi">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>MARIANNA BRUSCHI</foaf:name>
+  <js:birthName>MARIANNA BRUSCHI</js:birthName>
   <js:birthDate>1983-03-04</js:birthDate>
   <foaf:gender>f</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -198,7 +198,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/luisamosello">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>LUISA MOSELLO</foaf:name>
+  <js:birthName>LUISA MOSELLO</js:birthName>
   <js:birthDate>1972-06-06</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -209,7 +209,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/ale_di_matteo">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>ALESSANDRO DI MATTEO</foaf:name>
+  <js:birthName>ALESSANDRO DI MATTEO</js:birthName>
   <js:birthDate>1971-02-15</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -220,7 +220,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/grazialongo2">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>GRAZIA LONGO</foaf:name>
+  <js:birthName>GRAZIA LONGO</js:birthName>
   <js:birthDate>1972-02-06</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>http://www.odg.campania.it/</js:federation>
@@ -231,7 +231,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/_PaoloRusso_">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>PAOLO RUSSO</foaf:name>
+  <js:birthName>PAOLO RUSSO</js:birthName>
   <js:birthDate>1964-01-16</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -242,7 +242,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/CarberIno">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>CARLO BERTINI</foaf:name>
+  <js:birthName>CARLO BERTINI</js:birthName>
   <js:birthDate>1961-03-19</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -253,7 +253,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/mariacorbi">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>MARIA CORBI</foaf:name>
+  <js:birthName>MARIA CORBI</js:birthName>
   <js:birthDate>1965-04-10</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -264,7 +264,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/RobertoGiov">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>ROBERTO GIOVANNINI</foaf:name>
+  <js:birthName>ROBERTO GIOVANNINI</js:birthName>
   <js:birthDate>1962-03-23</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -275,7 +275,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/FestucciaPaolo">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>PAOLO FESTUCCIA</foaf:name>
+  <js:birthName>PAOLO FESTUCCIA</js:birthName>
   <js:birthDate>1969-08-24</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -286,7 +286,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/f_capurso">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>FEDERICO CAPURSO</foaf:name>
+  <js:birthName>FEDERICO CAPURSO</js:birthName>
   <js:birthDate>1956-04-04</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -297,7 +297,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/la_amedeo">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>AMEDEO LA MATTINA</foaf:name>
+  <js:birthName>AMEDEO LA MATTINA</js:birthName>
   <js:birthDate>1959-07-07</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.mi.it/</js:federation>
@@ -308,7 +308,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/alexbarbera">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>ALESSANDRO BARBERA</foaf:name>
+  <js:birthName>ALESSANDRO BARBERA</js:birthName>
   <js:birthDate>1971-10-25</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
@@ -319,7 +319,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/francescobei">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>FRANCESCO BEI</foaf:name>
+  <js:birthName>FRANCESCO BEI</js:birthName>
   <js:birthDate>1984-09-01</js:birthDate>
   <foaf:gender>M</foaf:gender>
   <js:federation>http://www.odg.mi.it/</js:federation>
@@ -330,7 +330,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/flaviaamabile">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <foaf:name>FLAVIA AMABILE</foaf:name>
+  <js:birthName>FLAVIA AMABILE</js:birthName>
   <js:birthDate>1964-05-29</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>https://odg.roma.it/</js:federation>
