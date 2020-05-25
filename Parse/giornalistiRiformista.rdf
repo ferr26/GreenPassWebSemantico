@@ -13,7 +13,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Ciriaco M. Viaggiano</foaf:name>
   <js:birthDate>1983-11-14</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://www.sorrentostyle.it/wp-content/uploads/2019/04/ciriaco.jpg"/>
   <foaf:nick>ciriaco-m-viggiano</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilriformista.it/author/ciriaco-m-viggiano/" />
@@ -24,7 +24,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Riccardo Magi</foaf:name>
   <js:birthDate>1976-08-07</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1169366343793152000/vjyi8lgP_400x400.jpg"/>
   <foaf:nick>riccardomagi</foaf:nick>
   <foaf:publications rdf:resource="https://www.radicali.it/" />
@@ -35,7 +35,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Marco Demarco</foaf:name>
   <js:birthDate>1955-11-12</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1027556191453503489/5TQCEe_0_400x400.jpg"/>
   <foaf:nick>mdemarco55</foaf:nick>
   <foaf:publications rdf:resource="https://www.festivaldelgiornalismo.com/speaker/marco-demarco" />
@@ -46,7 +46,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Tiziana Maiolo</foaf:name>
   <js:birthDate>1941-06-23</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"http://www.odg.mi.it/"</js:federation>
+  <js:federation>http://www.odg.mi.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/2967263329/92e3bfa2f190b2cf12246ebfc7bf07da_400x400.jpeg"/>
   <foaf:nick>tizianamaiolo</foaf:nick>
   <foaf:publications rdf:resource="https://it.wikipedia.org/wiki/Tiziana_Maiolo#Pubblicazioni" />
@@ -57,7 +57,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Emilia Missione</foaf:name>
   <js:birthDate>1990-10-19</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/936880467587956736/muI6IRXn_400x400.jpg"/>
   <foaf:nick>missemi1633</foaf:nick>
   <foaf:publications rdf:resource="https://napoli.ilriformista.it/author/emiliamissione/" />
@@ -68,7 +68,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Angela Azzaro</foaf:name>
   <js:birthDate>1973-03-13</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"https://www.og.puglia.it/"</js:federation>
+  <js:federation>https://www.og.puglia.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1144624761001205760/VrT3Yq6m_400x400.jpg"/>
   <foaf:nick>AngelaAzzaro</foaf:nick>
   <foaf:publications rdf:resource="https://www.cinquantamila.it/storyTellerThread.php?threadId=AZZARO%20Angela" />
@@ -79,7 +79,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Carmine Di Niro</foaf:name>
   <js:birthDate>1989-08-10</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/3518831626/d733fe23232ddf6dccca7d042b0d3aa1_400x400.jpeg"/>
   <foaf:nick>CarmineDiNiro</foaf:nick>
   <foaf:publications rdf:resource="https://napoli.ilriformista.it/author/c-diniro/" />
@@ -90,7 +90,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Antonio Lamorte</foaf:name>
   <js:birthDate>1990-10-20</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.basilicata.it/"</js:federation>
+  <js:federation>http://www.odg.basilicata.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/734383594924343302/A7qKxA8L_400x400.jpg"/>
   <foaf:nick>maillamorte</foaf:nick>
   <foaf:publications rdf:resource="https://napoli.ilriformista.it/author/antoniolamorte/" />
@@ -101,7 +101,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Ciro Cuozzo</foaf:name>
   <js:birthDate>1987-07-28</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/885546441405607937/dQdsFVsT_400x400.jpg"/>
   <foaf:nick>CiroCuozzo87</foaf:nick>
   <foaf:publications rdf:resource="https://www.anteprima24.it/author/ciro-cuozzo/" />
@@ -112,7 +112,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Rossella Grasso</foaf:name>
   <js:birthDate>1987-05-07</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1003976499727421440/UQgAynEo_400x400.jpg"/>
   <foaf:nick>grassormp1964</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilriformista.it/author/r-grasso/" />
@@ -123,7 +123,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Viviana Lanza</foaf:name>
   <js:birthDate>1980-02-17</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="http://nteve.com/wp-content/uploads/2016/05/viviana-rivasplata-lanza-linea-d.jpg"/>
   <foaf:nick>viviana-lanza</foaf:nick>
   <foaf:publications rdf:resource="https://napoli.ilriformista.it/author/vivianalanza/" />
@@ -134,7 +134,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Renato Brunetta</foaf:name>
   <js:birthDate>1950-05-26</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1133999517651603456/FRoAG5-Z_400x400.png"/>
   <foaf:nick>renatobrunetta</foaf:nick>
   <foaf:publications rdf:resource="https://www.renatobrunetta.it/" />
@@ -145,7 +145,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Paolo Guzzanti</foaf:name>
   <js:birthDate>1940-08-01</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/2750011113/b3cebf223c927053e94f58a21506bb2b_400x400.jpeg"/>
   <foaf:nick>pguzzanti</foaf:nick>
   <foaf:publications rdf:resource="https://it.wikipedia.org/wiki/Paolo_Guzzanti#Opere" />
@@ -156,7 +156,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Giuliano Cazzola</foaf:name>
   <js:birthDate>1941-02-09</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.bo.it/"</js:federation>
+  <js:federation>https://odg.bo.it/</js:federation>
   <foaf:img rdf:resource="https://upload.wikimedia.org/wikipedia/commons/5/56/Giuliano_Cazzola.jpg"/>
   <foaf:nick>Giuliano_Cazzola</foaf:nick>
   <foaf:publications rdf:resource="https://it.wikipedia.org/wiki/Giuliano_Cazzola#Opere" />
@@ -167,7 +167,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Roberto Bagnasco</foaf:name>
   <js:birthDate>1950-04-07</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://www.ordineliguregiornalisti.org/"</js:federation>
+  <js:federation>https://www.ordineliguregiornalisti.org/</js:federation>
   <foaf:img rdf:resource="https://upload.wikimedia.org/wikipedia/commons/9/9f/Roberto_Bagnasco_daticamera_2018.jpg"/>
   <foaf:nick>Roberto_Bagnasco</foaf:nick>
   <foaf:publications rdf:resource="http://robertobagnasco.it/" />

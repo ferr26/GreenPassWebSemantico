@@ -13,7 +13,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>FRANCO GIUBILEI</foaf:name>
   <js:birthDate>1963-01-01</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.bo.it/"</js:federation>
+  <js:federation>https://odg.bo.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1626924828/franco_giubilei_in_berlin_400x400.jpg"/>
   <foaf:nick>63frank</foaf:nick>
   <foaf:publications rdf:resource="http://gomppublic.uniroma1.it/Docenti/Render.aspx?UID=cb389d6e-db5f-480b-ab6e-4951da351ca2" />
@@ -24,7 +24,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name> SERRA</foaf:name>
   <js:birthDate>1986-01-10</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"https://www.og.puglia.it/"</js:federation>
+  <js:federation>https://www.og.puglia.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1011290160460451842/02REqLrR_400x400.jpg"/>
   <foaf:nick>monicaserra_</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilgiornale.it/autore/monica-serra-84837.html" />
@@ -35,7 +35,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>FULVIO CERUTTI</foaf:name>
   <js:birthDate>1973-08-22</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odgpiemonte.it/"</js:federation>
+  <js:federation>http://www.odgpiemonte.it/</js:federation>
   <foaf:img rdf:resource="https://i.ytimg.com/vi/2BpDfUrOwqY/hqdefault.jpg"/>
   <foaf:nick>fulviocerutti</foaf:nick>
   <foaf:publications rdf:resource="https://www.lastampa.it/opinioni/2014/08/23/news/fulvio-cerutti-1.35626170" />
@@ -46,7 +46,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>DAVIDE LESSI</foaf:name>
   <js:birthDate>1985-07-01</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odgpiemonte.it/"</js:federation>
+  <js:federation>http://www.odgpiemonte.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1255139033459511305/QvbCfPCt_400x400.jpg"/>
   <foaf:nick>davidelessi</foaf:nick>
   <foaf:publications rdf:resource="http://autori.gedi.it/profilo/Davide_Lessi" />
@@ -57,7 +57,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>GIOVANNA ROMANO</foaf:name>
   <js:birthDate>1976-08-04</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"http://www.odg.toscana.it/"</js:federation>
+  <js:federation>http://www.odg.toscana.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1256990772966105088/Q8MzOl05_400x400.jpg"/>
   <foaf:nick>gioveroma</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilcarrettinonews.it/author/giovanna-romano/" />
@@ -69,7 +69,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>CHIARA BALDI</foaf:name>
   <js:birthDate>1986-08-22</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"http://www.odg.mi.it/"</js:federation>
+  <js:federation>http://www.odg.mi.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1198914486071156736/WEX3V2ZC_400x400.jpg"/>
   <foaf:nick>ChiaraBaldi86</foaf:nick>
   <foaf:publications rdf:resource="https://www.festivaldelgiornalismo.com/speaker/chiara-baldi-2" />
@@ -80,7 +80,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>FRANCESCO GRIGNETTI</foaf:name>
   <js:birthDate>1961-03-21</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="http://www.dagospia.com/img/foto/06-2013/francesco-zanardi-246144_tn.jpg"/>
   <foaf:nick>FGrignetti</foaf:nick>
   <foaf:publications rdf:resource="https://www.macrolibrarsi.it/libri/__karol-e-wanda.php" />
@@ -91,7 +91,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>GIACOMO GALEAZZI</foaf:name>
   <js:birthDate>1972-08-22</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:nick>ggaleazzi</foaf:nick>
   <foaf:img rdf:resource="http://www.giornalistitalia.it/wp-content/uploads/2015/11/Giacomo-Galeazzi.jpg"/>
   <foaf:publications rdf:resource="https://it.wikipedia.org/wiki/Giacomo_Galeazzi#Opere" />
@@ -102,7 +102,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>FRANCESCO RIGATELLI</foaf:name>
   <js:birthDate>1984-01-03</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.bo.it/"</js:federation>
+  <js:federation>https://odg.bo.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/965550927406039040/7pmyCzRF_400x400.jpg"/>
   <foaf:nick>rigatells</foaf:nick>
   <foaf:publications rdf:resource="https://francescorigatelli.nova100.ilsole24ore.com/?refresh_ce=1" />
@@ -113,7 +113,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>PAOLO BARONI</foaf:name>
   <js:birthDate>1962-12-04</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/460533647435923456/eesGARfe_400x400.jpeg"/>
   <foaf:nick>paoloxbaroni</foaf:nick>
   <foaf:publications rdf:resource="https://paolobaroni.it/" />
@@ -124,7 +124,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>ILARIO LOMBARDO</foaf:name>
   <js:birthDate>1984-02-13</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/918215810535034880/lO8PsHWE_400x400.jpg"/>
   <foaf:nick>ilariolombardo</foaf:nick>
   <foaf:publications rdf:resource="https://www.giornalistitalia.it/tag/ilario-lombardo/" />
@@ -135,7 +135,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>LUCA MONTICELLI</foaf:name>
   <js:birthDate>1982-02-03</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.bo.it/"</js:federation>
+  <js:federation>https://odg.bo.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/736918716772982784/dd8NEXz9_400x400.jpg"/>
   <foaf:nick>hanslucam</foaf:nick>
   <foaf:publications rdf:resource="http://www.lucamonticelli.it/it-it/" />
@@ -146,7 +146,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>UGO MAGRI</foaf:name>
   <js:birthDate>1956-11-16</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1668249251/IMG_00000004__Large__400x400.jpg"/>
   <foaf:nick>ugomagri</foaf:nick>
   <foaf:publications rdf:resource="https://it.wikiquote.org/wiki/Ugo_Magri"/>
@@ -157,7 +157,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>NICOLA PINNA</foaf:name>
   <js:birthDate>1982-06-25</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odgs.it/"</js:federation>
+  <js:federation>http://www.odgs.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1245104459098832898/KmnVi6uh_400x400.jpg"/>
   <foaf:nick>nicola_pinna</foaf:nick>
   <foaf:publications rdf:resource="https://www.giornalistitalia.it/author/nicola-pinna/"/>
@@ -168,7 +168,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>GIANMARIA TAMMARO</foaf:name>
   <js:birthDate>1991-10-24</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://www.centodieci.it/wp-content/uploads/2019/07/gianmaria-tammaro.jpg"/>
   <foaf:nick>jan_novantuno</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilpost.it/gianmariatammaro/"/>
@@ -179,7 +179,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>LODOVICO POLETTO</foaf:name>
   <js:birthDate>1964-04-14</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="http://www1.lastampa.it/Torino/cmssezioni/primopiano/200808images/poletto01g.jpg"/>
   <foaf:nick>LodoPoletto</foaf:nick>
   <foaf:publications rdf:resource="https://www.lastampa.it/rubriche/premio-carlo-casalegno/2019/02/02/news/lodovico-poletto-1.33678132"/>
@@ -190,7 +190,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>MARIANNA BRUSCHI</foaf:name>
   <js:birthDate>1983-03-04</js:birthDate>
   <foaf:gender>f</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/478432694456836097/loCulSGs_400x400.jpeg"/>
   <foaf:nick>MariannaBruschi</foaf:nick>
   <foaf:publications rdf:resource="https://www.festivalglocal.it/speaker/marianna-bruschi/"/>
@@ -201,7 +201,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>LUISA MOSELLO</foaf:name>
   <js:birthDate>1972-06-06</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1169033128247209984/bsBzhzs1_400x400.jpg"/>
   <foaf:nick>luisamosello</foaf:nick>
   <foaf:publications rdf:resource="https://www.eurocomunicazione.com/author/luisa/"/>
@@ -212,7 +212,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>ALESSANDRO DI MATTEO</foaf:name>
   <js:birthDate>1971-02-15</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="http://cremonataiwan.com.tw/newweb/wp-content/uploads/2013/09/Di-matteo-Alessandro.jpg"/>
   <foaf:nick>ale_di_matteo</foaf:nick>
   <foaf:publications rdf:resource="http://www.cremonaviolins.com/en/violinmaker/alessandro-di-matteo-en/"/>
@@ -223,7 +223,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>GRAZIA LONGO</foaf:name>
   <js:birthDate>1972-02-06</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/753222874249519105/WHYSeJqw_400x400.jpg"/>
   <foaf:nick>grazialongo2</foaf:nick>
   <foaf:publications rdf:resource="https://www.linkedin.com/in/grazia-longo-49771a164/?originalSubdomain=it"/>
@@ -234,7 +234,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>PAOLO RUSSO</foaf:name>
   <js:birthDate>1964-01-16</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/2126779407/paolo_400x400.jpg"/>
   <foaf:nick>_PaoloRusso_</foaf:nick>
   <foaf:publications rdf:resource="http://www.paolorusso.it/biografia.asp"/>
@@ -245,7 +245,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>CARLO BERTINI</foaf:name>
   <js:birthDate>1961-03-19</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://www.toscanaeventinews.it/wp-content/uploads/2020/02/Ernesto-de-Pascale-by-Carlo-Chiavacci-.-scaled-e1581545047631-1024x767.jpg"/>
   <foaf:nick>CarberIno</foaf:nick>
   <foaf:publications rdf:resource="https://www.lastampa.it/rubriche/premio-carlo-casalegno/2017/10/14/news/carlo-bertini-1.34402312"/>
@@ -256,7 +256,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>MARIA CORBI</foaf:name>
   <js:birthDate>1965-04-10</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/531566834873794560/ovYYoPvw_400x400.jpeg"/>
   <foaf:nick>mariacorbi</foaf:nick>
   <foaf:publications rdf:resource="https://www.lastampa.it/opinioni/2013/08/03/news/maria-corbi-1.36059349"/>
@@ -267,7 +267,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>ROBERTO GIOVANNINI</foaf:name>
   <js:birthDate>1962-03-23</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/799564653806419968/577h7kcn_400x400.jpg"/>
   <foaf:nick>RobertoGiov</foaf:nick>
   <foaf:publications rdf:resource="https://www.festivaldelgiornalismo.com/speaker/roberto-giovannini"/>
@@ -278,7 +278,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>PAOLO FESTUCCIA</foaf:name>
   <js:birthDate>1969-08-24</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://vivicentro.it/wp-content/uploads/2016/04/PAOLO-FESTUCCIA.jpg"/>
   <foaf:nick>FestucciaPaolo</foaf:nick>
   <foaf:publications rdf:resource="https://www.lastampa.it/opinioni/2016/09/03/news/paolo-festuccia-1.34799051"/>
@@ -289,7 +289,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>FEDERICO CAPURSO</foaf:name>
   <js:birthDate>1956-04-04</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="http://www.romagiallorossa.it/wp-content/uploads/2017/02/berdini_1.jpg"/>
   <foaf:nick>f_capurso</foaf:nick>
   <foaf:publications rdf:resource="https://formiche.net/author/federicocapurso/"/>
@@ -300,7 +300,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>AMEDEO LA MATTINA</foaf:name>
   <js:birthDate>1959-07-07</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.mi.it/"</js:federation>
+  <js:federation>http://www.odg.mi.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/767794959097487362/CQI0e78x_400x400.jpg"/>
   <foaf:nick>la_amedeo</foaf:nick>
   <foaf:publications rdf:resource="https://www.einaudi.it/autori/amedeo-la-mattina/" />
@@ -311,7 +311,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>ALESSANDRO BARBERA</foaf:name>
   <js:birthDate>1971-10-25</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="http://www.festivaldelgiornalismo.com/pictures/user/medium/2/2192_hkZxz.jpg"/>
   <foaf:nick>alexbarbera</foaf:nick>
   <foaf:publications rdf:resource="https://www.festivaldelgiornalismo.com/speaker/alessandro-barbera"/>
@@ -322,7 +322,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>FRANCESCO BEI</foaf:name>
   <js:birthDate>1984-09-01</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.mi.it/"</js:federation>
+  <js:federation>http://www.odg.mi.it/</js:federation>
   <foaf:img rdf:resource="https://www.primaonline.it/wp-content/uploads/2016/01/Bei-Francesco.png"/>
   <foaf:nick>francescobei</foaf:nick>
   <foaf:publications rdf:resource="http://www.the-newsroom.it/comitato/francesco-bei/"/>
@@ -333,7 +333,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>FLAVIA AMABILE</foaf:name>
   <js:birthDate>1964-05-29</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1223766499631955968/orclBtLC_400x400.jpg"/>
   <foaf:nick>flaviaamabile</foaf:nick>
   <foaf:publications rdf:resource="https://www.unilibro.it/libri/f/autore/amabile_flavia"/>

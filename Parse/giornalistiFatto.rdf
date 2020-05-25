@@ -14,7 +14,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Manuela Modica</foaf:name>
   <js:birthDate>1975-02-23</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"http://www.odgsicilia.it/"</js:federation>
+  <js:federation>http://www.odgsicilia.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/432850353277501441/jtBrD8qu_400x400.jpeg"/>
   <foaf:nick>ManuelaModica</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/manuela-modica/ptype/articoli/" />
@@ -25,7 +25,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Andrea Tundo</foaf:name>
   <js:birthDate>1987-06-04</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://www.odg.mi.it/"</js:federation>
+  <js:federation>https://www.odg.mi.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/846437839797661696/Ja2l0V9w_400x400.jpg"/>
   <foaf:nick>andtundo</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/atundo/" />
@@ -37,7 +37,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Giuseppe Pietrobelli</foaf:name>
   <js:birthDate>1953-02-21</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.ordinegiornalisti.veneto.it/#sthash.wW1ftcUK.dpbs"</js:federation>
+  <js:federation>http://www.ordinegiornalisti.veneto.it/#sthash.wW1ftcUK.dpbs</js:federation>
   <foaf:img rdf:resource="https://lh3.googleusercontent.com/proxy/timp1N7uHRZb_Kflh3DXydY3w72zWtyTrVYkUSBGein84VIfnNKokQfqkoAiyAmDwIxh4K8OwTc9qakoTb6In68Cqft8uGhbQG9T5eZ27-XGXHLPM1Q1_PO1A-C2OOk5ZFLc-faZGyJWMdWjt7tOBQz5NgI"/>
   <foaf:nick>1giuseppepietr1</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/giuseppe-pietrobelli/ptype/articoli/"/>
@@ -49,7 +49,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Giacomo Salvini</foaf:name>
   <js:birthDate>1995-03-11</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.toscana.it/"</js:federation>
+  <js:federation>http://www.odg.toscana.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1193657014070775810/giVaS0H6_400x400.jpg"/>
   <foaf:nick>salvini_giacomo</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/giacomo-salvini/ptype/articoli/"/>
@@ -61,7 +61,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Vincenzo Bisbiglia</foaf:name>
   <js:birthDate>1981-11-29</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1193657014070775810/giVaS0H6_400x400.jpg"/>
   <foaf:nick>VinzBis</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/vincenzo-bisbiglia/ptype/articoli/"/>
@@ -72,7 +72,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Mario Portanova</foaf:name>
   <js:birthDate>1967-10-17</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://www.odg.mi.it/"</js:federation>
+  <js:federation>https://www.odg.mi.it</js:federation>
   <foaf:img rdf:resource="https://st.ilfattoquotidiano.it/wp-content/img/autori/MPortanova.jpg"/>
   <foaf:nick>MarioPortanova1</foaf:nick>
   <foaf:publications rdf:resource="https://www.ibs.it/libri/autori/Mario%20Portanova"/>
@@ -84,7 +84,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Pierfrancesco Curzi</foaf:name>
   <js:birthDate>1968-04-09</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.marche.it/"</js:federation>
+  <js:federation>http://www.odg.marche.it/</js:federation>
   <foaf:img rdf:resource="https://gazzetta.sportware.org/wp-content/uploads/2017/01/curzi.jpeg"/>
   <foaf:nick>MarioPortanova1</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/pierfrancesco-curzi/ptype/articoli/"/>
@@ -96,7 +96,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Francesco Antonio Grana</foaf:name>
   <js:birthDate>1986-05-11</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://st.ilfattoquotidiano.it/wp-content/img/autori/francescoantoniograna.jpg"/>
   <foaf:nick>FrancescoGrana</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/francescoantoniograna/"/>
@@ -107,7 +107,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Vincenzo Iurillo</foaf:name>
   <js:birthDate>1970-10-28</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://st.ilfattoquotidiano.it/wp-content/img/autori/VIurillo.jpg"/>
   <foaf:nick>VincenzoIurillo</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/viurillo/"/>
@@ -118,7 +118,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Mauro Del Corno</foaf:name>
   <js:birthDate>1972-06-01</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://www.odg.mi.it/"</js:federation>
+  <js:federation>https://www.odg.mi.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1244640462725623811/BfkC3t-F_400x400.jpg"/>
   <foaf:nick>MauroDelCorno</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/mdelcorno/ptype/articoli/"/>
@@ -129,7 +129,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Fiorina Capozzi</foaf:name>
   <js:birthDate>1974-06-12</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1244640462725623811/BfkC3t-F_400x400.jpg"/>
   <foaf:nick>fiorinacapozzi</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/fcapozzi/ptype/articoli/"/>
@@ -140,7 +140,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Luisiana Gaita</foaf:name>
   <js:birthDate>1977-09-01</js:birthDate>
   <foaf:gender>F</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://st.ilfattoquotidiano.it/wp-content/img/autori/Luisiana%20Gaita.jpg"/>
   <foaf:nick>luisianagaita</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/luisiana-gaita/"/>
@@ -152,7 +152,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Andrea Romano</foaf:name>
   <js:birthDate>1982-04-03</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://upload.wikimedia.org/wikipedia/commons/3/36/Andrea_Romano_daticamera_2018.jpg"/>
   <foaf:nick>andrearomano</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/andrea-romano/ptype/articoli/"/>
@@ -163,7 +163,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Lorenzo Vendemiale</foaf:name>
   <js:birthDate>1988-03-13</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.roma.it/"</js:federation>
+  <js:federation>https://odg.roma.it/</js:federation>
   <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/1215626531785134080/KrPdDi05_400x400.jpg"/>
   <foaf:nick>lVendemiale</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/lvendemiale/"/>
@@ -174,7 +174,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Alberto Facchinetti</foaf:name>
   <js:birthDate>1982-10-29</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.ordinegiornalisti.veneto.it/#sthash.tDZlJJSY.dpbs"</js:federation>
+  <js:federation>http://www.ordinegiornalisti.veneto.it/#sthash.tDZlJJSY.dpbs</js:federation>
   <foaf:img rdf:resource="https://st.ilfattoquotidiano.it/wp-content/uploads/2020/03/10/Ghirelli1200-330x173.jpg"/>
   <foaf:nick>alberofacchinetti</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/alberto-facchinetti/ptype/articoli/"/>
@@ -185,7 +185,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Davide Turrini</foaf:name>
   <js:birthDate>1975-10-01</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://odg.bo.it/"</js:federation>
+  <js:federation>https://odg.bo.it/</js:federation>
   <foaf:img rdf:resource="https://st.ilfattoquotidiano.it/wp-content/img/autori/DTurrini.jpg"/>
   <foaf:nick>dturrini</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/dturrini/"/>
@@ -196,7 +196,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Cristiano Vella</foaf:name>
   <js:birthDate>1984-06-30</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <js:federation>http://www.odg.campania.it/</js:federation>
   <foaf:img rdf:resource="https://2019.piccolofestivaldellapolitica.it/wp-content/uploads/2019/09/cristiano_vella.jpg"/>
   <foaf:nick>vellacristiano</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/cvella/ptype/articoli/"/>
@@ -207,7 +207,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Mario Catania</foaf:name>
   <js:birthDate>1982-12-16</js:birthDate>
   <foaf:gender>M</foaf:gender>
-  <js:federation>"https://www.odg.mi.it/"</js:federation>
+  <js:federation>https://www.odg.mi.it/</js:federation>
   <foaf:img rdf:resource="https://2019.piccolofestivaldellapolitica.it/wp-content/uploads/2019/09/cristiano_vella.jpg"/>
   <foaf:nick>Rioma82</foaf:nick>
   <foaf:publications rdf:resource="https://www.ilfattoquotidiano.it/blog/cvella/ptype/articoli/"/>
@@ -219,7 +219,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>F. Q.</foaf:name>
   <js:birthDate>-</js:birthDate>
   <foaf:gender>M/F</foaf:gender>
-  <js:federation>"https://www.odg.it/"</js:federation>
+  <js:federation>https://www.odg.it/</js:federation>
   <foaf:img rdf:resource="https://www.streetlib.com/wp-content/uploads/2017/02/logo-fatto-quotidiano.png"/>
   <foaf:nick>redazioneilfatto</foaf:nick>
   <foaf:publications rdf:resource="https://www.streetlib.com/wp-content/uploads/2017/02/logo-fatto-quotidiano.png"/>
@@ -231,7 +231,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <foaf:name>Redazione</foaf:name>
   <js:birthDate>-</js:birthDate>
   <foaf:gender>M/F</foaf:gender>
-  <js:federation>"https://www.odg.it/"</js:federation>
+  <js:federation>https://www.odg.it/</js:federation>
   <foaf:img rdf:resource="./img/ordine.png"/>
   <foaf:nick>redazione</foaf:nick>
   <foaf:publications rdf:resource="https://www.odg.it/"/>
