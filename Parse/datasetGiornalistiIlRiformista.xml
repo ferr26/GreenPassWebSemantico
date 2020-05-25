@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:np="http://mappings.dbpedia.org/server/ontology/classes/Newspaper#"
+xmlns:js="http://mappings.dbpedia.org/server/ontology/classes/Journalist#"
+xmlns:ww="http://mappings.dbpedia.org/server/ontology/classes/WrittenWork#"
+xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+
+<rdf:Description rdf:about="https://it.wikipedia.org/wiki/Paolo_Guzzanti">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Paolo Guzzanti </foaf:name>
+  <js:birthDate>1940-08-01</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"https://odg.roma.it/"</js:federation>
+  <foaf:img rdf:resource="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Paolo_Guzzanti.jpg/168px-Paolo_Guzzanti.jpg"/>
+  <foaf:nick>Paolo_Guzzanti</foaf:nick>
+  <foaf:publications rdf:resource="https://www.libreriauniversitaria.it/libri-autore_guzzanti+paolo-paolo_guzzanti.htm" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://it.wikipedia.org/wiki/Renato_Brunetta">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name> Renato Brunetta </foaf:name>
+  <js:birthDate>1950-05-26</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"https://odg.roma.it/"</js:federation>
+  <foaf:img rdf:resource="https://upload.wikimedia.org/wikipedia/commons/6/61/Renato_Brunetta_daticamera_2018.jpg"/>
+  <foaf:nick>Renato_Brunetta</foaf:nick>
+  <foaf:publications rdf:resource="https://www.renatobrunetta.it/i-miei-libri/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/missemi1633">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Emilia Missione</foaf:name>
+  <js:birthDate>1990-10-19</js:birthDate>
+  <foaf:gender>F</foaf:gender>
+  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <foaf:img rdf:resource="https://www.unisob.na.it/inchiostro/ifoto/01022016111116.jpg"/>
+  <foaf:nick>missemi1633</foaf:nick>
+  <foaf:publications rdf:resource="https://www.ibs.it/grido-della-terra-missione-emilia-libro-fabio-clerici/e/9788890719059" />
+
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/lanzaviviana">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Viviana Lanza</foaf:name>
+  <js:birthDate>1974-05-22</js:birthDate>
+  <foaf:gender>F</foaf:gender>
+  <js:federation>"http://www.odg.campania.it/"</js:federation>
+  <foaf:img rdf:resource="https://pbs.twimg.com/profile_images/689436160175710209/Ymh8df5C_400x400.jpg"/>
+  <foaf:nick>lanzaviviana</foaf:nick>
+  <foaf:publications rdf:resource="https://napoli.ilriformista.it/author/vivianalanza/" />
+</rdf:Description>
+
+<rdf:Description rdf:about="https://twitter.com/aldotorchiaro">
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  <foaf:name>Aldo Torchiaro</foaf:name>
+  <js:birthDate>1974-04-24</js:birthDate>
+  <foaf:gender>M</foaf:gender>
+  <js:federation>"https://odg.roma.it/"</js:federation>
+  <foaf:img rdf:resource="https://www.primaonline.it/wp-content/uploads/2019/06/torchiaro-aldo.jpg"/>
+  <foaf:nick>aldotorchiaro</foaf:nick>
+  <foaf:publications rdf:resource="https://www.mondadoristore.it/libri/Aldo-Torchiaro/aut01141589/" />
+</rdf:Description>
+
+</rdf:RDF>

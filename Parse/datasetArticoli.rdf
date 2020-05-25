@@ -11,7 +11,7 @@
 
                     <rdf:Description rdf:about="https://www.repubblica.it/cronaca/2020/05/04/news/strage_di_duisburg_la_mamma_della_vittima_italiana_giulia_morta_per_la_seconda_volta_-255672838/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Strage della Love Parade, la mamma della vittima italiana: "Giulia morta per la seconda volta"</ww:originalTitle>
+                    <ww:originalTitle>Strage della Love Parade, la mamma della vittima italiana: Giulia morta per la seconda volta</ww:originalTitle>
                     <dc:date>2020-05-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
                     <js:birthName>PAOLO BERIZZI </js:birthName>
@@ -30,7 +30,7 @@
                     
                     <rdf:Description rdf:about="https://www.repubblica.it/vaticano/2020/05/04/news/l_accusa_di_ratzinger_mi_vogliono_silenziare_-255670392/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Vaticano, l'accusa di Ratzinger: "Mi vogliono silenziare"</ww:originalTitle>
+                    <ww:originalTitle>Vaticano, l'accusa di Ratzinger: Mi vogliono silenziare</ww:originalTitle>
                     <dc:date>2020-05-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
                     <js:birthName>PAOLO RODARI </js:birthName>
@@ -36998,7 +36998,7 @@
                     <rdf:Description rdf:about="https://www.ilriformista.it/blog/il-vaccino-contro-la-burocrazia-un-nuovo-patto-stato-cittadini/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il vaccino contro la burocrazia: un nuovo patto Stato–Cittadini</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
+                    <dc:date></dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName> </js:birthName>
                     <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>
@@ -37017,7 +37017,7 @@
                     <rdf:Description rdf:about="https://www.ilriformista.it/cibo-da-asporto-e-polemica-con-de-luca-85293/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Cibo da asporto, è polemica con De Luca</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
+                    <dc:date></dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName> </js:birthName>
                     <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>
@@ -37036,7 +37036,7 @@
                     <rdf:Description rdf:about="https://www.ilriformista.it/il-ricordo-del-1973-la-grande-reazione-degli-italiani-rimasti-senza-benzina-85531/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il ricordo del 1973, la grande reazione degli italiani rimasti senza benzina</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
+                    <dc:date></dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
                     <js:birthName> </js:birthName>
                     <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>

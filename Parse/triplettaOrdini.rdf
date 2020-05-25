@@ -30,7 +30,6 @@
                         <pp:regionLink>https://www.regione.lombardia.it/wps/portal/istituzionale/</pp:regionLink>
                 </pp:PopulatedPlace>
        </or:headquarter>
-
         <or:administrator>
                 <pr:Person>
                         <pr:birthName>Alessandro Galimberti</pr:birthName>
@@ -42,7 +41,6 @@
                 <foaf:phone>026771371</foaf:phone>
         </owl:Thing>  
         </or:service>
-
         </rdf:Description>
 
 
