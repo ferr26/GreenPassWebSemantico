@@ -11,7 +11,7 @@
 
                     <rdf:Description rdf:about="https://www.repubblica.it/cronaca/2020/05/04/news/strage_di_duisburg_la_mamma_della_vittima_italiana_giulia_morta_per_la_seconda_volta_-255672838/">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Strage della Love Parade, la mamma della vittima italiana: Giulia morta per la seconda volta</ww:originalTitle>
+                    <ww:originalTitle>Strage della Love Parade, la mamma della vittima italiana: "Giulia morta per la seconda volta"</ww:originalTitle>
                     <dc:date>2020-05-04</dc:date>
                     <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
                     <js:birthName>PAOLO BERIZZI </js:birthName>
@@ -18963,22 +18963,7 @@
                     </rdf:Description> 
                     
 
-                    
-                    <rdf:Description rdf:about="https://www.lastampa.it/topnews/firme/dentro-la-politica/2020/04/16/news/che-cosa-ci-si-aspetterebbe-dai-sovranisti-italiani-1.38724560">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Che cosa ci si aspetterebbe dai sovranisti italiani</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
+                
                     
 
                     
@@ -19318,22 +19303,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.lastampa.it/topnews/firme/dentro-la-politica/2020/04/09/news/che-cosa-e-andato-in-tilt-dentro-la-cabina-di-regia-1.38697994">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Che cosa è andato in tilt dentro la cabina di regia</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
-                    
+                  
 
                     
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/09/news/conte-alla-bbc-allenteremo-alcune-misure-entro-fine-mese-1.38697959">
@@ -19430,22 +19400,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.lastampa.it/topnews/firme/dentro-la-politica/2020/04/07/news/tra-conte-e-salvini-chi-e-che-rischia-di-piu-1.38689579">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Tra Conte e Salvini chi è che rischia di più</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
-                    <js:birthName>FABIO MARTINI </js:birthName>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
+                  
                     
 
                     
@@ -19657,21 +19612,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.lastampa.it/topnews/firme/dentro-la-politica/2020/04/02/news/coronavirus-perche-l-opposizione-sbaglia-se-punta-tutto-sul-default-1.38668581">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Coronavirus, perché l’opposizione sbaglia se punta tutto sul default</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
+                 
                     
 
                     
@@ -20995,23 +20936,7 @@
                     </rdf:Description> 
                     
 
-                    
-                    <rdf:Description rdf:about="https://www.lastampa.it/topnews/firme/dentro-la-politica/2020/03/13/news/mattarella-alza-la-voce-in-un-europa-da-ripensare-1.38588787">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Mattarella alza la voce in un’Europa da ripensare</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
-                    <js:birthName>UGO MAGRI </js:birthName>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
+                  
                     
 
                     
@@ -21053,22 +20978,6 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.lastampa.it/topnews/firme/dentro-la-politica/2020/03/12/news/ora-ci-aspetta-un-anno-di-democrazia-sospesa-1.38583292">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Ora ci aspetta un anno di democrazia sospesa</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
-                    <js:birthName>ROBERTO PAVANELLO </js:birthName>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
                     
 
                     
@@ -21298,22 +21207,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.lastampa.it/topnews/firme/dentro-la-politica/2020/03/10/news/dalla-ruspa-alla-svolta-responsabile-l-ultima-metamorfosi-del-capitano-1.38574063">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Dalla ruspa alla svolta responsabile, l’ultima metamorfosi del “Capitano”</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
-                    <js:birthName>UGO MAGRI </js:birthName>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
+                    
                     
 
                     
@@ -36273,22 +36167,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.ilriformista.it/le-olimpiadi-di-tokyo-rinviate-ufficialmente-al-2021-per-il-coronavirus-68037/">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Le Olimpiadi di Tokyo rinviate ufficialmente al 2021 per il Coronavirus</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/sport/"></foaf:primaryTopic>
-                    <js:birthName> </js:birthName>
-                    <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Piero_Sansonetti"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
+                   
                     
 
                     
@@ -36653,22 +36532,7 @@
                     
 
                     
-                    <rdf:Description rdf:about="https://www.ilriformista.it/napoli-drone-con-sei-cellulari-spedito-nel-carcere-di-secondigliano-89209/">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Napoli, drone con sei cellulari spedito nel carcere di Secondigliano</ww:originalTitle>
-                    <dc:date>-0-0</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
-                    <js:birthName> </js:birthName>
-                    <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Piero_Sansonetti"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
+                   
                     
 
                     
@@ -36992,6 +36856,7 @@
                     <dc:format>text/html</dc:format>
                     <dc:language>it</dc:language>
                     </rdf:Description> 
+<<<<<<< HEAD
                     
 
                     
@@ -37049,5 +36914,8 @@
                     <dc:format>text/html</dc:format>
                     <dc:language>it</dc:language>
                     </rdf:Description> 
+=======
+                
+>>>>>>> e375ef12532b8596dbd0defec7f11d01eaacd04c
                     
 </rdf:RDF>
