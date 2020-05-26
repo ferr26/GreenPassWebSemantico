@@ -21,7 +21,7 @@ xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 <rdf:Description rdf:about="https://twitter.com/monicaserra_">
   <rdf:type rdf:resource="http://mappings.dbpedia.org/server/ontology/classes/Journalist"/>
-  <js:birthName> SERRA</js:birthName>
+  <js:birthName>MONICA SERRA</js:birthName>
   <js:birthDate>1986-01-10</js:birthDate>
   <foaf:gender>F</foaf:gender>
   <js:federation>https://www.og.puglia.it/</js:federation>
