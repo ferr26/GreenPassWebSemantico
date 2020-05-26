@@ -17599,28 +17599,7 @@
                     <dc:format>text/html</dc:format>
                     <dc:language>it</dc:language>
                     </rdf:Description> 
-                    
-
-                    
-                    <rdf:Description rdf:about="https://www.lastampa.it/cronaca/2020/04/21/news/le-vacanze-estive-non-saranno-quelle-che-ricordiamo-parola-di-brusaferro-1.38743924">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Le vacanze estive non saranno quelle che ricordiamo. Parola di Brusaferro</ww:originalTitle>
-                    <dc:date>2020-04-21</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/cronaca/"></foaf:primaryTopic>
-                    <js:birthName>CARLO BERTINI, ILARIO LOMBARDO</js:birthName>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
-                    
-
-                    
+                             
                     <rdf:Description rdf:about="https://www.lastampa.it/cronaca/2020/04/21/news/trasporti-la-rivoluzione-in-arrivo-1.38743855">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Coronavirus, nei trasporti rivoluzione in arrivo</ww:originalTitle>
@@ -18720,28 +18699,7 @@
                     <dc:format>text/html</dc:format>
                     <dc:language>it</dc:language>
                     </rdf:Description> 
-                    
-
-                    
-                    <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/24/news/pronti-55-miliardi-per-la-crisi-post-virus-atteso-un-crollo-del-pil-dell-8-per-cento-1.38754411">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Pronti 55 miliardi per la crisi post-virus. Atteso un crollo del Pil dell’8 per cento</ww:originalTitle>
-                    <dc:date>2020-04-24</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
-                    <js:birthName>ALESSANDRO BARBERA, GIANLUCA PAOLUCCI</js:birthName>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
-                    
-
-                    
+        
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/23/news/le-anticipazioni-sul-def-scostamento-deficit-da-55-miliardi-1.38753285">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Slitta ancora il Cdm, verso un aumento del deficit di 55 miliardi</ww:originalTitle>
@@ -19927,28 +19885,8 @@
                     <dc:format>text/html</dc:format>
                     <dc:language>it</dc:language>
                     </rdf:Description> 
-                    
-
-                    
-                    <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/29/news/conte-teme-la-rivolta-pronti-5-miliardi-1.38650421">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Conte teme la rivolta, pronti 5 miliardi per chi non ce la fa. Arriveranno attraverso i Comuni</ww:originalTitle>
-                    <dc:date>2020-03-29</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
-                    <js:birthName>CORRADO DE RINALDIS SAPONARO*</js:birthName>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
-                    
-
-                    
+               
+                           
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/03/28/news/governo-allo-studio-buono-spesa-gratis-per-i-bisognosi-1.38649587">
                     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
                     <ww:originalTitle>Il Governo: 4,3 miliardi subito ai sindaci per i bisognosi. Dalla Protezione Civile altri 400 milioni</ww:originalTitle>
@@ -36875,66 +36813,8 @@
                     <dc:format>text/html</dc:format>
                     <dc:language>it</dc:language>
                     </rdf:Description> 
-<<<<<<< HEAD
                     
 
-                    
-                    <rdf:Description rdf:about="https://www.ilriformista.it/blog/il-vaccino-contro-la-burocrazia-un-nuovo-patto-stato-cittadini/">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Il vaccino contro la burocrazia: un nuovo patto Stato–Cittadini</ww:originalTitle>
-                    <dc:date></dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
-                    <js:birthName></js:birthName>
-                    <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Piero_Sansonetti"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
-                    
-
-                    
-                    <rdf:Description rdf:about="https://www.ilriformista.it/cibo-da-asporto-e-polemica-con-de-luca-85293/">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Cibo da asporto, è polemica con De Luca</ww:originalTitle>
-                    <dc:date></dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
-                    <js:birthName></js:birthName>
-                    <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Piero_Sansonetti"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
-                    
-
-                    
-                    <rdf:Description rdf:about="https://www.ilriformista.it/il-ricordo-del-1973-la-grande-reazione-degli-italiani-rimasti-senza-benzina-85531/">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Il ricordo del 1973, la grande reazione degli italiani rimasti senza benzina</ww:originalTitle>
-                    <dc:date></dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/economia/"></foaf:primaryTopic>
-                    <js:birthName></js:birthName>
-                    <np:Newspaper rdf:resource="https://www.ilriformista.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Piero_Sansonetti"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="https://www.informazione-aziende.it/Azienda_ROMEO-EDITORE-SRL"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
-=======
                 
->>>>>>> e375ef12532b8596dbd0defec7f11d01eaacd04c
                     
 </rdf:RDF>
