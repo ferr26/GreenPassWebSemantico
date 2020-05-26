@@ -18716,26 +18716,6 @@
                     <dc:format>text/html</dc:format>
                     <dc:language>it</dc:language>
                     </rdf:Description> 
-                    
-
-                    
-                    <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/22/news/coronavirus-fase-2-si-valuta-la-possibilita-di-ripartenze-gia-dal-27-aprile-1.38749180">
-                    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-                    <ww:originalTitle>Coronavirus, fase 2: si valuta la possibilità di ripartenze già dal 27 aprile</ww:originalTitle>
-                    <dc:date>2020-04-22</dc:date>
-                    <foaf:primaryTopic rdf:resource="http://www.treccani.it/vocabolario/politica/"></foaf:primaryTopic>
-                    <js:birthName>ALFONSO CELOTTO*</js:birthName>
-                    <np:Newspaper rdf:resource="https://www.lastampa.it/"></np:Newspaper>
-                    <np:associateEditor> 
-                    <foaf:Person>
-                        <foaf:name rdf:resource="https://it.wikipedia.org/wiki/Massimo_Giannini"></foaf:name>
-                    </foaf:Person>
-                    </np:associateEditor>
-                    <np:publisher rdf:resource="http://www.gedispa.it/"></np:publisher>
-                    <dc:format>text/html</dc:format>
-                    <dc:language>it</dc:language>
-                    </rdf:Description> 
-                    
 
                     
                     <rdf:Description rdf:about="https://www.lastampa.it/politica/2020/04/22/news/mancati-versamenti-giarrusso-e-acunzo-espulsi-dal-m5s-1.38749056">
